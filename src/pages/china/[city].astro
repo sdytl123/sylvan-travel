@@ -1,0 +1,11 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import CityContent from '../../components/CityContent.astro';
+export async function getStaticPaths() {
+  return ['beijing', 'shanghai', 'xian', 'sanya', 'others'].map(city => ({ params: { city } }));
+}
+const { city } = Astro.params;
+---
+<Layout title={`${city} 旅游攻略 - Sylvan Travel`}>
+    <CityContent city={city} region="china" />
+</Layout>

@@ -1,0 +1,17 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+export async function getStaticPaths() {
+  return [{ params: { city: 'melbourne', route: 'classic-tour' } }]; 
+}
+const { city, route } = Astro.params;
+---
+<Layout title={`${city} - ${route} 详细攻略`}>
+    <div class="city-hero">
+        <h1>{city} | {route}</h1>
+        <p>欢迎来到详细路线页面。这里将展示具体行程、价格和预订方式。</p>
+    </div>
+    <section>
+        <h2 style="color: #e67e22;">行程亮点</h2>
+        <p>1. 深度探索当地文化<br/>2. 专业导游陪同<br/>3. 专属定制用餐</p>
+    </section>
+</Layout>

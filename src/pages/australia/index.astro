@@ -1,0 +1,22 @@
+---
+import Layout from '../../layouts/Layout.astro';
+const cities = ['melbourne', 'sydney', 'adelaide', 'goldcoast', 'others'];
+---
+<Layout title="澳大利亚旅游攻略 - Sylvan Travel">
+    <div class="city-hero">
+        <h1>澳大利亚</h1>
+        <p>从大洋路到悉尼港，探索南半球的自然与都市。</p>
+    </div>
+    <section>
+        <h2>目的地城市</h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+            {cities.map(city => (
+                <a href={`/australia/${city}`} style="text-decoration: none; color: inherit;">
+                    <div class="route-card" style="text-align: center;">
+                        <h3>{city.charAt(0).toUpperCase() + city.slice(1)}</h3>
+                    </div>
+                </a>
+            ))}
+        </div>
+    </section>
+</Layout>

@@ -1,0 +1,23 @@
+---
+const { city, region } = Astro.props;
+// 模拟数据，实际将由 API 填充
+const mockData = {
+  melbourne: { name: '墨尔本', desc: '艺术与咖啡之都' },
+  sydney: { name: '悉尼', desc: '海港大桥与歌剧院' },
+  beijing: { name: '北京', desc: '千年古都，文化之巅' },
+  bali: { name: '巴厘岛', desc: '绝美的海岛度假天堂' },
+};
+const cityInfo = mockData[city] || { name: city, desc: '探索这里的精彩路线' };
+---
+<div class="city-hero">
+    <h1>{cityInfo.name}</h1>
+    <p>{cityInfo.desc}</p>
+</div>
+<section>
+    <h2>推荐路线</h2>
+    <div class="route-card">
+        <h3>经典城市游</h3>
+        <p>时长: 1天 | 报价: 定制</p>
+        <a href={`/${region}/${city}/classic-tour`}>查看详情 $\rightarrow$</a>
+    </div>
+</section>

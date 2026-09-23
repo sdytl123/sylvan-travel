@@ -1,0 +1,22 @@
+---
+const { title } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <style>
+        body { font-family: system-ui, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 2rem; color: #333; }
+        nav { margin-bottom: 2rem; }
+        .city-hero { background: #f4f4f4; padding: 3rem; text-align: center; border-radius: 1rem; margin-bottom: 2rem; }
+        h1 { color: #2c3e50; }
+        .route-card { border: 1px solid #eee; padding: 1rem; margin-bottom: 1rem; border-radius: 0.5rem; }
+    </style>
+</head>
+<body>
+    <nav><a href="/">首页</a></nav>
+    <slot />
+</body>
+</html>
