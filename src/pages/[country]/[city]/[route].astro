@@ -3,24 +3,15 @@ import Layout from '../../../layouts/Layout.astro';
 import { getRoutes } from '../../../lib/googleSheets';
 
 export async function getStaticPaths() {
-  const response = await fetch(`https://docs.google.com/spreadsheets/d/1uBCdye6d8KCL2x7Q2ZJQUhSJqodEsfDc-ex5LsFF-1Y/gviz/tq?tqx=out:csv&sheet=Routes`);
-  const { parse } = await import('csv-parse/sync');
-  const csvText = await response.text();
-  const routes = parse(csvText, { columns: true, skip_empty_lines: true, trim: true });
-
-  return routes.map(route => {
-    // 这里我们需要通过某种方式知道 route 属于哪个 country
-    // 在实际生产中，我们会做一个映射表或在 Routes 表中直接加 country_id
-    // 为了现在能运行，我们先做一个简单的 mock 映射，或者让用户在 Routes 表增加 country_id
-    return {
-      params: { 
-        country: 'australia', // 暂时 hardcode 示例，建议在表格中增加 country_id 字段
-        city: route.city_id, 
-        route: route.route_id 
-      },
-      props: { routeInfo: route }
-    };
-  });
+  const routes = await getRoutes();
+  return routes.map(route => ({
+    params: { 
+      country: 'australia', // Simplified for now
+      city: route.city_id, 
+      route: route.route_id 
+    },
+    props: { routeInfo: route }
+  }));
 }
 
 const { country, city, route } = Astro.params;

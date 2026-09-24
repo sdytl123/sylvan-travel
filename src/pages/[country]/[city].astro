@@ -3,13 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import { getCities, getRoutes } from '../../lib/googleSheets';
 
 export async function getStaticPaths() {
-  const allCities = await getCities(); // 这里需要稍作修改，因为 getCities(id) 过滤了
-  // 为了支持 getStaticPaths，我们需要获取所有城市
-  const response = await fetch(`https://docs.google.com/spreadsheets/d/1uBCdye6d8KCL2x7Q2ZJQUhSJqodEsfDc-ex5LsFF-1Y/gviz/tq?tqx=out:csv&sheet=Cities`);
-  const { parse } = await import('csv-parse/sync');
-  const csvText = await response.text();
-  const cities = parse(csvText, { columns: true, skip_empty_lines: true, trim: true });
-
+  const cities = await getCities(); 
   return cities.map(city => ({
     params: { country: city.country_id, city: city.city_id },
     props: { cityInfo: city }
