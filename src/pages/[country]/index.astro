@@ -1,0 +1,36 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCountries, getCities } from '../../lib/googleSheets';
+
+export async function getStaticPaths() {
+  const countries = await getCountries();
+  return countries.map(country => ({
+    params: { country: country.country_id },
+    props: { countryInfo: country }
+  }));
+}
+
+const { country } = Astro.params;
+const { countryInfo } = Astro.props;
+
+// 获取该国家下所有城市
+const cities = await getCities(country);
+---
+<Layout title={`${countryInfo.country_name} 旅游攻略 - Sylvan Travel`}>
+    <div class="city-hero">
+        <h1>探索 {countryInfo.country_name}</h1>
+        <p>{countryInfo.description}</p>
+    </div>
+    <section>
+        <h2>目的地城市</h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+            {cities.map(city => (
+                <a href={`/${country}/${city.city_id}`} style="text-decoration: none; color: inherit;">
+                    <div class="route-card" style="text-align: center;">
+                        <h3>{city.city_name}</h3>
+                    </div>
+                </a>
+            ))}
+        </div>
+    </section>
+</Layout>
