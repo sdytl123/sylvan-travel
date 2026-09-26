@@ -1,12 +1,12 @@
 ---
-import Layout from '../../../layouts/Layout.astro';
-import { getRoutes } from '../../../lib/googleSheets';
+import Layout from '../../../../layouts/Layout.astro';
+import { getRoutes } from '../../../../lib/googleSheets';
 
 export async function getStaticPaths() {
   const routes = await getRoutes();
   return routes.map(route => ({
     params: { 
-      country: 'australia', // Simplified for now
+      country: 'australia', // simplified for demo, should be linked to data
       city: route.city_id, 
       route: route.route_id 
     },
@@ -18,15 +18,37 @@ const { country, city, route } = Astro.params;
 const { routeInfo } = Astro.props;
 ---
 <Layout title={`${routeInfo.route_name} - Sylvan Travel`}>
-    <div class="city-hero">
-        <h1>{routeInfo.route_name}</h1>
-        <p>城市: {city} | 时长: {routeInfo.duration} | 报价: {routeInfo.price}</p>
-    </div>
-    <section>
-        <h2>行程详情</h2>
-        <p>这里将显示从 "Spots" 表中读取的具体景点内容...</p>
-        <div class="route-card" style="background: #fff9e6; border: 1px solid #ffeaa7;">
-            <strong>温馨提示：</strong> 本线路为定制服务，具体行程请咨询客服。
+    <div class="py-12 px-4 md:px-12 max-w-7xl mx-auto">
+        <div class="text-center mb-16">
+            <h1 class="text-4xl md:text-6xl font-bold mb-6 text-sylvan-blue tracking-tight">
+                {routeInfo.route_name}
+            </h1>
+            <p class="text-lg md:text-xl opacity-70 max-w-2xl mx-auto leading-relaxed">
+                目的地: {city} | 时长: {routeInfo.duration} | 报价: {routeInfo.price}
+            </p>
+            <div class="w-24 h-1.5 bg-sylvan-gold mx-auto mt-8 rounded-full"></div>
         </div>
-    </section>
+
+        <section class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
+            <div class="rounded-3xl overflow-hidden shadow-2xl">
+                <img src={`https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/${route.route_id}.jpg`} 
+                     class="w-full h-full object-cover" 
+                     onerror="this.src='https://placehold.co/800x600?text=Route+Image'" />
+            </div>
+            <div class="space-y-8">
+                <div class="bg-base-200 p-8 rounded-2xl border-l-4 border-sylvan-gold">
+                    <h2 class="text-2xl font-bold mb-4 text-sylvan-blue">行程概览</h2>
+                    <p class="text-lg opacity-80 leading-relaxed">
+                        这里将展示从 "Spots" 表中读取的具体景点内容。每一处景点都经过精心挑选，旨在为您提供最纯粹的当地体验。
+                    </p>
+                </div>
+                <div class="flex flex-col gap-4">
+                    <button class="btn btn-primary bg-sylvan-gold hover:bg-yellow-600 border-none text-white px-8 py-4 rounded-full text-lg shadow-lg transition-all hover:scale-105">
+                        立即预约此路线
+                    </button>
+                    <a href={`/countries/${country}`} class="btn btn-ghost text-sylvan-blue">返回国家页</a>
+                </div>
+            </div>
+        </section>
+    </div>
 </Layout>

@@ -1,6 +1,6 @@
 ---
-import Layout from '../../layouts/Layout.astro';
-import { getCities, getRoutes } from '../../lib/googleSheets';
+import Layout from '../../../layouts/Layout.astro';
+import { getCities, getRoutes } from '../../../lib/googleSheets';
 
 export async function getStaticPaths() {
   const cities = await getCities(); 
@@ -15,22 +15,42 @@ const { cityInfo } = Astro.props;
 const routes = await getRoutes(city);
 ---
 <Layout title={`${cityInfo.city_name} 旅游攻略 - Sylvan Travel`}>
-    <div class="city-hero">
-        <h1>探索 {cityInfo.city_name}</h1>
-        <p>{cityInfo.description}</p>
-    </div>
-    <section>
-        <h2>推荐路线</h2>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-            {routes.map(route => (
-                <a href={`/${country}/${city}/${route.route_id}`} style="text-decoration: none; color: inherit;">
-                    <div class="route-card">
-                        <h3>{route.route_name}</h3>
-                        <p>时长: {route.duration} | 报价: {route.price}</p>
-                        <span style="color: #3498db; font-size: 0.9rem;">查看详情 $\rightarrow$</span>
-                    </div>
-                </a>
-            ))}
+    <div class="py-12 px-4 md:px-12 max-w-7xl mx-auto">
+        <div class="text-center mb-16">
+            <h1 class="text-4xl md:text-6xl font-bold mb-6 text-sylvan-blue tracking-tight">
+                探索 {cityInfo.city_name}
+            </h1>
+            <p class="text-lg md:text-xl opacity-70 max-w-2xl mx-auto leading-relaxed">
+                {cityInfo.description || '发现这里的隐藏瑰宝，开启您的专属定制之旅。'}
+            </p>
+            <div class="w-24 h-1.5 bg-sylvan-gold mx-auto mt-8 rounded-full"></div>
         </div>
-    </section>
+
+        <section>
+            <div class="flex items-center gap-4 mb-10">
+                <h2 class="text-2xl font-bold text-sylvan-blue">推荐路线</h2>
+                <div class="flex-grow h-px bg-base-300"></div>
+            </div>
+            
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                {routes.map(route => (
+                    <a href={`/${country}/${city}/${route.route_id}`} class="group relative overflow-hidden rounded-2xl shadow-md transition-all duration-500 hover:-translate-y-2 hover:shadow-xl bg-base-100">
+                        <div class="aspect-video overflow-hidden bg-base-300">
+                            <img src={`https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/${route.route_id}.jpg`} 
+                                 class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" 
+                                 alt={route.route_name}
+                                 onerror="this.src='https://placehold.co/600x400?text=${route.route_name}'" />
+                        </div>
+                        <div class="p-6">
+                            <h3 class="text-xl font-bold mb-2 group-hover:text-sylvan-blue transition-colors">{route.route_name}</h3>
+                            <p class="text-sm opacity-60 line-clamp-2 mb-4">时长: {route.duration} | 报价: {route.price}</p>
+                            <span class="text-sylvan-gold font-semibold text-sm flex items-center gap-1">
+                                查看详情 <span class="transition-transform group-hover:translate-x-1">→</span>
+                            </span>
+                        </div>
+                    </a>
+                ))}
+            </div>
+        </section>
+    </div>
 </Layout>
