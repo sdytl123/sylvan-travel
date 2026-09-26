@@ -2,15 +2,20 @@
 import Layout from '../layouts/Layout.astro';
 import { getSheetData } from '../lib/googleSheets';
 
-// 从 Google Sheets 获取真实数据
-// 假设首页服务数据存储在名为 'HomeServices' 的工作表中
-// 如果工作表名称不同，请根据实际名称修改 'HomeServices'
-const sheetData = await getSheetData('HomeServices');
+// 直接读取名为 'index' 的工作表
+let sheetData = await getSheetData('index');
 
-// 映射数据到首页所需的格式
-const services = sheetData.map((item, index) => {
-  // 根据您的要求，使用 index_name1 和 description1
-  // 图片列名假设为 'image_url'，请根据表格实际列名调整
+// 如果 index 为空，提供一套保底的 Mock 数据
+const fallbackServices = [
+  { index_name1: '目的地', description1: '全球精选城市指南', image_url: 'https://images.unsplash.com/photo-1488646953014-bcdebc4e5?auto=format&fit=crop&w=800&q=80' },
+  { index_name1: '活动', description1: '本地深度体验', image_url: 'https://images.unsplash.com/photo-1533174072545-7a40?auto=format&fit=crop&w=800&q=80' },
+  { index_name1: '交通出行', description1: '私人定制交通', image_url: 'https://images.unsplash.com/photo-1449965409?auto=format&fit=crop&w=800&q=80' },
+  { index_name1: '地陪翻译', description1: '专业多语种管家', image_url: 'https://images.unsplash.com/photo-1521737711881-3ed7a5bc4e5?auto=format&fit=crop&w=800&q=80' },
+];
+
+const finalData = (sheetData && sheetData.length > 0) ? sheetData : fallbackServices;
+
+const services = finalData.map((item, index) => {
   const pathMap = {
     '目的地': '/countries/',
     '活动': '/activities',
@@ -18,12 +23,15 @@ const services = sheetData.map((item, index) => {
     '地陪翻译': '/guide'
   };
 
+  // 匹配图片列名 (优先 image_url，然后是 图片, Image, img)
+  const imageUrl = item.image_url || item.图片 || item.Image || item.img || '';
+
   return {
     id: item.id || index,
-    index_name1: item.index_name1 || '未知服务', 
-    description1: item.description1 || '暂无描述', 
-    path: pathMap[item.index_name1] || '#', 
-    img: item.image_url || 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=80' 
+    index_name1: item.index_name1 || item.标题 || '未知服务', 
+    description1: item.description1 || item.描述 || '暂无描述', 
+    path: pathMap[item.index_name1] || pathMap[item.标题] || '#', 
+    img: imageUrl || 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=80' 
   };
 });
 ---
