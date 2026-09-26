@@ -1,10 +1,86 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import PageHeader from '../components/PageHeader.astro';
 ---
-<Layout title="地陪翻译 - Sylvan Travel">
-    <div class="py-24 px-4 text-center">
-        <h1 class="text-4xl font-bold text-sylvan-blue mb-4">专业地陪翻译</h1>
-        <p class="text-lg opacity-70">专业多语种当地管家，为您打破语言障碍...</p>
-        <a href="/" class="btn btn-primary mt-8 bg-sylvan-gold border-none text-white">返回首页</a>
-    </div>,
+<Layout title="专业地陪翻译 - Sylvan Travel">
+    <PageHeader 
+        title="专业地陪翻译" 
+        subtitle="打破语言藩篱，让您像当地人一样深度体验这座城市"
+        bgImage="https://images.unsplash.com/photo-1436491865333-76046997489b?auto=format&fit=crop&w=1920&q=80"
+        breadcrumbs={[
+            { label: '首页', href: '/' },
+            { label: '地陪翻译', href: '/guide' }
+        ]}
+    />
+
+    <section class="py-24 px-4 max-w-7xl mx-auto">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 mb-24">
+            <!-- Feature 1 -->
+            <div class="group p-8 rounded-3xl bg-base-200 border border-transparent hover:border-sylvan-gold transition-all duration-300">
+                <div class="text-4xl mb-6 group-hover:scale-110 transition-transform duration-300">💬</div>
+                <h3 class="text-2xl font-bold text-sylvan-blue mb-4">语言桥梁</h3>
+                <p class="text-base-content/70 mb-6 leading-relaxed">
+                    不仅是翻译，更是您与当地文化之间的桥梁。精准地传递您的需求，深度地解析当地风情。
+                </p>
+                <ul class="space-y-3 mb-8 text-sm opacity-80">
+                    <li class="flex items-center gap-2">✨ 专业多语种同步翻译</li>
+                    <li class="flex items-center gap-2">✨ 复杂场景沟通无障碍</li>
+                    <li class="flex items-center gap-2">✨ 文化差异精准引导</li>
+                </ul>
+                <a href="/quote" class="btn btn-ghost btn-sm text-sylvan-gold hover:bg-sylvan-gold hover:text-white">预约翻译 $\rightarrow$</a>
+            </div>
+
+            <!-- Feature 2 -->
+            <div class="group p-8 rounded-3xl bg-base-200 border border-transparent hover:border-sylvan-gold transition-all duration-300">
+                <div class="text-4xl mb-6 group-hover:scale-110 transition-transform duration-300">🗺️</div>
+                <h3 class="text-2xl font-bold text-sylvan-blue mb-4">当地管家</h3>
+                <p class="text-base-content/70 mb-6 leading-relaxed">
+                    深谙城市每一条街道的秘密。为您处理所有琐碎事务，让您在旅途中只负责享受。
+                </p>
+                <ul class="space-y-3 mb-8 text-sm opacity-80">
+                    <li class="flex items-center gap-2">✨ 实时预订与行程调整</li>
+                    <li class="flex items-center gap-2">✨ 当地突发状况快速解决</li>
+                    <li class="flex items-center gap-2">✨ 私密行程全程守护</li>
+                </ul>
+                <a href="/quote" class="btn btn-ghost btn-sm text-sylvan-gold hover:bg-sylvan-gold hover:text-white">预约管家 $\rightarrow$</a>
+            </div>
+
+            <!-- Feature 3 -->
+            <div class="group p-8 rounded-3xl bg-base-200 border border-transparent hover:border-sylvan-gold transition-all duration-300">
+                <div class="text-4xl mb-6 group-hover:scale-110 transition-transform duration-300">🏛️</div>
+                <h3 class="text-2xl font-bold text-sylvan-blue mb-4">文化解读</h3>
+                <p class="text-base-content/70 mb-6 leading-relaxed">
+                    拒绝枯燥的导游词。为您提供有深度的文化解读，让每一次游览都变成一场知识的探索。
+                </p>
+                <ul class="space-y-3 mb-8 text-sm opacity-80">
+                    <li class="flex items-center gap-2">✨ 历史建筑深度剖析</li>
+                    <li class="flex items-center gap-2">✨ 当地民俗文化讲解</li>
+                    <li class="flex items-center gap-2">✨ 艺术作品专业点评</li>
+                </ul>
+                <a href="/quote" class="btn btn-ghost btn-sm text-sylvan-gold hover:bg-sylvan-gold hover:text-white">定制讲解 $\rightarrow$</a>
+            </div>
+        </div>
+
+        <!-- Trust Banner -->
+        <div class="bg-sylvan-blue text-white rounded-3xl p-12 text-center relative overflow-hidden">
+            <div class="absolute top-0 left-0 w-32 h-32 bg-sylvan-gold opacity-20 blur-3xl rounded-full -translate-x-16 -translate-y-16"></div>
+            <div class="relative z-10">
+                <h2 class="text-3xl font-bold mb-6"> Sylvan 的地陪标准</h2>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
+                    <div class="flex flex-col items-center">
+                        <div class="text-2xl mb-2">🎓</div>
+                        <p class="text-sm opacity-80">高学历背景，文化底蕴深厚</p>
+                    </div>
+                    <div class="flex flex-col items-center">
+                        <div class="text-2xl mb-2">🤫</div>
+                        <p class="text-sm opacity-80">职业操守，绝对保护隐私</p>
+                    </div>
+                    <div class="flex flex-col items-center">
+                        <div class="text-2xl mb-2">💖</div>
+                        <p class="text-sm opacity-80">热爱生活，充满热情与耐心</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </Layout>

@@ -1,10 +1,86 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import PageHeader from '../components/PageHeader.astro';
 ---
-<Layout title="交通出行 - Sylvan Travel">
-    <div class="py-24 px-4 text-center">
-        <h1 class="text-4xl font-bold text-sylvan-blue mb-4">接送与出行服务</h1>
-        <p class="text-lg opacity-70">私人定制交通方案，让您的旅程无缝衔接...</p>
-        <a href="/" class="btn btn-primary mt-8 bg-sylvan-gold border-none text-white">返回首页</a>
-    </div>
+<Layout title="私人定制交通 - Sylvan Travel">
+    <PageHeader 
+        title="私人定制交通" 
+        subtitle="从机场接机到城市穿梭，为您提供全程无忧的至臻出行体验"
+        bgImage="https://images.unsplash.com/photo-1544620347-37f2d5034e8c?auto=format&fit=crop&w=1920&q=80"
+        breadcrumbs={[
+            { label: '首页', href: '/' },
+            { label: '交通出行', href: '/transport' }
+        ]}
+    />
+
+    <section class="py-24 px-4 max-w-7xl mx-auto">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 mb-24">
+            <!-- Feature 1 -->
+            <div class="group p-8 rounded-3xl bg-base-200 border border-transparent hover:border-sylvan-gold transition-all duration-300">
+                <div class="text-4xl mb-6 group-hover:scale-110 transition-transform duration-300">🛫</div>
+                <h3 class="text-2xl font-bold text-sylvan-blue mb-4">至臻接送</h3>
+                <p class="text-base-content/70 mb-6 leading-relaxed">
+                    专业的接机管家，在抵达大厅迎接您的那一刻起，为您开启一段毫无压力、极致舒适的旅程。
+                </p>
+                <ul class="space-y-3 mb-8 text-sm opacity-80">
+                    <li class="flex items-center gap-2">✨ 实时航班追踪，准时抵达</li>
+                    <li class="flex items-center gap-2">✨ 豪华车型选择，满足不同需求</li>
+                    <li class="flex items-center gap-2">✨ 行李全方位协助处理</li>
+                </ul>
+                <a href="/quote" class="btn btn-ghost btn-sm text-sylvan-gold hover:bg-sylvan-gold hover:text-white">预约接送 $\rightarrow$</a>
+            </div>
+
+            <!-- Feature 2 -->
+            <div class="group p-8 rounded-3xl bg-base-200 border border-transparent hover:border-sylvan-gold transition-all duration-300">
+                <div class="text-4xl mb-6 group-hover:scale-110 transition-transform duration-300">🏙️</div>
+                <h3 class="text-2xl font-bold text-sylvan-blue mb-4">城市穿梭</h3>
+                <p class="text-base-content/70 mb-6 leading-relaxed">
+                    无需等待出租车，无需研究复杂交通。您的专属司机将根据您的行程，提供最快捷的穿梭方案。
+                </p>
+                <ul class="space-y-3 mb-8 text-sm opacity-80">
+                    <li class="flex items-center gap-2">✨ 定制点对点接送服务</li>
+                    <li class="flex items-center gap-2">✨ 按小时灵活包车方案</li>
+                    <li class="flex items-center gap-2">✨ 熟悉当地快捷路径，避开拥堵</li>
+                </ul>
+                <a href="/quote" class="btn btn-ghost btn-sm text-sylvan-gold hover:bg-sylvan-gold hover:text-white">定制方案 $\rightarrow$</a>
+            </div>
+
+            <!-- Feature 3 -->
+            <div class="group p-8 rounded-3xl bg-base-200 border border-transparent hover:border-sylvan-gold transition-all duration-300">
+                <div class="text-4xl mb-6 group-hover:scale-110 transition-transform duration-300">🛣️</div>
+                <h3 class="text-2xl font-bold text-sylvan-blue mb-4">跨城之旅</h3>
+                <p class="text-base-content/70 mb-6 leading-relaxed">
+                    从一个城市到另一个城市的优雅跨越。我们提供长途舒适车型，让您在欣赏窗外风景的同时享受静谧空间。
+                </p>
+                <ul class="space-y-3 mb-8 text-sm opacity-80">
+                    <li class="flex items-center gap-2">✨ 跨城市长途舒适接送</li>
+                    <li class="flex items-center gap-2">✨ 中途可定制灵活停靠点</li>
+                    <li class="flex items-center gap-2">✨ 专业长途驾驶经验，安全至上</li>
+                </ul>
+                <a href="/quote" class="btn btn-ghost btn-sm text-sylvan-gold hover:bg-sylvan-gold hover:text-white">规划路线 $\rightarrow$</a>
+            </div>
+        </div>
+
+        <!-- Trust Banner -->
+        <div class="bg-sylvan-blue text-white rounded-3xl p-12 text-center relative overflow-hidden">
+            <div class="absolute top-0 left-0 w-32 h-32 bg-sylvan-gold opacity-20 blur-3xl rounded-full -translate-x-16 -translate-y-16"></div>
+            <div class="relative z-10">
+                <h2 class="text-3xl font-bold mb-6"> Sylvan 出行的承诺</h2>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
+                    <div class="flex flex-col items-center">
+                        <div class="text-2xl mb-2">🛡️</div>
+                        <p class="text-sm opacity-80">全额商业保险，出行绝对安全</p>
+                    </div>
+                    <div class="flex flex-col items-center">
+                        <div class="text-2xl mb-2">⭐</div>
+                        <p class="text-sm opacity-80">严选司机，礼貌专业且低调</p>
+                    </div>
+                    <div class="flex flex-col items-center">
+                        <div class="text-2xl mb-2">🕒</div>
+                        <p class="text-sm opacity-80">准时守信，绝不让您在路边等待</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </Layout>

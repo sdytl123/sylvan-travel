@@ -1,0 +1,40 @@
+---
+interface Props {
+    title: string;
+    subtitle?: string;
+    bgImage?: string;
+    breadcrumbs?: { label: string, href: string }[];
+}
+
+const { title, subtitle, bgImage = "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1920&q=80", breadcrumbs = [] } = Astro.props;
+---
+
+<section class="relative h-[40vh] md:h-[50vh] flex items-center justify-center text-center text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+        <img src={bgImage} class="w-full h-full object-cover" alt={title} />
+        <div class="absolute inset-0 bg-sylvan-blue/60 backdrop-blur-[2px]"></div>
+    </div>
+    
+    <div class="relative z-10 px-4 max-w-4xl">
+        <!-- Breadcrumbs -->
+        {breadcrumbs.length > 0 && (
+            <nav class="flex justify-center items-center gap-2 text-sm mb-6 opacity-80 font-light">
+                {breadcrumbs.map((crumb, index) => (
+                    <div class="flex items-center gap-2">
+                        <a href={crumb.href} class="hover:text-sylvan-gold transition-colors">{crumb.label}</a>
+                        {index < breadcrumbs.length - 1 && <span>/</span>}
+                    </div>
+                ))}
+            </nav>
+        )}
+        
+        <h1 class="text-4xl md:text-6xl font-bold mb-4 tracking-tight">
+            {title}
+        </h1>
+        {subtitle && (
+            <p class="text-lg md:text-xl opacity-90 font-light max-w-2xl mx-auto">
+                {subtitle}
+            </p>
+        )}
+    </div>
+</section>

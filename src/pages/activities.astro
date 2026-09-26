@@ -1,10 +1,86 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import PageHeader from '../components/PageHeader.astro';
 ---
-<Layout title="定制活动 - Sylvan Travel">
-    <div class="py-24 px-4 text-center">
-        <h1 class="text-4xl font-bold text-sylvan-blue mb-4">深度体验活动</h1>
-        <p class="text-lg opacity-70">我们正在为您筹备一系列当地深度体验项目...</p>
-        <a href="/" class="btn btn-primary mt-8 bg-sylvan-gold border-none text-white">返回首页</a>
-    </div>
+<Layout title="深度体验活动 - Sylvan Travel">
+    <PageHeader 
+        title="深度体验活动" 
+        subtitle="挖掘城市隐藏的角落，定制属于您的在地生活方式"
+        bgImage="https://images.unsplash.com/photo-1527631746610-bca0f7e9553a?auto=format&fit=crop&w=1920&q=80"
+        breadcrumbs={[
+            { label: '首页', href: '/' },
+            { label: '定制活动', href: '/activities' }
+        ]}
+    />
+
+    <section class="py-24 px-4 max-w-7xl mx-auto">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 mb-24">
+            <!-- Feature 1 -->
+            <div class="group p-8 rounded-3xl bg-base-200 border border-transparent hover:border-sylvan-gold transition-all duration-300">
+                <div class="text-4xl mb-6 group-hover:scale-110 transition-transform duration-300">🎨</div>
+                <h3 class="text-2xl font-bold text-sylvan-blue mb-4">艺术探索</h3>
+                <p class="text-base-content/70 mb-6 leading-relaxed">
+                    带您走进当地的私人画廊、地下艺术空间，与艺术家面对面交流，感受城市的视觉灵魂。
+                </p>
+                <ul class="space-y-3 mb-8 text-sm opacity-80">
+                    <li class="flex items-center gap-2">✨ 私人博物馆导览</li>
+                    <li class="flex items-center gap-2">✨ 涂鸦艺术工作坊</li>
+                    <li class="flex items-center gap-2">✨ 城市建筑摄影之旅</li>
+                </ul>
+                <a href="/quote" class="btn btn-ghost btn-sm text-sylvan-gold hover:bg-sylvan-gold hover:text-white">立即定制 $\rightarrow$</a>
+            </div>
+
+            <!-- Feature 2 -->
+            <div class="group p-8 rounded-3xl bg-base-200 border border-transparent hover:border-sylvan-gold transition-all duration-300">
+                <div class="text-4xl mb-6 group-hover:scale-110 transition-transform duration-300">☕</div>
+                <h3 class="text-2xl font-bold text-sylvan-blue mb-4">美食鉴赏</h3>
+                <p class="text-base-content/70 mb-6 leading-relaxed">
+                    避开游客陷阱，探索当地人心中真正的“宝藏店铺”，从米其林餐厅到隐秘的街头美食。
+                </p>
+                <ul class="space-y-3 mb-8 text-sm opacity-80">
+                    <li class="flex items-center gap-2">✨ 隐藏咖啡店地图</li>
+                    <li class="flex items-center gap-2">✨ 当地食材市场之旅</li>
+                    <li class="flex items-center gap-2">✨ 传统手工美食制作</li>
+                </ul>
+                <a href="/quote" class="btn btn-ghost btn-sm text-sylvan-gold hover:bg-sylvan-gold hover:text-white">立即定制 $\rightarrow$</a>
+            </div>
+
+            <!-- Feature 3 -->
+            <div class="group p-8 rounded-3xl bg-base-200 border border-transparent hover:border-sylvan-gold transition-all duration-300">
+                <div class="text-4xl mb-6 group-hover:scale-110 transition-transform duration-300">🌿</div>
+                <h3 class="text-2xl font-bold text-sylvan-blue mb-4">自然疗愈</h3>
+                <p class="text-base-content/70 mb-6 leading-relaxed">
+                    远离喧嚣，前往城市周边的自然秘境，体验冥想、徒步或私密野餐，找回内心的平静。
+                </p>
+                <ul class="space-y-3 mb-8 text-sm opacity-80">
+                    <li class="flex items-center gap-2">✨ 私密森林野餐</li>
+                    <li class="flex items-center gap-2">✨ 晨曦山顶徒步</li>
+                    <li class="flex items-center gap-2">✨ 海岸线骑行之旅</li>
+                </ul>
+                <a href="/quote" class="btn btn-ghost btn-sm text-sylvan-gold hover:bg-sylvan-gold hover:text-white">立即定制 $\rightarrow$</a>
+            </div>
+        </div>
+
+        <!-- Trust Banner -->
+        <div class="bg-sylvan-blue text-white rounded-3xl p-12 text-center relative overflow-hidden">
+            <div class="absolute top-0 left-0 w-32 h-32 bg-sylvan-gold opacity-20 blur-3xl rounded-full -translate-x-16 -translate-y-16"></div>
+            <div class="relative z-10">
+                <h2 class="text-3xl font-bold mb-6">为什么选择 Sylvan 的定制活动？</h2>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
+                    <div class="flex flex-col items-center">
+                        <div class="text-2xl mb-2">💎</div>
+                        <p class="text-sm opacity-80">绝不走大众路线，只推荐私藏景点</p>
+                    </div>
+                    <div class="flex flex-col items-center">
+                        <div class="text-2xl mb-2">🤝</div>
+                        <p class="text-sm opacity-80">当地资深专家陪同，深度挖掘故事</p>
+                    </div>
+                    <div class="flex flex-col items-center">
+                        <div class="text-2xl mb-2">🕒</div>
+                        <p class="text-sm opacity-80">灵活时间安排，完全跟随您的步调</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </Layout>

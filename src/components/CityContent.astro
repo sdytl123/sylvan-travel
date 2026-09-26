@@ -1,23 +1,115 @@
 ---
+interface Props {
+    city: string;
+    region: string;
+}
+
 const { city, region } = Astro.props;
-// 模拟数据，实际将由 API 填充
-const mockData = {
-  melbourne: { name: '墨尔本', desc: '艺术与咖啡之都' },
-  sydney: { name: '悉尼', desc: '海港大桥与歌剧院' },
-  beijing: { name: '北京', desc: '千年古都，文化之巅' },
-  bali: { name: '巴厘岛', desc: '绝美的海岛度假天堂' },
+
+// 模拟数据，实际将由 API/Sheets 填充
+const mockCityData = {
+    melbourne: {
+        name: '墨尔本',
+        tagline: '艺术与咖啡的灵魂之都',
+        description: '从南半球的文化艺术中心到大洋路的壮丽海岸线，墨尔本将都市的精致与自然的原始完美结合。',
+        highlights: ['顶级咖啡文化', '涂鸦巷艺术', '大洋路自驾', '菲利普岛企鹅'],
+        image: 'https://images.unsplash.com/photo-1506973035872-a4bc72b5ef95?auto=format&fit=crop&w=1200&q=80'
+    },
+    sydney: {
+        name: '悉尼',
+        tagline: '海港之光，现代都市的典范',
+        description: '悉尼歌剧院的优雅与邦迪海滩的活力共存，这里是澳大利亚最耀眼的明珠。',
+        highlights: ['歌剧院之夜', '邦迪海滩漫步', '蓝山自然徒步', '达令港晚餐'],
+        image: 'https://images.unsplash.com/photo-1506973035872-a4bc72b5ef95?auto=format&fit=crop&w=1200&q=80'
+    }
 };
-const cityInfo = mockData[city] || { name: city, desc: '探索这里的精彩路线' };
+
+const cityInfo = mockCityData[city] || {
+    name: city,
+    tagline: '探索这里的独特魅力',
+    description: '为您定制专属的当地深度游路线，挖掘不为人知的城市秘境。',
+    highlights: ['定制路线', '地陪服务', '舒适出行', '深度体验'],
+    image: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80'
+};
+
+const recommendedRoutes = [
+    {
+        title: '经典城市初见',
+        duration: '1-2 天',
+        tags: ['地标打卡', '文化之旅'],
+        desc: '涵盖城市最核心的标志性景点，最快速度建立对这座城市的认知。',
+        price: '定制报价'
+    },
+    {
+        title: '文艺生活深度游',
+        duration: '3 天',
+        tags: ['咖啡店', '艺术画廊', '小众街区'],
+        desc: '避开人群，走进当地人的生活，探索隐藏在巷弄里的艺术与美食。',
+        price: '定制报价'
+    },
+    {
+        title: '周边自然探索',
+        duration: '2 天',
+        tags: ['自然风光', '自驾', '度假'],
+        desc: '离开喧嚣的市区，前往周边自然景区，感受纯净的自然之美。',
+        price: '定制报价'
+    }
+];
 ---
-<div class="city-hero">
-    <h1>{cityInfo.name}</h1>
-    <p>{cityInfo.desc}</p>
-</div>
-<section>
-    <h2>推荐路线</h2>
-    <div class="route-card">
-        <h3>经典城市游</h3>
-        <p>时长: 1天 | 报价: 定制</p>
-        <a href={`/${region}/${city}/classic-tour`}>查看详情 $\rightarrow$</a>
+
+<div class="max-w-7xl mx-auto px-4 py-12">
+    <!-- City Introduction -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-24 items-center">
+        <div class="order-2 lg:order-1">
+            <div class="flex gap-2 mb-4">
+                {cityInfo.highlights.map(h => (
+                    <span class="px-3 py-1 bg-sylvan-blue/10 text-sylvan-blue text-xs font-medium rounded-full border border-sylvan-blue/20">
+                        #{h}
+                    </span>
+                ))}
+            </div>
+            <h2 class="text-4xl font-bold text-sylvan-blue mb-4">{cityInfo.name}</h2>
+            <p class="text-xl text-sylvan-gold font-medium mb-6 italic">"{cityInfo.tagline}"</p>
+            <p class="text-lg text-base-content/70 leading-relaxed mb-8">
+                {cityInfo.description}
+            </p>
+            <a href="/quote" class="btn btn-primary bg-sylvan-gold hover:bg-yellow-600 border-none text-white px-8">
+                定制{cityInfo.name}行程 $\rightarrow$
+            </a>
+        </div>
+        <div class="order-1 lg:order-2">
+            <div class="relative group">
+                <div class="absolute -inset-4 bg-sylvan-gold/20 rounded-3xl blur-lg group-hover:bg-sylvan-gold/30 transition-all"></div>
+                <img src={cityInfo.image} alt={cityInfo.name} class="relative rounded-2xl shadow-2xl object-cover w-full h-[400px]" />
+            </div>
+        </div>
     </div>
-</section>
+
+    <!-- Routes Section -->
+    <section>
+        <div class="flex items-center gap-4 mb-12">
+            <h3 class="text-3xl font-bold text-sylvan-blue">推荐路线</h3>
+            <div class="h-px flex-grow bg-base-300"></div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {recommendedRoutes.map(route => (
+                <div class="bg-base-200 p-8 rounded-2xl border border-transparent hover:border-sylvan-gold transition-all duration-300 group hover:shadow-xl">
+                    <div class="flex gap-2 mb-4">
+                        {route.tags.map(tag => (
+                            <span class="text-[10px] uppercase tracking-wider font-bold text-sylvan-gold">{tag}</span>
+                        ))}
+                    </div>
+                    <h4 class="text-2xl font-bold mb-3 text-sylvan-blue group-hover:text-sylvan-gold transition-colors">{route.title}</h4>
+                    <p class="text-base-content/60 mb-6 line-clamp-3 leading-relaxed">
+                        {route.desc}
+                    </p>
+                    <div class="flex items-center justify-between mt-auto pt-6 border-t border-base-300">
+                        <span class="text-sm font-medium opacity-70">⏱️ {route.duration}</span>
+                        <span class="text-sm font-bold text-sylvan-blue">{route.price}</span>
+                    </div>
+                </div>
+            ))}
+        </div>
+    </section>
+</div>
