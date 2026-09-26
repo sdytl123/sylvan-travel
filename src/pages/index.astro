@@ -2,14 +2,12 @@
 import Layout from '../layouts/Layout.astro';
 import { getSheetData } from '../lib/googleSheets';
 
-// 读取名为 'index' 的工作表
 let sheetData = await getSheetData('index');
 
-// 保底 Mock 数据
 const fallbackServices = [
   { index_name1: '目的地', description1: '全球精选城市指南，定制专属路线，为您开启不为人知的私藏景点。', image_url: 'https://images.unsplash.com/photo-1488646953014-bcdebc4e5?auto=format&fit=crop&w=800&q=80' },
   { index_name1: '活动', description1: '本地深度体验，挖掘城市隐藏角落，让每一次旅程都成为绝美故事。', image_url: 'https://images.unsplash.com/photo-1533174072545-7a40?auto=format&fit=crop&w=800&q=80' },
-  { index_//交通出行', description1: '私人定制交通，接送无忧全程陪同，让您在极致舒适中优雅穿梭。', image_url: 'https://images.unsplash.com/photo-1449965409?auto=format&fit=crop&w=800&q=80' },
+  { index_name1: '交通出行', description1: '私人定制交通，接送无忧全程陪同，让您在极致舒适中优雅穿梭。', image_url: 'https://images.unsplash.com/photo-1449965409?auto=format&fit=crop&w=800&q=80' },
   { index_name1: '地陪翻译', description1: '专业多语种管家，沟通无碍畅游，打破语言藩篱体验在地生活。', image_url: 'https://images.unsplash.com/photo-1521737711881-3ed7a5bc4e5?auto=format&fit=crop&w=800&q=80' },
 ];
 
@@ -68,8 +66,8 @@ const services = finalData.map((item, index) => {
                 <a href={service.path} class="group flex flex-col md:flex-row items-center gap-12 md:gap-20 transition-all duration-500">
                     {index % 2 === 0 ? (
                         <>
-                            <!-- Image Left, Text Right -->
-                            <div class="w-full md:w-1/2 h-[300px] md:h-[380px] overflow-hidden rounded-3xl shadow-xl relative shrink-0">
+                            <!-- IMAGE CONTAINER: 4:3 Ratio + Priority Top Crop -->
+                            <div class="w-full md:w-1/2 aspect-[4/3] overflow-hidden rounded-3xl shadow-2xl relative shrink-0">
                                 <img src={service.img} 
                                      class="absolute inset-0 w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-110" 
                                      alt={service.index_name1} />
@@ -85,7 +83,6 @@ const services = finalData.map((item, index) => {
                         </>
                     ) : (
                         <>
-                            <!-- Text Left, Image Right -->
                             <div class="w-full md:w-1/2 text-center md:text-right order-2 md:order-1">
                                 <h3 class="text-3xl md:text-4xl font-bold mb-6 text-sylvan-blue group-hover:text-sylvan-gold transition-colors">
                                     {service.index_name1}
@@ -94,7 +91,8 @@ const services = finalData.map((item, index) => {
                                     {service.description1}
                                 </p>
                             </div>
-                            <div class="w-full md:w-1/2 h-[300px] md:h-[380px] overflow-hidden rounded-3xl shadow-xl relative order-1 md:order-2 shrink-0">
+                            <!-- IMAGE CONTAINER: 4:3 Ratio + Priority Top Crop -->
+                            <div class="w-full md:w-1/2 aspect-[4/3] overflow-hidden rounded-3xl shadow-2xl relative order-1 md:order-2 shrink-0">
                                 <img src={service.img} 
                                      class="absolute inset-0 w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-110" 
                                      alt={service.index_name1} />
