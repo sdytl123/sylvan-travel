@@ -2,7 +2,6 @@
 import Layout from '../layouts/Layout.astro';
 import { getSheetData } from '../lib/googleSheets';
 
-// 读取名为 'index' 的工作表
 let sheetData = await getSheetData('index');
 
 const fallbackServices = [
@@ -62,15 +61,15 @@ const services = finalData.map((item, index) => {
             <p class="mt-4 text-base-content/60">从灵感激发到落地执行，为您提供全链路定制方案</p>
         </div>
 
-        <div class="space-y-32">
+        <div class="space-y-24">
             {services.map((service, index) => (
                 <a href={service.path} class="group flex flex-col md:flex-row items-center gap-12 md:gap-20 transition-all duration-500">
                     {index % 2 === 0 ? (
                         <>
-                            <!-- Image Container: FIXED ASPECT RATIO -->
-                            <div class="w-full md:w-1/2 aspect-[4/3] overflow-hidden rounded-3xl shadow-xl relative">
+                            <!-- Image Container: Updated size for better balance -->
+                            <div class="w-full md:w-1/2 h-[300px] md:h-[380px] overflow-hidden rounded-3xl shadow-xl relative shrink-0">
                                 <img src={service.img} 
-                                     class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
+                                     class="absolute inset-0 w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-110" 
                                      alt={service.index_name1} />
                             </div>
                             <div class="w-full md:w-1/2 text-center md:text-left">
@@ -92,10 +91,10 @@ const services = finalData.map((item, index) => {
                                     {service.description1}
                                 </p>
                             </div>
-                            <!-- Image Container: FIXED ASPECT RATIO -->
-                            <div class="w-full md:w-1/2 aspect-[4/3] overflow-hidden rounded-3xl shadow-xl relative order-1 md:order-2">
+                            <!-- Image Container: Updated size for better balance -->
+                            <div class="w-full md:w-1/2 h-[300px] md:h-[380px] overflow-hidden rounded-3xl shadow-xl relative order-1 md:order-2 shrink-0">
                                 <img src={service.img} 
-                                     class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
+                                     class="absolute inset-0 w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-110" 
                                      alt={service.index_name1} />
                             </div>
                         </>
