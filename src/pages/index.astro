@@ -1,33 +1,36 @@
 ---
 import Layout from '../layouts/Layout.astro';
+
+// 模拟从 Google Sheets 获取的数据 (index_name1 和 description1)
+// 在实际开发中，这里可以通过 import { getSheetData } from '../lib/googleSheets' 异步获取
 const services = [
   { 
-    title: '目的地', 
-    desc: '全球精选城市指南，定制专属路线', 
-    icon: '🌍', 
+    id: 'destinations',
+    index_name1: '目的地', 
+    description1: '全球精选城市指南，定制专属路线，为您开启不为人知的私藏景点。', 
     path: '/countries/', 
-    img: 'https://images.unsplash.com/photo-1488646953014-bcdebc4e5//auto=format&fit=crop&w=800&q=80' 
+    img: 'https://images.unsplash.com/photo-1488646953014-bcdebc4e5/auto=format&fit=crop&w=800&q=80' 
   },
   { 
-    title: '活动', 
-    desc: '本地深度体验，挖掘城市隐藏角落', 
-    icon: '🎨', 
+    id: 'activities',
+    index_name1: '活动', 
+    description1: '本地深度体验，挖掘城市隐藏角落，让每一次旅程都成为绝美故事。', 
     path: '/activities', 
-    img: 'https://images.unsplash.com/photo-1533174072545-7a40//auto=format&fit=crop&w=800&q=80' 
+    img: 'https://images.unsplash.com/photo-1533174072545-7a40/auto=format&fit=crop&w=800&q=80' 
   },
   { 
-    title: '交通出行', 
-    desc: '私人定制交通，接送无忧全程陪同', 
-    icon: '🚗', 
+    id: 'transport',
+    index_name1: '交通出行', 
+    description1: '私人定制交通，接送无忧全程陪同，让您在极致舒适中优雅穿梭。', 
     path: '/transport', 
-    img: 'https://images.unsplash.com/photo-1449965409//auto=format&fit=crop&w=800&q=80' 
+    img: 'https://images.unsplash.com/photo-1449965409/auto=format&fit=crop&w=800&q=80' 
   },
   { 
-    title: '地陪翻译', 
-    desc: '专业多语种管家，沟通无碍畅游', 
-    icon: '💬', 
+    id: 'guide',
+    index_name1: '地陪翻译', 
+    description1: '专业多语种管家，沟通无碍畅游，打破语言藩篱体验在地生活。', 
     path: '/guide', 
-    img: 'https://images.unsplash.com/photo-1521737711881-3ed7a5bc4e5//auto=format&fit=crop&w=800&q=80' 
+    img: 'https://images.unsplash.com/photo-1521737711881-3ed7a5bc4e5/auto=format&fit=crop&w=800&q=80' 
   },
 ];
 ---
@@ -53,28 +56,58 @@ const services = [
         </div>
     </section>
 
-    <!-- 4-Grid Portal Section -->
-    <section id="services" class="py-24 px-4 md:px-12 max-w-7xl mx-auto">
-        <div class="text-center mb-16">
+    <!-- Zig-Zag Services Section -->
+    <section id="services" class="py-24 px-4 md:px-12 max-w-6xl mx-auto">
+        <div class="text-center mb-20">
             <h2 class="text-3xl md:text-4xl font-bold mb-4 text-sylvan-blue">我们的核心服务</h2>
             <div class="w-20 h-1 bg-sylvan-gold mx-auto rounded-full"></div>
             <p class="mt-4 text-base-content/60">从灵感激发到落地执行，为您提供全链路定制方案</p>
         </div>
 
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {services.map(service => (
-                <a href={service.path} class="group relative overflow-hidden rounded-2xl shadow-md transition-all duration-500 hover:-translate-y-2 hover:shadow-xl h-96">
-                    <div class="absolute inset-0 z-0">
-                        <img src={service.img} 
-                             class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" 
-                             alt={service.title} />
-                        <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent"></div>
-                    </div>
-                    <div class="relative z-10 h-full flex flex-col justify-end p-6 text-white">
-                        <div class="text-4xl mb-3">{service.icon}</div>
-                        <h3 class="text-2xl font-bold mb-2 transition-colors group-hover:text-sylvan-gold">{service.title}</h3>
-                        <p class="text-sm opacity-80 line-clamp-2">{service.desc}</p>
-                    </div>
+        <div class="space-y-24">
+            {services.map((service, index) => (
+                <a href={service.path} class="group flex flex-col md:flex-row items-center gap-8 md:gap-16 transition-all duration-500">
+                    {index % 2 === 0 ? (
+                        <>
+                            <!-- Image Left, Text Right -->
+                            <div class="w-full md:w-1/2 overflow-hidden rounded-3xl shadow-lg h-[300px] md:h-[400px]">
+                                <img src={service.img} 
+                                     class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
+                                     alt={service.index_name1} />
+                            </div>
+                            <div class="w-full md:w-1/2 text-center md:text-left">
+                                <h3 class="text-3xl md:text-4xl font-bold mb-6 text-sylvan-blue group-hover:text-sylvan-gold transition-colors">
+                                    {service.index_name1}
+                                </h3>
+                                <p class="text-lg text-base-content/70 leading-relaxed mb-8">
+                                    {service.description1}
+                                </p>
+                                <span class="text-sylvan-gold font-bold flex items-center justify-center md:justify-start gap-2 group-hover:gap-4 transition-all">
+                                    探索详情 <span class="text-xl">$\rightarrow$</span>
+                                </span>
+                            </div>
+                        </>
+                    ) : (
+                        <>
+                            <!-- Text Left, Image Right -->
+                            <div class="w-full md:w-1/2 text-center md:text-right order-2 md:order-1">
+                                <h3 class="text-3xl md:text-4xl font-bold mb-6 text-sylvan-blue group-hover:text-sylvan-gold transition-colors">
+                                    {service.index_name1}
+                                </h3>
+                                <p class="text-lg text-base-content/70 leading-relaxed mb-8">
+                                    {service.description1}
+                                </p>
+                                <span class="text-sylvan-gold font-bold flex items-center justify-center md:justify-end gap-2 group-hover:gap-4 transition-all">
+                                    探索详情 <span class="text-xl">$\leftarrow$</span>
+                                </span>
+                            </div>
+                            <div class="w-full md:w-1/2 overflow-hidden rounded-3xl shadow-lg h-[300px] md:h-[400px] order-1 md:order-2">
+                                <img src={service.img} 
+                                     class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
+                                     alt={service.index_name1} />
+                            </div>
+                        </>
+                    )}
                 </a>
             ))}
         </div>
