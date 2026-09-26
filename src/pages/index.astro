@@ -65,16 +65,16 @@ const services = finalData.map((item, index) => {
 
         <div class="space-y-32">
             {services.map((service, index) => (
-                <a href={service.path} class="group flex flex-col md:flex-row items-center gap-12 md:gap-20 transition-all duration-500">
+                <a href={service.path} class="service-row group">
                     {index % 2 === 0 ? (
                         <>
                             <!-- IMAGE LEFT: Now displaying original cropped version -->
-                            <div class="w-full md:w-1/2 aspect-[4/3] overflow-hidden rounded-3xl shadow-2xl relative shrink-0">
+                            <div class="service-image relative shrink-0">
                                 <img src={service.img} 
-                                     class="absolute inset-0 w-full h-full object-contain transition-transform duration-700 group-hover:scale-105" 
+                                     class="absolute inset-0 w-full h-full object-contain" 
                                      alt={service.index_name1} />
                             </div>
-                            <div class="w-full md:w-1/2 text-center md:text-left">
+                            <div class="service-copy">
                                 <h3 class="text-3xl md:text-4xl font-bold mb-6 text-sylvan-blue group-hover:text-sylvan-gold transition-colors">
                                     {service.index_name1}
                                 </h3>
@@ -85,7 +85,7 @@ const services = finalData.map((item, index) => {
                         </>
                     ) : (
                         <>
-                            <div class="w-full md:w-1/2 text-center md:text-right order-2 md:order-1">
+                            <div class="service-copy order-2 md:order-1">
                                 <h3 class="text-3xl md:text-4xl font-bold mb-6 text-sylvan-blue group-hover:text-sylvan-gold transition-colors">
                                     {service.index_name1}
                                 </h3>
@@ -94,9 +94,9 @@ const services = finalData.map((item, index) => {
                                 </p>
                             </div>
                             <!-- IMAGE RIGHT: Now displaying original cropped version -->
-                            <div class="w-full md:w-1/2 aspect-[4/3] overflow-hidden rounded-3xl shadow-2xl relative order-1 md:order-2 shrink-0">
+                            <div class="service-image relative order-1 md:order-2 shrink-0">
                                 <img src={service.img} 
-                                     class="absolute inset-0 w-full h-full object-contain transition-transform duration-700 group-hover:scale-105" 
+                                     class="absolute inset-0 w-full h-full object-contain" 
                                      alt={service.index_name1} />
                             </div>
                         </>
@@ -127,3 +127,13 @@ const services = finalData.map((item, index) => {
         </div>
     </section>
 </Layout>
+
+<style>
+  .service-row { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 48px; align-items: center; color: inherit; text-decoration: none; }
+  .service-image { width: 100%; aspect-ratio: 4 / 3; min-width: 0; }
+  .service-image img { display: block; width: 100%; height: 100%; object-fit: contain; transform: none; }
+  .service-copy { min-width: 0; text-align: left; overflow-wrap: anywhere; }
+  .service-copy p { white-space: pre-line; }
+  .service-row > * { order: 0; }
+  @media (max-width: 600px) { .service-row { gap: 16px; } .service-copy h3 { font-size: 20px; } .service-copy p { font-size: 14px; } }
+</style>
