@@ -1,50 +1,44 @@
 ---
 import Layout from '../layouts/Layout.astro';
-const regions = [
-  { id: 'australia', name: '澳大利亚', path: '/australia/', img: 'https://images.unsplash.com/photo-1523482580735-1edfa709f89b?auto=format&fit=crop&w=800&q=80', desc: '从大洋路到悉尼港，探索南半球的自然与都市。' },
-  { id: 'china', name: '中国', path: '/china/', img: 'https://images.unsplash.com/photo-1508804185872-87f7ef977f65?auto=format&fit=crop&w=800&q=80', desc: '从古都西安到现代上海，体验深厚的文化底蕴。' },
-  { id: 'others', name: '其他目的地', path: '/others/', img: 'https://images.unsplash.com/photo-1507525428034-b723a//auto=format&fit=crop&w=800&q=80', desc: '探索全球最令人向往的度假胜地。' },
-];
-
 const services = [
   { 
     title: '目的地', 
-    desc: '全球精选城市指南', 
+    desc: '全球精选城市指南，定制专属路线', 
     icon: '🌍', 
-    path: '/australia/', // 引导至国家页
+    path: '/countries/', 
     img: 'https://images.unsplash.com/photo-1488646953014-bcdebc4e5//auto=format&fit=crop&w=800&q=80' 
   },
   { 
     title: '活动', 
-    desc: '本地深度体验项目', 
+    desc: '本地深度体验，挖掘城市隐藏角落', 
     icon: '🎨', 
-    path: '#', 
+    path: '/activities', 
     img: 'https://images.unsplash.com/photo-1533174072545-7a40//auto=format&fit=crop&w=800&q=80' 
   },
   { 
     title: '交通出行', 
-    desc: '接送机与私人定制交通', 
+    desc: '私人定制交通，接送无忧全程陪同', 
     icon: '🚗', 
-    path: '#', 
+    path: '/transport', 
     img: 'https://images.unsplash.com/photo-1449965409//auto=format&fit=crop&w=800&q=80' 
   },
   { 
     title: '地陪翻译', 
-    desc: '专业多语种当地管家', 
+    desc: '专业多语种管家，沟通无碍畅游', 
     icon: '💬', 
-    path: '#', 
-    img: 'https://images.unsplash.com/photo-1521737711881-3ed7a5dc58a8?auto=format&fit=crop&w=800&q=80' 
+    path: '/guide', 
+    img: 'https://images.unsplash.com/photo-1521737711881-3ed7a5bc4e5//auto=format&fit=crop&w=800&q=80' 
   },
 ];
 ---
 <Layout title="Sylvan Travel - 全球定制旅游指南">
     <!-- Hero Section -->
-    <section class="relative h-[70vh] flex items-center justify-center text-center text-white overflow-hidden">
+    <section class="relative h-[60vh] flex items-center justify-center text-center text-white overflow-hidden">
         <div class="absolute inset-0 z-0">
             <img src="https://images.unsplash.com/photo-1469854523086-cc02dropbox-d3c5?auto=format&fit=crop&w=1920&q=80" 
                  class="w-full h-full object-cover" 
                  alt="Travel Background" />
-            <div class="absolute inset-0 bg-black/40"></div>
+            <div class="absolute inset-0 bg-black/50"></div>
         </div>
         <div class="relative z-10 px-4 max-w-4xl">
             <h1 class="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
@@ -54,30 +48,31 @@ const services = [
                 Sylvan Travel 为您定制专属的全球旅行记忆，让每一程都成为绝美故事。
             </p>
             <a href="#services" class="btn btn-primary bg-sylvan-gold hover:bg-yellow-600 border-none text-white px-8 py-4 rounded-full text-lg transition-all hover:scale-105">
-                开始规划我的旅程
+                开始探索
             </a>
         </div>
     </section>
 
-    <!-- Four-Grid Services Section -->
+    <!-- 4-Grid Portal Section -->
     <section id="services" class="py-24 px-4 md:px-12 max-w-7xl mx-auto">
         <div class="text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-bold mb-4 text-sylvan-blue">我们的服务</h2>
+            <h2 class="text-3xl md:text-4xl font-bold mb-4 text-sylvan-blue">我们的核心服务</h2>
             <div class="w-20 h-1 bg-sylvan-gold mx-auto rounded-full"></div>
+            <p class="mt-4 text-base-content/60">从灵感激发到落地执行，为您提供全链路定制方案</p>
         </div>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {services.map(service => (
-                <a href={service.path} class="group relative overflow-hidden rounded-2xl shadow-md transition-all duration-500 hover:-translate-y-2 hover:shadow-xl h-80">
+                <a href={service.path} class="group relative overflow-hidden rounded-2xl shadow-md transition-all duration-500 hover:-translate-y-2 hover:shadow-xl h-96">
                     <div class="absolute inset-0 z-0">
                         <img src={service.img} 
                              class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" 
                              alt={service.title} />
-                        <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent"></div>
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent"></div>
                     </div>
                     <div class="relative z-10 h-full flex flex-col justify-end p-6 text-white">
-                        <div class="text-3xl mb-2">{service.icon}</div>
-                        <h3 class="text-xl font-bold mb-1 transition-colors group-hover:text-sylvan-gold">{service.title}</h3>
+                        <div class="text-4xl mb-3">{service.icon}</div>
+                        <h3 class="text-2xl font-bold mb-2 transition-colors group-hover:text-sylvan-gold">{service.title}</h3>
                         <p class="text-sm opacity-80 line-clamp-2">{service.desc}</p>
                     </div>
                 </a>
@@ -85,33 +80,8 @@ const services = [
         </div>
     </section>
 
-    <!-- Regional Destinations (The original region list) -->
-    <section class="py-24 px-4 md:px-12 max-w-7xl mx-auto bg-base-200 rounded-3xl my-20">
-        <div class="text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-bold mb-4 text-sylvan-blue">精选目的地</h2>
-            <div class="w-20 h-1 bg-sylvan-gold mx-auto rounded-full"></div>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {regions.map(region => (
-                <a href={region.path} class="group relative overflow-hidden rounded-2xl shadow-lg transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl">
-                    <div class="aspect-[4/5] overflow-hidden">
-                        <img src={region.img} 
-                             class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" 
-                             alt={region.name} />
-                    </div>
-                    <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent flex flex-col justify-end p-6 text-white">
-                        <h3 class="text-2xl font-bold mb-2 transition-colors group-hover:text-sylvan-gold">{region.name}</h3>
-                        <p class="text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300 line-clamp-2">
-                            {region.desc}
-                        </p>
-                    </div>
-                </a>
-            ))}
-        </div>
-    </section>
-
     <!-- Trust Section -->
-    <section class="py-20 px-4">
+    <section class="py-20 bg-base-200 px-4">
         <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-12 text-center">
             <div class="flex flex-col items-center p-6">
                 <div class="text-4xl mb-4">✨</div>
@@ -126,7 +96,7 @@ const services = [
             <div class="flex flex-col items-center p-6">
                 <div class="text-4xl mb-4">🌍</div>
                 <h4 class="text-xl font-bold mb-2 text-sylvan-blue">全球资源</h4>
-                <p class="text-sm opacity-70">深耕全球顶1级目的地，为您开启不为人知的私藏景点。</p>
+                <p class="text-sm opacity-70">深耕全球顶尖目的地，为您开启不为人知的私藏景点。</p>
             </div>
         </div>
     </section>

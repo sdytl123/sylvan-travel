@@ -1,0 +1,84 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const R2_PUBLIC_URL = 'https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev';
+---
+<Layout title="Sylvan Assets Manager - 管理后台">
+    <div class="py-12 px-4 max-w-3xl mx-auto">
+        <div class="text-center mb-12">
+            <h1 class="text-3xl font-bold text-sylvan-blue mb-4">资源管理后台</h1>
+            <p class="text-base-content/60">快速生成 R2 存储桶图片链接，直接填入 Google Sheets。</p>
+        </div>
+
+        <div class="card bg-base-100 shadow-xl border border-base-300 p-8">
+            <div class="form-control w-full max-w-md mx-auto mb-6">
+                <label class="label">
+                    <span class="label-text font-semibold">输入图片文件名 (含后缀)</span>
+                </label>
+                <div class="join w-full">
+                    <input id="fileName" type="text" placeholder="例如: melbourne-hero.jpg" 
+                           class="input input-bordered join-item w-full font-mono" />
+                    <button id="generateBtn" class="btn btn-primary join-item bg-sylvan-gold hover:bg-yellow-600 border-none text-white">
+                        生成链接
+                    </button>
+                </div>
+            </div>
+
+            <div id="resultArea" class="hidden space-y-4 animate-//fade-in">
+                <div class="divider">生成成功！</div>
+                <div class="flex flex-col items-center gap-4">
+                    <div class="relative group">
+                        <img id="preview" src="" class="w-64 h-40 object-cover rounded-lg shadow-md border border-base-300" 
+                             onerror="this.src='https://placehold.co/600x400?text=Image+Not+Found'" />
+                    </div>
+                    <div class="flex items-center gap-2 w-full max-w-md">
+                        <input id="urlOutput" type="text" readonly 
+                               class="input input-bordered w-full bg-base-200 font-mono text-sm" 
+                               value="" />
+                        <button id="copyBtn" class="btn btn-sm btn-neutral">复制链接</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-12 p-6 bg-warning/10 rounded-2xl border border-warning/20">
+            <h4 class="font-bold text-warning-foreground mb-2">🚀 操作流程</h4>
+            <ul class="text-sm space-y-2 opacity-80">
+                <li class="flex gap-2"><span>1.</span> <span>进入 Cloudflare R2 $\rightarrow$ <b>sylvan-assets</b> 存储桶。</span></li>
+                <li class="flex gap-2"><span>2.</span> <span>点击 <b>Upload</b> 上传你的图片，并设置好文件名（如 `melbourne.jpg`）。</span></li>
+                <li class="flex gap-2"><span>3.</span> <span>回到此页面，输入相同的文件名 $\rightarrow$ <b>生成链接</b>。</span></li>
+                <li class="flex gap-2"><span>4.</span> <span>复制链接 $\rightarrow$ 粘贴到 Google Sheets 对应单元格。</span></li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        const fileNameInput = document.getElementById('fileName');
+        const generateBtn = document.getElementById('generateBtn');
+        const resultArea = document.getElementById('resultArea');
+        const urlOutput = document.getElementById('urlOutput');
+        const preview = document.getElementById('preview');
+        const copyBtn = document.getElementById('copyBtn');
+        const R2_PUBLIC_URL = 'https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev';
+
+        generateBtn.addEventListener('click', () => {
+            const name = fileNameInput.value.trim();
+            if (!name) {
+                alert('请输入文件名！');
+                return;
+            }
+
+            const fullUrl = `${R2_PUBLIC_URL}/${name}`;
+            urlOutput.value = fullUrl;
+            preview.src = fullUrl;
+            resultArea.classList.remove('hidden');
+        });
+
+        copyBtn.addEventListener('click', () => {
+            urlOutput.select();
+            document.execCommand('copy');
+            copyBtn.innerText = '已复制！';
+            setTimeout(() => copyBtn.innerText = '复制链接', 2000);
+        });
+    </script>
+</Layout>

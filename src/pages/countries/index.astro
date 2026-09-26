@@ -1,0 +1,29 @@
+---
+import Layout from '../../layouts/Layout.astro';
+const regions = [
+  { id: 'australia', name: '澳大利亚', path: '/countries/australia/', img: 'https://images.unsplash.com/photo-1523482580735-1edfa709f89b?auto=format&fit=crop&w=800&q=80', desc: '从大洋路到悉尼港，探索南半球的自然与都市。' },
+  { id: 'china', name: '中国', path: '/countries/china/', img: 'https://images.unsplash.com/photo-1508804185872-87f7ef977f65?auto=format&fit=crop&w=800&q=80', desc: '从古都西安到现代上海，体验深厚的文化底蕴。' },
+  { id: 'others', name: '其他目的地', path: '/countries/others/', img: 'https://images.unsplash.com/photo-1507525428034-b723a//auto=format&fit=crop&w=800&q=80', desc: '探索全球最令人向往的度假胜地。' },
+];
+---
+<Layout title="目的地选择 - Sylvan Travel">
+    <section class="py-24 px-4 md:px-12 max-w-7xl mx-auto">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold mb-4 text-sylvan-blue">选择您的目的地</h2>
+            <div class="w-20 h-1 bg-sylvan-gold mx-auto rounded-full"></div>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {regions.map(region => (
+                <a href={region.path} class="group relative overflow-hidden rounded-2xl shadow-lg transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl">
+                    <div class="aspect-[4/5] overflow-hidden">
+                        <img src={region.img} class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" alt={region.name} />
+                    </div>
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent flex flex-col justify-end p-6 text-white">
+                        <h3 class="text-2xl font-bold mb-2 transition-colors group-hover:text-sylvan-gold">{region.name}</h3>
+                        <p class="text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300 line-clamp-2">{region.desc}</p>
+                    </div>
+                </a>
+            ))}
+        </div>
+    </section>
+</Layout>
