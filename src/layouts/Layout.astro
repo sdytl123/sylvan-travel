@@ -2,21 +2,50 @@
 const { title } = Astro.props;
 ---
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme="light">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
-    <style>
-        body { font-family: system-ui, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 2rem; color: #333; }
-        nav { margin-bottom: 2rem; }
-        .city-hero { background: #f4f4f4; padding: 3rem; text-align: center; border-radius: 1rem; margin-bottom: 2rem; }
-        h1 { color: #2c3e50; }
-        .route-card { border: 1px solid #eee; padding: 1rem; margin-bottom: 1rem; border-radius: 0.5rem; }
-    </style>
 </head>
-<body>
-    <nav><a href="/">首页</a></nav>
-    <slot />
+<body class="min-h-screen bg-base-100 text-base-content">
+    <!-- Modern Navigation Bar -->
+    <div class="navbar bg-base-100 shadow-sm px-4 md:px-8 sticky top-0 z-50">
+        <div class="flex-1">
+            <a href="/" class="btn btn-ghost text-xl font-bold text-sylvan-blue">Sylvan Travel</a>
+        </div>
+        <div class="flex-none">
+            <ul class="menu menu-horizontal px-1">
+                <li><a href="/">首页</a></li>
+                <li><a href="/australia/">澳大利亚</a></li>
+                <li><a href="/china/">中国</a></li>
+                <li><a href="/others/">其他目的地</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <main>
+        <slot />
+    </main>
+
+    <!-- Modern Footer -->
+    <footer class="footer p-10 bg-neutral text-neutral-content">
+        <nav>
+            <h6 class="footer-title">服务</h6> 
+            <a class="link link-hover">定制路线</a>
+            <a class="link link-hover">价格查询</a>
+            <a class="link link-hover">客户支持</a>
+        </nav> 
+        <nav>
+            <h6 class="footer-title">公司</h6> 
+            <a class="link link-hover">关于我们</a>
+            <a class="link link-hover">联系我们</a>
+        </nav> 
+        <nav>
+            <h6 class="footer-title">法律</h6> 
+            <a class="link link-hover">隐私条款</a>
+            <a class="link link-hover>使用条款</a>
+        </nav>
+    </footer>
 </body>
 </html>
