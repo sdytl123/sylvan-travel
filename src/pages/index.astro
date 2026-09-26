@@ -1,28 +1,79 @@
 ---
 import Layout from '../layouts/Layout.astro';
 const regions = [
-  { id: 'australia', name: '澳大利亚', path: '/australia/' },
-  { id: 'china', name: '中国', path: '/china/' },
-  { id: 'others', name: '其他热门目的地', path: '/others/' },
+  { id: 'australia', name: '澳大利亚', path: '/australia/', img: 'https://images.unsplash.com/photo-1523482580735-1edfa709f89b?auto=format&fit=crop&w=800&q=80', desc: '从大洋路到悉尼港，探索南半球的自然与都市。' },
+  { id: 'china', name: '中国', path: '/china/', img: 'https://images.unsplash.com/photo-1508804185872-87f7ef977f65?auto=format&fit=crop&w=800&q=80', desc: '从古都西安到现代上海，体验深厚的文化底蕴。' },
+  { id: 'others', name: '其他目的地', path: '/others/', img: 'https://images.unsplash.com/photo-1507525428034-b723a//auto=format&fit=crop&w=800&q=80', desc: '探索全球最令人向往的度假胜地。' },
 ];
 ---
 <Layout title="Sylvan Travel - 全球定制旅游指南">
-    <div class="city-hero">
-        <h1>欢迎来到 Sylvan Travel</h1>
-        <p>为您定制专属的全球旅行记忆</p>
-    </div>
+    <!-- Hero Section -->
+    <section class="relative h-[80vh] flex items-center justify-center text-center text-white overflow-hidden">
+        <div class="absolute inset-0 z-0">
+            <img src="https://images.unsplash.com/photo-1469854523086-cc02dropbox-d3c5?auto=format&fit=crop&w=1920&q=80" 
+                 class="w-full h-full object-cover scale-105 animate-pulse" 
+                 style="animation-duration: 10s;"
+                 alt="Travel Background" />
+            <div class="absolute inset-0 bg-black/40"></div>
+        </div>
+        
+        <div class="relative z-10 px-4 max-w-4xl">
+            <h1 class="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
+                探索世界的 <span class="text-sylvan-gold">另一种可能</span>
+            </h1>
+            <p class="text-lg md:text-2xl mb-10 opacity-90 font-light">
+                Sylvan Travel 为您定制专属的全球旅行记忆，让每一程都成为绝美故事。
+            </p>
+            <a href="#destinations" class="btn btn-primary bg-sylvan-gold hover:bg-yellow-600 border-none text-white px-8 py-4 rounded-full text-lg transition-all hover:scale-105">
+                开始规划我的旅程
+            </a>
+        </div>
+    </section>
 
-    <section class="region-grid">
-        <h2>选择您的目的地</h2>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+    <!-- Destinations Section -->
+    <section id="destinations" class="py-24 px-4 md:px-12 max-w-7xl mx-auto">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold mb-4 text-sylvan-blue">精选目的地</h2>
+            <div class="w-20 h-1 bg-sylvan-gold mx-auto rounded-full"></div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {regions.map(region => (
-                <a href={region.path} style="text-decoration: none; color: inherit;">
-                    <div class="route-card" style="text-align: center; padding: 2rem;">
-                        <h3>{region.name}</h3>
-                        <p>探索精彩路线 $\rightarrow$</p>
+                <a href={region.path} class="group relative overflow-hidden rounded-2xl shadow-lg transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl">
+                    <div class="aspect-[4/5] overflow-hidden">
+                        <img src={region.img} 
+                             class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" 
+                             alt={region.name} />
+                    </div>
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent flex flex-col justify-end p-6 text-white">
+                        <h3 class="text-2xl font-bold mb-2 transition-colors group-hover:text-sylvan-gold">{region.name}</h3>
+                        <p class="text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300 line-clamp-2">
+                            {region.desc}
+                        </p>
                     </div>
                 </a>
             ))}
+        </div>
+    </section>
+
+    <!-- Trust Section -->
+    <section class="py-20 bg-base-200 px-4">
+        <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-12 text-center">
+            <div class="flex flex-col items-center p-6">
+                <div class="text-4xl mb-4">✨</div>
+                <h4 class="text-xl font-bold mb-2 text-sylvan-blue">深度定制</h4>
+                <p class="text-sm opacity-70">拒绝大众路线，根据您的喜好量身打造每一处细节。</p>
+            </div>
+            <div class="flex flex-col items-center p-6">
+                <div class="text-4xl mb-4">🛡️</div>
+                <h4 class="text-xl font-bold mb-2 text-sylvan-blue">全程管家</h4>
+                <p class="text-sm opacity-70">从机票酒店到当地向导，提供 24/7 的管家式服务。</p>
+            </div>
+            <div class="flex flex-col items-center p-6">
+                <div class="text-4xl mb-4">🌍,</div>
+                <h4 class="text-xl font-bold mb-2 text-sylvan-blue">全球资源</h4>
+                <p class="text-sm opacity-70">深耕全球顶尖目的地，为您开启不为人知的私藏景点。</p>
+            </div>
         </div>
     </section>
 </Layout>
