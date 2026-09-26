@@ -1,10 +1,11 @@
 const SHEET_ID = '1uBCdye6d8KCL2x7Q2ZJQUhSJqodEsfDc-ex5LsFF-1Y';
 
 const getSheetUrl = (tabName) => {
-  return `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(tabName)}`;
+  // 添加 timestamp 强制禁用 Google 端的缓存
+  const timestamp = new Date().getTime();
+  return `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(tabName)}&cachebuster=${timestamp}`;
 };
 
-// A simple, robust native CSV parser that handles basic quoting
 function parseCSV(csvText) {
   const lines = csvText.split(/\r?\n/);
   if (lines.length === 0) return [];
@@ -16,10 +17,22 @@ function parseCSV(csvText) {
     const line = lines[i].trim();
     if (!line) continue;
     
-    // Basic CSV splitting (works for most Google Sheets exports)
-    const values = line.split(',').map(v => v.replace(/^"|"$/g, '').trim());
+    // 处理带引号的 CSV 字段
+    const values = [];
+    let current = '';
+    let inQuotes = false;
+    for (let char of line) {
+      if (char === '"') inQuotes = !inQuotes;
+      else if (char === ',' && !inQuotes) {
+        values.push(current.trim());
+        current = '';
+      } else {
+        current += char;
+      }
+    }
+    values.push(current.trim());
+
     const record = {};
-    
     headers.forEach((header, index) => {
       record[header] = values[index] || '';
     });
@@ -31,6 +44,7 @@ function parseCSV(csvText) {
 export async function getSheetData(tabName) {
   try {
     const response = await fetch(getSheetUrl(tabName));
+    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
     const csvText = await response.text();
     return parseCSV(csvText);
   } catch (error) {

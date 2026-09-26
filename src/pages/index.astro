@@ -2,10 +2,9 @@
 import Layout from '../layouts/Layout.astro';
 import { getSheetData } from '../lib/googleSheets';
 
-// 直接读取名为 'index' 的工作表
+// 读取名为 'index' 的工作表
 let sheetData = await getSheetData('index');
 
-// 如果 index 为空，提供一套保底的 Mock 数据
 const fallbackServices = [
   { index_name1: '目的地', description1: '全球精选城市指南', image_url: 'https://images.unsplash.com/photo-1488646953014-bcdebc4e5?auto=format&fit=crop&w=800&q=80' },
   { index_name1: '活动', description1: '本地深度体验', image_url: 'https://images.unsplash.com/photo-1533174072545-7a40?auto=format&fit=crop&w=800&q=80' },
@@ -22,7 +21,6 @@ const services = finalData.map((item, index) => {
     '交通出行': '/transport',
     '地陪翻译': '/guide'
   };
-
   const imageUrl = item.image_url || item.图片 || item.Image || item.img || '';
 
   return {
@@ -64,15 +62,15 @@ const services = finalData.map((item, index) => {
             <p class="mt-4 text-base-content/60">从灵感激发到落地执行，为您提供全链路定制方案</p>
         </div>
 
-        <div class="space-y-24">
+        <div class="space-y-32">
             {services.map((service, index) => (
-                <a href={service.path} class="group flex flex-col md:flex-row items-center gap-8 md:gap-16 transition-all duration-500">
+                <a href={service.path} class="group flex flex-col md:flex-row items-center gap-12 md:gap-20 transition-all duration-500">
                     {index % 2 === 0 ? (
                         <>
-                            <!-- Image Left, Text Right -->
-                            <div class="w-full md:w-1/2 overflow-hidden rounded-3xl shadow-lg h-[300px] md:h-[400px]">
+                            <!-- Image Container: FIXED ASPECT RATIO -->
+                            <div class="w-full md:w-1/2 aspect-[4/3] overflow-hidden rounded-3xl shadow-xl relative">
                                 <img src={service.img} 
-                                     class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
+                                     class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
                                      alt={service.index_name1} />
                             </div>
                             <div class="w-full md:w-1/2 text-center md:text-left">
@@ -86,7 +84,6 @@ const services = finalData.map((item, index) => {
                         </>
                     ) : (
                         <>
-                            <!-- Text Left, Image Right -->
                             <div class="w-full md:w-1/2 text-center md:text-right order-2 md:order-1">
                                 <h3 class="text-3xl md:text-4xl font-bold mb-6 text-sylvan-blue group-hover:text-sylvan-gold transition-colors">
                                     {service.index_name1}
@@ -95,9 +92,10 @@ const services = finalData.map((item, index) => {
                                     {service.description1}
                                 </p>
                             </div>
-                            <div class="w-full md:w-1/2 overflow-hidden rounded-3xl shadow-lg h-[300px] md:h-[400px] order-1 md:order-2">
+                            <!-- Image Container: FIXED ASPECT RATIO -->
+                            <div class="w-full md:w-1/2 aspect-[4/3] overflow-hidden rounded-3xl shadow-xl relative order-1 md:order-2">
                                 <img src={service.img} 
-                                     class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
+                                     class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" 
                                      alt={service.index_name1} />
                             </div>
                         </>
