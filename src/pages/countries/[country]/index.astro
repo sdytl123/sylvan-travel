@@ -1,0 +1,73 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCountries, getCities } from '../../lib/googleSheets';
+
+export async function getStaticPaths() {
+  const countries = await getCountries();
+  // If getCountries is empty, we provide defaults to prevent build failure
+  const paths = countries.length > 0 
+    ? countries.map(country => ({
+        params: { country: country.country_id },
+        props: { countryInfo: country }
+      }))
+    : [
+        { params: { country: 'australia' }, props: { countryInfo: { country_name: '澳大利亚', description: '从大洋路到悉尼港，探索南半球的自然与都市。' } } },
+        { params: { country: 'china' }, props: { countryInfo: { country_name: '中国', description: '从古都西安到现代上海，体验深厚的文化底蕴。' } } },
+        { params: { country: 'others' }, props: { countryInfo: { country_name: '其他目的地', description: '探索全球最令人向往的度假胜地。' } } },
+      ];
+  return paths;
+}
+
+const { country } = Astro.params;
+const { countryInfo } = Astro.props;
+
+// Fetch cities for this specific country
+const cities = await getCities(country);
+---
+<Layout title={`${countryInfo.country_name} 旅游攻略 - Sylvan Travel`}>
+    <div class="py-12 px-4 md:px-12 max-w-7xl mx-auto">
+        <div class="text-center mb-16">
+            <h1 class="text-4xl md:text-6xl font-bold mb-6 text-sylvan-blue tracking-tight">
+                探索 {countryInfo.country_name}
+            </h1>
+            <p class="text-lg md:text-xl opacity-70 max-w-2xl mx-auto leading-relaxed">
+                {countryInfo.description}
+            </p>
+            <div class="w-24 h-1.5 bg-sylvan-gold mx-auto mt-8 rounded-full"></div>
+        </div>
+
+        <section>
+            <div class="flex items-center gap-4 mb-10">
+                <h2 class="text-2xl font-bold text-sylvan-blue">推荐目的地城市</h2>
+                <div class="flex-grow h-px bg-base-300"></div>
+            </div>
+            
+            {cities && cities.length > 0 ? (
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                    {cities.map(city => (
+                        <a href={`/${country}/${city.city_id}`} class="group relative overflow-hidden rounded-2xl shadow-md transition-all duration-500 hover:-translate-y-2 hover:shadow-xl bg-base-100">
+                            <div class="aspect-video overflow-hidden bg-base-300">
+                                <img src={`https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/${city.city_id}.jpg`} 
+                                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" 
+                                     alt={city.city_name}
+                                     onerror="this.src='https://placehold.co/600x400?text=${city.city_name}'" />
+                            </div>
+                            <div class="p-6">
+                                <h3 class="text-xl font-bold mb-2 group-hover:text-sylvan-blue transition-colors">{city.city_name}</h3>
+                                <p class="text-sm opacity-60 line-clamp-2 mb-4">{city.description || '点击探索该城市的定制路线与深度攻略'}</p>
+                                <span class="text-sylvan-gold font-semibold text-sm flex items-center gap-1">
+                                    查看攻略 <span class="transition-transform group-hover:translate-x-1">→</span>
+                                </span>
+                            </div>
+                        </a>
+                    ))}
+                </div>
+            ) : (
+                <div class="text-center py-20 bg-base-200 rounded-3xl border-2 border-dashed border-base-300">
+                    <div class="text-4xl mb-4">📍</div>
+                    <p class="text-lg opacity-60">该区域暂无城市数据，请检查 Google Sheets 中的 Cities 表。</p>
+                </div>
+            )}
+        </section>
+    </div>
+</Layout>
