@@ -1,7 +1,6 @@
 const SHEET_ID = '1uBCdye6d8KCL2x7Q2ZJQUhSJqodEsfDc-ex5LsFF-1Y';
 
 const getSheetUrl = (tabName) => {
-  // 添加 timestamp 强制禁用 Google 端的缓存
   const timestamp = new Date().getTime();
   return `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(tabName)}&cachebuster=${timestamp}`;
 };
@@ -17,7 +16,6 @@ function parseCSV(csvText) {
     const line = lines[i].trim();
     if (!line) continue;
     
-    // 处理带引号的 CSV 字段
     const values = [];
     let current = '';
     let inQuotes = false;
@@ -34,7 +32,10 @@ function parseCSV(csvText) {
 
     const record = {};
     headers.forEach((header, index) => {
-      record[header] = values[index] || '';
+      let val = values[index] || '';
+      // 清洗链接：移除可能存在的引号、空格或不可见字符
+      val = val.replace(/^"|"$/g, '').trim();
+      record[header] = val;
     });
     result.push(record);
   }
