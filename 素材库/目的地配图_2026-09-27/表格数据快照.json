@@ -1,0 +1,344 @@
+{
+  "countries": [
+    {
+      "country_id": "australia",
+      "index_id": "destination",
+      "country_name": "澳大利亚",
+      "seo_title": "澳大利亚旅游-Sylvan Travel",
+      "description": "",
+      "url": ""
+    },
+    {
+      "country_id": "newzealand",
+      "index_id": "destination",
+      "country_name": "新西兰",
+      "seo_title": "新西兰旅游-Sylvan Travel",
+      "description": "",
+      "url": ""
+    },
+    {
+      "country_id": "china",
+      "index_id": "destination",
+      "country_name": "中国",
+      "seo_title": "中国旅游-Sylvan Travel",
+      "description": "",
+      "url": ""
+    },
+    {
+      "country_id": "japan",
+      "index_id": "destination",
+      "country_name": "日本",
+      "seo_title": "日本旅游-Sylvan Travel",
+      "description": "",
+      "url": ""
+    },
+    {
+      "country_id": "usa",
+      "index_id": "destination",
+      "country_name": "美国",
+      "seo_title": "美国旅游-Sylvan Travel",
+      "description": "",
+      "url": ""
+    },
+    {
+      "country_id": "thailand",
+      "index_id": "destination",
+      "country_name": "泰国",
+      "seo_title": "泰国旅游-Sylvan Travel",
+      "description": "",
+      "url": ""
+    },
+    {
+      "country_id": "others",
+      "index_id": "destination",
+      "country_name": "其他热门目的地",
+      "seo_title": "走出国门旅游-Sylvan Travel",
+      "description": "",
+      "url": ""
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "melbourne",
+      "country_id": "australia",
+      "city_name": "墨尔本",
+      "seo_title": "墨尔本旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "sydney",
+      "country_id": "australia",
+      "city_name": "悉尼",
+      "seo_title": "悉尼旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "adelaide",
+      "country_id": "australia",
+      "city_name": "阿德莱德",
+      "seo_title": "阿德莱德旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "gold coast",
+      "country_id": "australia",
+      "city_name": "黄金海岸",
+      "seo_title": "黄金海岸旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "au others",
+      "country_id": "australia",
+      "city_name": "澳洲其他热门城市",
+      "seo_title": "澳洲其他热门城市旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "beijing",
+      "country_id": "china",
+      "city_name": "北京",
+      "seo_title": "北京旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "shanghai",
+      "country_id": "china",
+      "city_name": "上海",
+      "seo_title": "上海旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "xi'an",
+      "country_id": "china",
+      "city_name": "西安",
+      "seo_title": "西安旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "sanya",
+      "country_id": "china",
+      "city_name": "三亚",
+      "seo_title": "三亚旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "cn others",
+      "country_id": "china",
+      "city_name": "中国其他热门城市",
+      "seo_title": "中国其他热们城市旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "bali",
+      "country_id": "others",
+      "city_name": "巴厘岛",
+      "seo_title": "巴厘岛旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "fiji",
+      "country_id": "others",
+      "city_name": "斐济",
+      "seo_title": "斐济旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "maldives",
+      "country_id": "others",
+      "city_name": "马尔代夫",
+      "seo_title": "马尔代夫旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "ot others",
+      "country_id": "others",
+      "city_name": "其他热门项目",
+      "seo_title": "其他热门旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "auckland",
+      "country_id": "newzealand",
+      "city_name": "奥克兰",
+      "seo_title": "奥克兰旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "queenstown",
+      "country_id": "newzealand",
+      "city_name": "皇后镇",
+      "seo_title": "皇后镇旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "newyork",
+      "country_id": "usa",
+      "city_name": "纽约",
+      "seo_title": "纽约旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "losangeles",
+      "country_id": "usa",
+      "city_name": "洛杉矶",
+      "seo_title": "洛杉矶旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "hawaii",
+      "country_id": "usa",
+      "city_name": "夏威夷",
+      "seo_title": "夏威夷旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "bangkok",
+      "country_id": "thailand",
+      "city_name": "曼谷",
+      "seo_title": "曼谷旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "phuket",
+      "country_id": "thailand",
+      "city_name": "普吉岛",
+      "seo_title": "普吉岛旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "tokyo",
+      "country_id": "japan",
+      "city_name": "东京",
+      "seo_title": "东京旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "kyoto",
+      "country_id": "japan",
+      "city_name": "京都",
+      "seo_title": "京都旅游-Sylvan Travel",
+      "description": ""
+    },
+    {
+      "city_id": "osaka",
+      "country_id": "japan",
+      "city_name": "大阪",
+      "seo_title": "大阪旅游-Sylvan Travel",
+      "description": ""
+    }
+  ],
+  "routes": [
+    {
+      "route_id": "mel-transfer",
+      "city_id": "melbourne",
+      "route_name": "墨尔本接送机",
+      "duration": "2 hours",
+      "price": "50"
+    },
+    {
+      "route_id": "mel-city",
+      "city_id": "melbourne",
+      "route_name": "墨尔本市区游",
+      "duration": "1 day",
+      "price": "350"
+    },
+    {
+      "route_id": "mel-ocean",
+      "city_id": "melbourne",
+      "route_name": "大洋路",
+      "duration": "1 day/2 days",
+      "price": "700"
+    },
+    {
+      "route_id": "mel-phillip",
+      "city_id": "melbourne",
+      "route_name": "企鹅岛",
+      "duration": "1 day",
+      "price": "700"
+    },
+    {
+      "route_id": "mel-wine",
+      "city_id": "melbourne",
+      "route_name": "雅拉谷酒庄行",
+      "duration": "1 day",
+      "price": "600"
+    },
+    {
+      "route_id": "syd-transfer",
+      "city_id": "sydney",
+      "route_name": "悉尼接送机",
+      "duration": "2 hours",
+      "price": "50"
+    },
+    {
+      "route_id": "syd-city",
+      "city_id": "sydney",
+      "route_name": "悉尼市区游",
+      "duration": "1 day",
+      "price": "400"
+    },
+    {
+      "route_id": "syd-bluemt",
+      "city_id": "sydney",
+      "route_name": "蓝山",
+      "duration": "1 day",
+      "price": "800"
+    },
+    {
+      "route_id": "syd-kiama",
+      "city_id": "sydney",
+      "route_name": "卧龙岗",
+      "duration": "1 day",
+      "price": "800"
+    },
+    {
+      "route_id": "adl-transfer",
+      "city_id": "adelaide",
+      "route_name": "阿德莱德接送机",
+      "duration": "2 hours",
+      "price": "50"
+    },
+    {
+      "route_id": "adl-kangroo",
+      "city_id": "adelaide",
+      "route_name": "袋鼠岛",
+      "duration": "2 days/3 days",
+      "price": "2500"
+    },
+    {
+      "route_id": "adl-barossa",
+      "city_id": "adelaide",
+      "route_name": "巴罗萨酒庄",
+      "duration": "1 day",
+      "price": "700"
+    },
+    {
+      "route_id": "adl-pinklake",
+      "city_id": "adelaide",
+      "route_name": "粉湖",
+      "duration": "1 day",
+      "price": "700"
+    },
+    {
+      "route_id": "bj-3days",
+      "city_id": "beijing",
+      "route_name": "北京三日游",
+      "duration": "3 days",
+      "price": "100"
+    },
+    {
+      "route_id": "sh-3days",
+      "city_id": "shanghai",
+      "route_name": "上海三日游",
+      "duration": "3days",
+      "price": "100"
+    },
+    {
+      "route_id": "xa-3days",
+      "city_id": "xi‘an",
+      "route_name": "西安三日游",
+      "duration": "3 days",
+      "price": "100"
+    }
+  ]
+}

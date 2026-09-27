@@ -1,0 +1,1436 @@
+[
+  {
+    "pageid": 74555821,
+    "ns": 6,
+    "title": "File:ArtScience Museum, Marina Bay Sands, Singapore.jpg",
+    "index": 2,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 8695320,
+        "width": 5911,
+        "height": 3941,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/1920px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/3840px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/1920px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/3840px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:ArtScience_Museum,_Marina_Bay_Sands,_Singapore.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74555821",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-11-21 14:42:53",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "ArtScience Museum, Marina Bay Sands, Singapore",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Postmodern architecture in Singapore|Featured pictures of Singapore|Skyscrapers in Singapore|ArtScience Museum, Marina Bay Sands|Taken with Canon EOS 5D Mark IV and Canon EF 24-70mm F2.8L II USM|Self-published work|Featured pictures on Wikipedia, English|Skylines of the Central Business District, Singapore|Singapore photographs taken on 2018-06-05|FoP-Singapore|Featured pictures of cityscapes|Files with coordinates missing SDC location of creation|Featured pictures by Basile Morin|Featured pictures of museums|Photographs by Basile Morin|Marina Bay, Singapore, in the evening|Water reflections of buildings in Singapore in the evening",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality|featured",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "1.288688",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "103.860607",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/ArtScience_Museum\" class=\"extiw\" title=\"en:ArtScience Museum\">ArtScience Museum</a>, Marina Bay Sands, in the late afternoon, in front of the skyline of the Central Business District, Singapore. Architect : Moshe Safdie.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-06-05 17:38:23",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 130572554,
+    "ns": 6,
+    "title": "File:Floating Platform and illuminated East Coast Parkway seen from the sky observation deck of Marina Bay Sands Singapore.jpg",
+    "index": 4,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 10306133,
+        "width": 6013,
+        "height": 4009,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg/1920px-Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg/3840px-Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg/1920px-Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg/3840px-Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130572554",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-04-14 01:22:28",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Floating Platform and illuminated East Coast Parkway seen from the sky observation deck of Marina Bay Sands Singapore",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "The Helix Bridge|Featured pictures of Singapore|Skyscrapers in Singapore|East Coast Parkway|Pyramid roofs|Images with annotations|The Ritz-Carlton Millenia Singapore|Swissôtel The Stamford|Views from Marina Bay Sands|JW Marriott hotels|Pan Pacific Hotels and Resorts|Millenia Tower|Taken with Canon EOS 5D Mark IV and Canon EF 24-70mm F2.8L II USM|Self-published work|Featured pictures of buildings|Dusk in Singapore|Skylines of the Central Business District, Singapore|Exposure time 1/2 sec|Images with 10+ annotations|Panoramics of buildings in Singapore|Transparent roofs in Singapore|Featured pictures of cityscapes|June 2018 in Singapore|Water reflections of lights in Singapore|Files with coordinates missing SDC location of creation|Featured pictures by Basile Morin|Photographs taken on 2018-06-10|Marina Bay, Singapore, in the evening",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality|featured",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "1.285377",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "103.860880",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/The_Float_@_Marina_Bay\" class=\"extiw\" title=\"en:The Float @ Marina Bay\">Marina Bay Floating Platform</a>, the illuminated Bayfront avenue, <a href=\"https://en.wikipedia.org/wiki/East_Coast_Park\" class=\"extiw\" title=\"en:East Coast Park\">East Coast Parkway</a> and skyscrapers, seen from the sky observation deck of <a href=\"https://en.wikipedia.org/wiki/Marina_Bay_Sands#Facilities\" class=\"extiw\" title=\"en:Marina Bay Sands\">Marina Bay Sands</a> in <a href=\"https://en.wikipedia.org/wiki/Singapore\" class=\"extiw\" title=\"en:Singapore\">Singapore</a>. Some famous buildings visible on this picture include, from left to right, the <a href=\"https://en.wikipedia.org/wiki/Swiss%C3%B4tel_The_Stamford\" class=\"extiw\" title=\"en:Swissôtel The Stamford\">Swissôtel The Stamford</a>, designed by architect <a href=\"https://en.wikipedia.org/wiki/I.M._Pei\" class=\"extiw\" title=\"en:I.M. Pei\">I.M. Pei</a>, at a height of 226 metres (741 ft), the <a href=\"https://en.wikipedia.org/wiki/Mandarin_Oriental,_Singapore\" class=\"extiw\" title=\"en:Mandarin Oriental, Singapore\">Mandarin Oriental</a>, the <a href=\"https://en.wikipedia.org/wiki/JW_Marriott_Hotel\" class=\"extiw\" title=\"en:JW Marriott Hotel\">JW Marriott Hotel Singapore South Beach</a>, the <a href=\"https://en.wikipedia.org/wiki/South_Beach_Tower\" class=\"extiw\" title=\"en:South Beach Tower\">South Beach Tower</a>, the <a href=\"https://en.wikipedia.org/wiki/Pan_Pacific_Singapore_Hotel\" class=\"extiw\" title=\"en:Pan Pacific Singapore Hotel\">Pan Pacific Singapore Hotel</a>, the <a href=\"https://en.wikipedia.org/wiki/The_Ritz-Carlton_Millenia_Singapore\" class=\"extiw\" title=\"en:The Ritz-Carlton Millenia Singapore\">The Ritz-Carlton Millenia Singapore</a>, the <a href=\"https://en.wikipedia.org/wiki/Millenia_Tower\" class=\"extiw\" title=\"en:Millenia Tower\">Millenia Tower</a> skyscraper, designed by the architect <a href=\"https://en.wikipedia.org/wiki/Kevin_Roche\" class=\"extiw\" title=\"en:Kevin Roche\">Kevin Roche</a>, and its illuminated pyramidal roof. At the left of the Bayfront avenue is the pedestrian <a href=\"https://en.wikipedia.org/wiki/Helix_Bridge\" class=\"extiw\" title=\"en:Helix Bridge\">Helix Bridge</a>, made of architectural spirals, over the  <a href=\"https://en.wikipedia.org/wiki/Marina_Channel\" class=\"extiw\" title=\"en:Marina Channel\">Marina Channel</a> waterway.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-06-10 18:18:53",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 152986183,
+    "ns": 6,
+    "title": "File:Marina Bay, Singapore (P1110054).jpg",
+    "index": 9,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 7387959,
+        "width": 4608,
+        "height": 3072,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Marina_Bay%2C_Singapore_%28P1110054%29.jpg/1920px-Marina_Bay%2C_Singapore_%28P1110054%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Marina_Bay%2C_Singapore_%28P1110054%29.jpg/3840px-Marina_Bay%2C_Singapore_%28P1110054%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Marina_Bay%2C_Singapore_%28P1110054%29.jpg/1920px-Marina_Bay%2C_Singapore_%28P1110054%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Marina_Bay%2C_Singapore_%28P1110054%29.jpg/3840px-Marina_Bay%2C_Singapore_%28P1110054%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Marina_Bay%2C_Singapore_%28P1110054%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marina_Bay,_Singapore_(P1110054).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152986183",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-09-22 12:38:05",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Marina Bay, Singapore (P1110054)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|Marina Bay, Singapore|License migration redundant|Self-published work|August 2023 Singapore photographs|CC-BY-SA-2.0+|Uploaded with LrMediaWiki|User MB-one supported by Wikimedia Deutschland/Lightroom|Files with coordinates missing SDC location of creation|F-number f/2.5|Taken with Panasonic Lumix DMC-G5 and Leica DG Summilux 25mm F1.4",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "1.282080",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "103.853873",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "View across Marina Bay of the skyline of Suntec City in Singapore <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Marina_Bay,_Singapore_(P1110054).jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-08-17 18:35:04",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:MB-one\" title=\"User:MB-one\">Matti Blume</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 143514327,
+    "ns": 6,
+    "title": "File:Marina Bay Singapore-3499.jpg",
+    "index": 3,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 15764578,
+        "width": 6131,
+        "height": 4087,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Marina_Bay_Singapore-3499.jpg/1920px-Marina_Bay_Singapore-3499.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Marina_Bay_Singapore-3499.jpg/3840px-Marina_Bay_Singapore-3499.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Marina_Bay_Singapore-3499.jpg/1920px-Marina_Bay_Singapore-3499.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Marina_Bay_Singapore-3499.jpg/3840px-Marina_Bay_Singapore-3499.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Marina_Bay_Singapore-3499.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marina_Bay_Singapore-3499.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143514327",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-02-08 18:46:36",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Marina Bay Singapore-3499",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS USM|Featured pictures by Bijay chaurasia|Photos by Bijay chaurasia|Water reflections of buildings in Singapore at night|Long exposure photographs of Singapore|Singapore photographs taken on 2023-08-15|Uploaded with LrMediaWiki|Water reflections of cityscapes in Singapore|Files with coordinates missing SDC location of creation|Long exposures (water reflections)|Images of Singapore by Bijay Chaurasia|Exposure time 20 sec|Night skylines of the Central Business District, Singapore|Central Business District, Singapore, at night",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality|featured",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "1.288867",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "103.857757",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Skyline of the Central Business District of Singapore, Marina Bay Singapore",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-08-15",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<bdi>Bijay Chaurasia</bdi>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 85567140,
+    "ns": 6,
+    "title": "File:Singapore (SG), Marina Bay, Night View -- 2019 -- 4573-81.jpg",
+    "index": 8,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 33105749,
+        "width": 15310,
+        "height": 3629,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg/1920px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 379,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg/1920px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 379,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Singapore_%28SG%29%2C_Marina_Bay%2C_Night_View_--_2019_--_4573-81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay,_Night_View_--_2019_--_4573-81.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85567140",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-01-07 06:05:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Singapore (SG), Marina Bay, Night View -- 2019 -- 4573-81",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Photographs by Dietmar Rabich/Quality images of Singapore|Photographs with aspect ratio of 21:5|Self-published work|Exposure time 1/80 sec|F-number f/6.3|Large images|Photographs by Dietmar Rabich/Quality images|Photographs by Dietmar Rabich/Quality images of bodies of water|Information field template with formatting|Marina Bay, Singapore, at night|Photographs by Dietmar Rabich/Quality images of buildings|Clouds in Singapore|Stitched panoramic photographs|Lens focal length 24 mm|Images by XRay (flat list)|Uploaded with LrMediaWiki|Photographs by Dietmar Rabich/Singapore|Singapore photographs taken on 2019-11-05|Photographs by Dietmar Rabich/Panoramas|Buildings during blue hour in Singapore|Office buildings in Singapore photographed in 2019|Panoramics of Marina Bay, Singapore|Photographs by Dietmar Rabich/Available light photography/Blue hour|ISO speed rating 6400|Blue hour skylines|Night skylines of the Central Business District, Singapore|Dusk blue hour in Singapore|Photographs by Dietmar Rabich/Quality images of cityscapes|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|Dark skies in Singapore|Clouds at dusk|Quality stitched images|Photographs by Dietmar Rabich/Architectural photography/Cityscapes",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "1.284444",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "103.855833",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Marina_Bay,_Singapore\" class=\"extiw\" title=\"en:Marina Bay, Singapore\">Marina Bay</a>, <a href=\"https://en.wikipedia.org/wiki/Singapore\" class=\"extiw\" title=\"en:Singapore\">Singapore</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 5 November 2019, 19:02",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay,_Night_View_--_2019_--_4573-81.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay,_Night_View_--_2019_--_4573-81.jpg\">“Singapore (SG), Marina Bay, Night View -- 2019 -- 4573-81”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay,_Night_View_--_2019_--_4573-81.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay,_Night_View_--_2019_--_4573-81.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 85567063,
+    "ns": 6,
+    "title": "File:Singapore (SG), Marina Bay -- 2019 -- 4439-48.jpg",
+    "index": 6,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 43772162,
+        "width": 17523,
+        "height": 6227,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4439-48.jpg/1920px-Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4439-48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 569,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4439-48.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4439-48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4439-48.jpg/1920px-Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4439-48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 569,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4439-48.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4439-48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4439-48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4439-48.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85567063",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-01-03 10:39:50",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Singapore (SG), Marina Bay -- 2019 -- 4439-48",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Photographs by Dietmar Rabich/Quality images of Singapore|The Helix Bridge|ArtScience Museum, Marina Bay Sands|ISO speed rating 100|Photographs with aspect ratio of 14:5|Bridges in Singapore photographed in 2019|Self-published work|Exposure time 1/100 sec|Clouds in the Northern Hemisphere in November 2019|Large images|Photographs by Dietmar Rabich/Quality images|Photographs by Dietmar Rabich/Quality images of bodies of water|Information field template with formatting|Marina Bay Sands Hotel|Skylines of the Central Business District, Singapore|FoP-Singapore|Stitched panoramic photographs|Lens focal length 35 mm|Images by XRay (flat list)|Photographs by Dietmar Rabich/Quality images of bridges|Uploaded with LrMediaWiki|Photographs by Dietmar Rabich/Singapore|F-number f/11|Museums in Singapore photographed in 2019|Clouds and blue sky in Singapore|Singapore photographs taken on 2019-11-04|Hotels in Singapore photographed in 2019|Photographs by Dietmar Rabich/Panoramas|Office buildings in Singapore photographed in 2019|Panoramics of Marina Bay, Singapore|Photographs by Dietmar Rabich/Quality images of museums|Photographs by Dietmar Rabich/Quality images of cityscapes|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|Quality stitched images|Photographs by Dietmar Rabich/Architectural photography/Cityscapes",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "1.284444",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "103.855833",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Marina_Bay,_Singapore\" class=\"extiw\" title=\"en:Marina Bay, Singapore\">Marina Bay</a>, <a href=\"https://en.wikipedia.org/wiki/Singapore\" class=\"extiw\" title=\"en:Singapore\">Singapore</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 4 November 2019, 10:38",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4439-48.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4439-48.jpg\">“Singapore (SG), Marina Bay -- 2019 -- 4439-48”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4439-48.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4439-48.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 85567133,
+    "ns": 6,
+    "title": "File:Singapore (SG), Marina Bay -- 2019 -- 4561-9.jpg",
+    "index": 7,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 32325191,
+        "width": 15880,
+        "height": 3527,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4561-9.jpg/1920px-Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4561-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 355,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4561-9.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4561-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4561-9.jpg/1920px-Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4561-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 355,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4561-9.jpg/3840px-Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4561-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Singapore_%28SG%29%2C_Marina_Bay_--_2019_--_4561-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4561-9.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85567133",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-01-07 06:02:57",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Singapore (SG), Marina Bay -- 2019 -- 4561-9",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Photographs by Dietmar Rabich/Quality images of Singapore|Photographs with aspect ratio of 9:2|Self-published work|Exposure time 1/40 sec|Clouds in the Northern Hemisphere in November 2019|Large images|Photographs by Dietmar Rabich/Quality images|Photographs by Dietmar Rabich/Quality images of bodies of water|Information field template with formatting|Marina Bay, Singapore, at night|Photographs by Dietmar Rabich/Quality images of buildings|F-number f/8|Stitched panoramic photographs|Images by XRay (flat list)|Uploaded with LrMediaWiki|Photographs by Dietmar Rabich/Singapore|Clouds and blue sky in Singapore|Singapore photographs taken on 2019-11-05|Quality night photography in Singapore|Photographs by Dietmar Rabich/Panoramas|Buildings during blue hour in Singapore|Office buildings in Singapore photographed in 2019|Panoramics of Marina Bay, Singapore|Photographs by Dietmar Rabich/Available light photography/Blue hour|ISO speed rating 6400|Lens focal length 27 mm|Blue hour skylines|Night skylines of the Central Business District, Singapore|Dusk blue hour in Singapore|Photographs by Dietmar Rabich/Quality images of cityscapes|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|Dark skies in Singapore|Clouds at dusk|Quality stitched images|Photographs by Dietmar Rabich/Architectural photography/Cityscapes",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "1.284444",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "103.855833",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Marina_Bay_and_skyline,_Singapore\" class=\"extiw\" title=\"en:Marina Bay and skyline, Singapore\">Marina Bay</a>, <a href=\"https://en.wikipedia.org/wiki/Singapore\" class=\"extiw\" title=\"en:Singapore\">Singapore</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 5 November 2019, 18:57",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4561-9.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4561-9.jpg\">“Singapore (SG), Marina Bay -- 2019 -- 4561-9”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4561-9.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Marina_Bay_--_2019_--_4561-9.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 79286039,
+    "ns": 6,
+    "title": "File:Singapore Marina Bay Dusk 2018-02-27.jpg",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 5176417,
+        "width": 8928,
+        "height": 3360,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/1920px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 602,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/3840px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/1920px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 602,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/3840px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dusk_2018-02-27.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79286039",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-03-25 18:15:17",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Singapore Marina Bay Dusk 2018-02-27",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Postmodern architecture in Singapore|Featured pictures of Singapore|Skyscrapers in Singapore|ArtScience Museum, Marina Bay Sands|Dusk in Singapore|Featured night photography|Skylines of the Central Business District, Singapore|Singapore photographs taken on 2018-02-27|Clouds at sunset|Featured pictures by Benh|Water reflections of lights in Singapore|Water reflections of cityscapes in Singapore|Files with coordinates missing SDC location of creation|Clouds and blue sky in Singapore|Featured pictures of skylines|Buildings during blue hour in Singapore|Featured pictures from Flickr|Marina Bay, Singapore, in the evening|Water reflections of buildings in Singapore in the evening",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "featured",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "1.286097",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "103.858711",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Singapor\" class=\"extiw\" title=\"w:Singapor\">Singapore</a>'s Marina Bay at Dusk in 2018. From left to right, Marina Bay Sands (MBS), Louis Vuitton store and the CBD.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-02-27 19:39",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/blieusong/40105381470/\">Singapore Marina Bay Dusk</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Benh\" title=\"User:Benh\">Benh LIEU SONG</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75729488@N03\">Flickr</a>)",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 137548513,
+    "ns": 6,
+    "title": "File:Skyline, Marina Bay, Singapur, 2023-08-17, DD 20.jpg",
+    "index": 10,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 10900085,
+        "width": 7294,
+        "height": 4315,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_20.jpg/1920px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 947,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_20.jpg/3840px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_20.jpg/1920px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 947,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_20.jpg/3840px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Skyline,_Marina_Bay,_Singapur,_2023-08-17,_DD_20.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137548513",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-09-13 22:24:44",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Skyline, Marina Bay, Singapur, 2023-08-17, DD 20",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Canon EOS 5DS R|Marina Bay Financial Centre|Self-published work|Supported by Wikimedia Deutschland|Marina Bay, Singapore, at night|Images by User:Poco a poco|Singapore photographs taken on 2023-08-17|Images of Singapore by User:Poco a poco|Images by User:Poco a poco taken in 2023",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Marina Bay, Singapore",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-08-17 03:23:06",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer\">Diego Delso</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Diego Delso",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 137548517,
+    "ns": 6,
+    "title": "File:Skyline, Marina Bay, Singapur, 2023-08-17, DD 28.jpg",
+    "index": 11,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 7962038,
+        "width": 8474,
+        "height": 3563,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_28.jpg/1920px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 673,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_28.jpg/3840px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_28.jpg/1920px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 673,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_28.jpg/3840px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-17%2C_DD_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Skyline,_Marina_Bay,_Singapur,_2023-08-17,_DD_28.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137548517",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-05-30 12:15:48",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Skyline, Marina Bay, Singapur, 2023-08-17, DD 28",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Canon EOS 5DS R|Marina Bay, Singapore|Marina Bay Financial Centre|Self-published work|Supported by Wikimedia Deutschland|Images with extracted images|Images by User:Poco a poco|Singapore photographs taken on 2023-08-17|Images of Singapore by User:Poco a poco|Images by User:Poco a poco taken in 2023",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Marina Bay, Singapore",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-08-17 12:25:44",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer\">Diego Delso</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Diego Delso",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 137548521,
+    "ns": 6,
+    "title": "File:Skyline, Marina Bay, Singapur, 2023-08-18, DD 39-41 HDR.jpg",
+    "index": 12,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 11587348,
+        "width": 6934,
+        "height": 5484,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_39-41_HDR.jpg/1920px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_39-41_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1265,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_39-41_HDR.jpg/3840px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_39-41_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_39-41_HDR.jpg/1920px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_39-41_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1265,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_39-41_HDR.jpg/3840px-Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_39-41_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Skyline%2C_Marina_Bay%2C_Singapur%2C_2023-08-18%2C_DD_39-41_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Skyline,_Marina_Bay,_Singapur,_2023-08-18,_DD_39-41_HDR.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137548521",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-09-13 22:24:53",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Skyline, Marina Bay, Singapur, 2023-08-18, DD 39-41 HDR",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Canon EOS 5DS R|Self-published work|Supported by Wikimedia Deutschland|Marina Bay, Singapore, at night|Images by User:Poco a poco|Singapore photographs taken on 2023-08-18|Images of Singapore by User:Poco a poco|Quality night photography in Singapore|Images by User:Poco a poco taken in 2023|Marina Bay Financial Centre at night",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Marina Bay, Singapore",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-08-18 13:40:40",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer\">Diego Delso</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Diego Delso",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 81619823,
+    "ns": 6,
+    "title": "File:Skylines of the Central Business District, Singapore at dusk.jpg",
+    "index": 5,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 6584971,
+        "width": 5106,
+        "height": 3404,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg/1920px-Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg/3840px-Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg/1920px-Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg/3840px-Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Skylines_of_the_Central_Business_District,_Singapore_at_dusk.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81619823",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-08-26 04:40:41",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Skylines of the Central Business District, Singapore at dusk",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Canon EOS 5D Mark IV and Canon EF 11-24mm F4L USM|Featured pictures of Singapore|Skyscrapers in Singapore|Views from Marina Bay Sands|Self-published work|Commons featured widescreen desktop backgrounds|Dusk in Singapore|Featured night photography|ArtScience Museum, Marina Bay Sands, at night|The Fullerton Hotel Singapore at night|Files with coordinates missing SDC location of creation|Featured pictures by Basile Morin|Singapore photographs taken on 2018-06-10|Photographs by Basile Morin|Featured pictures of skylines|Long exposure photography in architecture|Night skylines of the Central Business District, Singapore|Published photographs by Basile Morin",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality|featured",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "1.285198",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "103.860720",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Skylines of the <a href=\"https://en.wikipedia.org/wiki/Central_Business_District,_Singapore\" class=\"extiw\" title=\"en:Central Business District, Singapore\">Central Business District</a>, <a href=\"https://en.wikipedia.org/wiki/Singapore\" class=\"extiw\" title=\"en:Singapore\">Singapore</a>, at dusk, from the sky observation deck of the Marina Bay Sands skycrapper.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-06-10 18:28:35",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,1331 @@
+[
+  {
+    "pageid": 115270414,
+    "ns": 6,
+    "title": "File:Beach from Remarkable Rocks, Kangaroo Island.jpg",
+    "index": 8,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 543217,
+        "width": 4032,
+        "height": 1960,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Beach_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg/1920px-Beach_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 778,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Beach_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg/3840px-Beach_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Beach_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg/1920px-Beach_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 778,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Beach_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg/3840px-Beach_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Beach_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beach_from_Remarkable_Rocks,_Kangaroo_Island.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115270414",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2022-02-15 07:46:45",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Beach from Remarkable Rocks, Kangaroo Island",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Beaches of South Australia|Self-published work|Remarkable Rocks on Kangaroo Island",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The photo was taken of the beach near the remarkable rocks, Kangaroo Island, SA, Australia. You can see some of the rocks in the foreground.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2021-12-19 13:59:32",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ilovechooks\" title=\"User:Ilovechooks\">Ilovechooks</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 59273128,
+    "ns": 6,
+    "title": "File:Close up view of Remarkable rocks, Kangaroo Island.jpg",
+    "index": 10,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1326815,
+        "width": 2048,
+        "height": 1536,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Close_up_view_of_Remarkable_rocks%2C_Kangaroo_Island.jpg/1920px-Close_up_view_of_Remarkable_rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Close_up_view_of_Remarkable_rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Close_up_view_of_Remarkable_rocks%2C_Kangaroo_Island.jpg/1920px-Close_up_view_of_Remarkable_rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Close_up_view_of_Remarkable_rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Close_up_view_of_Remarkable_rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Close_up_view_of_Remarkable_rocks,_Kangaroo_Island.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59273128",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-05-25 00:17:56",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Close up view of Remarkable rocks, Kangaroo Island",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Flickr images reviewed by FlickreviewR|Remarkable Rocks on Kangaroo Island|Australia photographs taken on 2004-04-04|Photographs by Phil Whitehouse",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Kangaroo Island",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 4 April 2004, 09:16",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/philliecasablanca/2051635637/\">Kangaroo Island</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/19451080@N00\">Phil Whitehouse</a> from London, United Kingdom",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 174808,
+    "ns": 6,
+    "title": "File:Kangaroo Island - Remarkable Rocks.jpg",
+    "index": 12,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1523427,
+        "width": 2592,
+        "height": 1728,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Kangaroo_Island_-_Remarkable_Rocks.jpg/1920px-Kangaroo_Island_-_Remarkable_Rocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kangaroo_Island_-_Remarkable_Rocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Kangaroo_Island_-_Remarkable_Rocks.jpg/1920px-Kangaroo_Island_-_Remarkable_Rocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kangaroo_Island_-_Remarkable_Rocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kangaroo_Island_-_Remarkable_Rocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kangaroo_Island_-_Remarkable_Rocks.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=174808",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2005-06-03 11:06:39",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Kangaroo Island - Remarkable Rocks",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Nikon Coolpix 5400|Remarkable Rocks on Kangaroo Island",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "\"Remarkable Rocks\" on Kangaroo Island",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2005-03",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "photo taken by <a href=\"//commons.wikimedia.org/wiki/User:Roo72\" title=\"User:Roo72\">Roo72</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Roo72\" title=\"User:Roo72\">Roo72</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Roo72\" title=\"User:Roo72\">Roo72</a> put it under the CC-BY-SA",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0 de",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0 de",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0-de",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 1988867,
+    "ns": 6,
+    "title": "File:Kangaroo Island - Remarkable Rocks - Australia.jpg",
+    "index": 11,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 763286,
+        "width": 6555,
+        "height": 2310,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kangaroo_Island_-_Remarkable_Rocks_-_Australia.jpg/1920px-Kangaroo_Island_-_Remarkable_Rocks_-_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 564,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kangaroo_Island_-_Remarkable_Rocks_-_Australia.jpg/3840px-Kangaroo_Island_-_Remarkable_Rocks_-_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kangaroo_Island_-_Remarkable_Rocks_-_Australia.jpg/1920px-Kangaroo_Island_-_Remarkable_Rocks_-_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 564,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kangaroo_Island_-_Remarkable_Rocks_-_Australia.jpg/3840px-Kangaroo_Island_-_Remarkable_Rocks_-_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kangaroo_Island_-_Remarkable_Rocks_-_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kangaroo_Island_-_Remarkable_Rocks_-_Australia.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1988867",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2007-04-23 10:23:55",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Kangaroo Island - Remarkable Rocks - Australia",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|License migration redundant|Self-published work|Remarkable Rocks on Kangaroo Island|Panoramics in South Australia",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Remarkable Rocks - Kangaroo Island - South Australia (Panorama made of 3 pictures)",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2005-01-25",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Didier B (<a href=\"//commons.wikimedia.org/wiki/User:Sam67fr\" title=\"User:Sam67fr\">Sam67fr</a>)",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.5",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.5",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 65689386,
+    "ns": 6,
+    "title": "File:Remarkable Rocks 01.jpg",
+    "index": 2,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 5012755,
+        "width": 5184,
+        "height": 3456,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Remarkable_Rocks_01.jpg/1920px-Remarkable_Rocks_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Remarkable_Rocks_01.jpg/3840px-Remarkable_Rocks_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Remarkable_Rocks_01.jpg/1920px-Remarkable_Rocks_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Remarkable_Rocks_01.jpg/3840px-Remarkable_Rocks_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Remarkable_Rocks_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarkable_Rocks_01.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65689386",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-01-20 22:16:21",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Remarkable Rocks 01",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Remarkable Rocks on Kangaroo Island|Files with coordinates missing SDC location of creation",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.048081",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "136.757192",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Remarkable Rocks in the Flinders Chase National Park, Kangaroo Island, Australia",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-11-23",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 65689415,
+    "ns": 6,
+    "title": "File:Remarkable Rocks 02.jpg",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 7917215,
+        "width": 5144,
+        "height": 3429,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Remarkable_Rocks_02.jpg/1920px-Remarkable_Rocks_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Remarkable_Rocks_02.jpg/3840px-Remarkable_Rocks_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Remarkable_Rocks_02.jpg/1920px-Remarkable_Rocks_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Remarkable_Rocks_02.jpg/3840px-Remarkable_Rocks_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Remarkable_Rocks_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarkable_Rocks_02.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65689415",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-01-20 22:17:56",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Remarkable Rocks 02",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Featured pictures by Bgag|Remarkable Rocks on Kangaroo Island|Featured pictures of South Australia|Clouds and blue sky in Australia|November 2015 in South Australia|Files with coordinates missing SDC location of creation|Australia photographs taken on 2015-11-23|Featured pictures of national parks of Australia",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality|featured|valued",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.048081",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "136.757192",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Remarkable Rocks in the Flinders Chase National Park, Kangaroo Island, Australia",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-11-23",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 65689430,
+    "ns": 6,
+    "title": "File:Remarkable Rocks 03.jpg",
+    "index": 3,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 6774105,
+        "width": 5104,
+        "height": 3403,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Remarkable_Rocks_03.jpg/1920px-Remarkable_Rocks_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Remarkable_Rocks_03.jpg/3840px-Remarkable_Rocks_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Remarkable_Rocks_03.jpg/1920px-Remarkable_Rocks_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Remarkable_Rocks_03.jpg/3840px-Remarkable_Rocks_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Remarkable_Rocks_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarkable_Rocks_03.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65689430",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-01-20 22:19:29",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Remarkable Rocks 03",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Remarkable Rocks on Kangaroo Island|Files with coordinates missing SDC location of creation",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.048081",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "136.757192",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Remarkable Rocks in the Flinders Chase National Park, Kangaroo Island, Australia",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-11-23",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 65689452,
+    "ns": 6,
+    "title": "File:Remarkable Rocks 04.jpg",
+    "index": 4,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 7671515,
+        "width": 5184,
+        "height": 3456,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Remarkable_Rocks_04.jpg/1920px-Remarkable_Rocks_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Remarkable_Rocks_04.jpg/3840px-Remarkable_Rocks_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Remarkable_Rocks_04.jpg/1920px-Remarkable_Rocks_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Remarkable_Rocks_04.jpg/3840px-Remarkable_Rocks_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Remarkable_Rocks_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarkable_Rocks_04.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65689452",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-04-13 14:41:53",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Remarkable Rocks 04",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Remarkable Rocks on Kangaroo Island|Files with coordinates missing SDC location of creation",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.048081",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "136.757192",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Remarkable Rocks in the Flinders Chase National Park, Kangaroo Island, Australia",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-11-23",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bgag\" title=\"User:Bgag\">Bernard Gagnon</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 97592403,
+    "ns": 6,
+    "title": "File:Remarkable Rocks in the Flinders Chase National Park, Kangaroo Island, Australia.jpg",
+    "index": 5,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 2989304,
+        "width": 4608,
+        "height": 3098,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Remarkable_Rocks_in_the_Flinders_Chase_National_Park%2C_Kangaroo_Island%2C_Australia.jpg/1920px-Remarkable_Rocks_in_the_Flinders_Chase_National_Park%2C_Kangaroo_Island%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1076,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Remarkable_Rocks_in_the_Flinders_Chase_National_Park%2C_Kangaroo_Island%2C_Australia.jpg/3840px-Remarkable_Rocks_in_the_Flinders_Chase_National_Park%2C_Kangaroo_Island%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Remarkable_Rocks_in_the_Flinders_Chase_National_Park%2C_Kangaroo_Island%2C_Australia.jpg/1920px-Remarkable_Rocks_in_the_Flinders_Chase_National_Park%2C_Kangaroo_Island%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1076,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Remarkable_Rocks_in_the_Flinders_Chase_National_Park%2C_Kangaroo_Island%2C_Australia.jpg/3840px-Remarkable_Rocks_in_the_Flinders_Chase_National_Park%2C_Kangaroo_Island%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Remarkable_Rocks_in_the_Flinders_Chase_National_Park%2C_Kangaroo_Island%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarkable_Rocks_in_the_Flinders_Chase_National_Park,_Kangaroo_Island,_Australia.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97592403",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-12-15 10:11:54",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Remarkable Rocks in the Flinders Chase National Park, Kangaroo Island, Australia",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Remarkable Rocks on Kangaroo Island",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Remarkable Rocks in the Flinders Chase National Park, Kangaroo Island, South Australia",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2020-11-18 14:15:26",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Vishnubonam&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Vishnubonam (page does not exist)\">Vishnubonam</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 12870140,
+    "ns": 6,
+    "title": "File:Remarkable Rocks on Kangaroo Island, South Australia.jpg",
+    "index": 7,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3923911,
+        "width": 4320,
+        "height": 2361,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Remarkable_Rocks_on_Kangaroo_Island%2C_South_Australia.jpg/1920px-Remarkable_Rocks_on_Kangaroo_Island%2C_South_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 874,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Remarkable_Rocks_on_Kangaroo_Island%2C_South_Australia.jpg/3840px-Remarkable_Rocks_on_Kangaroo_Island%2C_South_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Remarkable_Rocks_on_Kangaroo_Island%2C_South_Australia.jpg/1920px-Remarkable_Rocks_on_Kangaroo_Island%2C_South_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 874,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Remarkable_Rocks_on_Kangaroo_Island%2C_South_Australia.jpg/3840px-Remarkable_Rocks_on_Kangaroo_Island%2C_South_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Remarkable_Rocks_on_Kangaroo_Island%2C_South_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarkable_Rocks_on_Kangaroo_Island,_South_Australia.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12870140",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2011-01-31 21:00:26",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Remarkable Rocks on Kangaroo Island, South Australia",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Fujifilm FinePix Z80|CC-Zero|Self-published work|Remarkable Rocks on Kangaroo Island",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Remarkable Rocks on Kangaroo Island, South Australia.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Spring 2010<div style=\"display: none;\">date QS:P,+2010-00-00T00:00:00Z/9,P4241,Q40720559</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Dinkum",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 59273149,
+    "ns": 6,
+    "title": "File:Remarkable rocks at Kangaroo Island.jpg",
+    "index": 9,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 529500,
+        "width": 2048,
+        "height": 1536,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Remarkable_rocks_at_Kangaroo_Island.jpg/1920px-Remarkable_rocks_at_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Remarkable_rocks_at_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Remarkable_rocks_at_Kangaroo_Island.jpg/1920px-Remarkable_rocks_at_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Remarkable_rocks_at_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Remarkable_rocks_at_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarkable_rocks_at_Kangaroo_Island.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59273149",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-05-25 00:18:30",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Remarkable rocks at Kangaroo Island",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Flickr images reviewed by FlickreviewR|Remarkable Rocks on Kangaroo Island|Australia photographs taken on 2004-04-04|Photographs by Phil Whitehouse",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Kangaroo Island",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 4 April 2004, 09:09",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/philliecasablanca/2052421348/\">Kangaroo Island</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/19451080@N00\">Phil Whitehouse</a> from London, United Kingdom",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 119765764,
+    "ns": 6,
+    "title": "File:View east from Remarkable Rocks, Kangaroo Island.jpg",
+    "index": 6,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3765797,
+        "width": 4032,
+        "height": 3024,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/View_east_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg/1920px-View_east_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/View_east_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg/3840px-View_east_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/View_east_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg/1920px-View_east_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/View_east_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg/3840px-View_east_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/View_east_from_Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_east_from_Remarkable_Rocks,_Kangaroo_Island.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119765764",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2022-06-26 10:23:18",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "View east from Remarkable Rocks, Kangaroo Island",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Flinders Chase National Park|Self-published work|Remarkable Rocks on Kangaroo Island|February 2022 in South Australia|Images from Wiki Loves Earth 2022 in Australia|Images from Wiki Loves Earth 2022|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Uploaded via Campaign:wle-au|Images from Wiki Loves Earth missing SDC inception|WLE2022 AU SA",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Photo taken standing under one of the Remarkable Rocks, Flinders Chase National Park, Kangaroo Island",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2022-02-25 16:02:38",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Drmobs&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Drmobs (page does not exist)\">Drmobs</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,1368 @@
+[
+  {
+    "pageid": 3677747,
+    "ns": 6,
+    "title": "File:AucklandPano MC.jpg",
+    "index": 3,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 9164571,
+        "width": 15000,
+        "height": 2271,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/AucklandPano_MC.jpg/1920px-AucklandPano_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 242,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/AucklandPano_MC.jpg/3840px-AucklandPano_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/AucklandPano_MC.jpg/1920px-AucklandPano_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 242,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/AucklandPano_MC.jpg/3840px-AucklandPano_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/AucklandPano_MC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:AucklandPano_MC.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3677747",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2008-03-08 15:13:03",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "AucklandPano MC",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Featured pictures of New Zealand|Newton, New Zealand|Featured pictures on Wikipedia, English|Featured pictures on Wikipedia, German|Mount Eden (Auckland suburb)|Featured pictures on Wikipedia, Turkish|Files with coordinates missing SDC location of creation|New Zealand photographs taken on 2008-02-05|Featured pictures of skylines|Skylines of Auckland|Panoramics of Auckland|Remote views of the Sky Tower|Remote views of the Auckland CBD",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality|featured|potd",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.877944",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "174.764083",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Skyline of Auckland City, in the foreground a part of Mt. Eden is visible, left in the background is the Auckland Harbour Bridge. Panorama stitched from 2x20 portrait format images.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2008-02-05",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Christian Mehlführer, <i><a href=\"//commons.wikimedia.org/wiki/User:Chmehl\" title=\"User:Chmehl\">User:Chmehl</a></i>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/2.5/deed.en\" class=\"extiw\" title=\"creativecommons:by/2.5/deed.en\">Attribution 2.5 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/2.5</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 2.5 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 2.5 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.5",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.5",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 89494531,
+    "ns": 6,
+    "title": "File:Auckland CBD skyline and harbour.jpg",
+    "index": 6,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 283392,
+        "width": 1280,
+        "height": 560,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Auckland_CBD_skyline_and_harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 700,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Auckland_CBD_skyline_and_harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 700
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Auckland_CBD_skyline_and_harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Auckland_CBD_skyline_and_harbour.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=89494531",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-04-26 12:11:21",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Auckland CBD skyline and harbour",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "February 2012|February in New Zealand|Flickr images reviewed by FlickreviewR 2|New Zealand photographs taken on 2012-02-17|Skylines of Auckland|Remote views of the Auckland CBD|February 2012 in Auckland",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Auckland's central business district",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2012-02-17",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/photo_magic_allan/6830293086/\">https://www.flickr.com/photos/photo_magic_allan/6830293086/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Allan Grey",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 149513829,
+    "ns": 6,
+    "title": "File:Auckland CBD skyline from Waitemata Harbour entrance.jpg",
+    "index": 4,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 5227784,
+        "width": 4896,
+        "height": 3264,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg/1920px-Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg/3840px-Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg/1920px-Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg/3840px-Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Auckland_CBD_skyline_from_Waitemata_Harbour_entrance.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149513829",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-06-18 21:20:33",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Auckland CBD skyline from Waitemata Harbour entrance",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|PD-self|New Zealand photographs taken on 2024-02-17|Files with coordinates missing SDC location of creation|Skylines of Auckland|Remote views of the Auckland CBD|February 2024 in Auckland",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.835667",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "174.784694",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Auckland <a href=\"https://en.wikipedia.org/wiki/Central_business_district\" class=\"extiw\" title=\"en:Central business district\">CBD</a> skyline with <a href=\"https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)\" class=\"extiw\" title=\"en:Sky Tower (Auckland)\">Sky Tower</a> in the morning, looking southwest from Waitemata Harbour entrance, with <a href=\"https://en.wikipedia.org/wiki/Seascape_(Auckland)\" class=\"extiw\" title=\"en:Seascape (Auckland)\">Seascape</a> skyscraper under construction in 2024",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-02-17",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/User:Pseudopanax\" class=\"extiw\" title=\"wikipedia:User:Pseudopanax\">Pseudopanax</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 137493849,
+    "ns": 6,
+    "title": "File:Auckland City skyline from Auckland Harbour Bridge.jpg",
+    "index": 2,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1190527,
+        "width": 2525,
+        "height": 2128,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Auckland_City_skyline_from_Auckland_Harbour_Bridge.jpg/1920px-Auckland_City_skyline_from_Auckland_Harbour_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1348,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Auckland_City_skyline_from_Auckland_Harbour_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Auckland_City_skyline_from_Auckland_Harbour_Bridge.jpg/1920px-Auckland_City_skyline_from_Auckland_Harbour_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1348,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Auckland_City_skyline_from_Auckland_Harbour_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Auckland_City_skyline_from_Auckland_Harbour_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Auckland_City_skyline_from_Auckland_Harbour_Bridge.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137493849",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-09-13 02:10:40",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Auckland City skyline from Auckland Harbour Bridge",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Auckland Harbour Bridge|Self-published work|Remote views of the Auckland CBD",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Auckland City skyline from Auckland Harbour Bridge, New Zealand",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-05-18 11:46:29",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:AnnWoolliams\" title=\"User:AnnWoolliams\">AnnWoolliams</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 56865623,
+    "ns": 6,
+    "title": "File:Auckland Skyline from Harbour Bridge - panoramio.jpg",
+    "index": 9,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 6176684,
+        "width": 5231,
+        "height": 3488,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Auckland_Skyline_from_Harbour_Bridge_-_panoramio.jpg/1920px-Auckland_Skyline_from_Harbour_Bridge_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Auckland_Skyline_from_Harbour_Bridge_-_panoramio.jpg/3840px-Auckland_Skyline_from_Harbour_Bridge_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Auckland_Skyline_from_Harbour_Bridge_-_panoramio.jpg/1920px-Auckland_Skyline_from_Harbour_Bridge_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Auckland_Skyline_from_Harbour_Bridge_-_panoramio.jpg/3840px-Auckland_Skyline_from_Harbour_Bridge_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Auckland_Skyline_from_Harbour_Bridge_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Auckland_Skyline_from_Harbour_Bridge_-_panoramio.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56865623",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-03-07 02:18:23",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Auckland Skyline from Harbour Bridge - panoramio",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|New Zealand photographs taken on 2013-02-16|Cityscapes of Auckland|Photos from Panoramio ID 828011",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.834400",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "174.743408",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Auckland Skyline from Harbour Bridge",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 16 February 2013",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161028053128/http://www.panoramio.com/photo/96439088\">https://web.archive.org/web/20161028053128/http://www.panoramio.com/photo/96439088</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161028053129/http://www.panoramio.com/user/828011?with_photo_id=96439088\">Bohao Zhao</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Bohao Zhao</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 7 March 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Bohao Zhao",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 70520935,
+    "ns": 6,
+    "title": "File:Auckland Skyline from Viaduct Basin (9695340619).jpg",
+    "index": 7,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1910310,
+        "width": 2400,
+        "height": 936,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Auckland_Skyline_from_Viaduct_Basin_%289695340619%29.jpg/1920px-Auckland_Skyline_from_Viaduct_Basin_%289695340619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 624,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/7/75/Auckland_Skyline_from_Viaduct_Basin_%289695340619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Auckland_Skyline_from_Viaduct_Basin_%289695340619%29.jpg/1920px-Auckland_Skyline_from_Viaduct_Basin_%289695340619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 624,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/75/Auckland_Skyline_from_Viaduct_Basin_%289695340619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Auckland_Skyline_from_Viaduct_Basin_%289695340619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Auckland_Skyline_from_Viaduct_Basin_(9695340619).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70520935",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-07-03 13:46:51",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Auckland Skyline from Viaduct Basin (9695340619)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Viaduct Harbour|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Skylines of Auckland",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.842056",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "174.763255",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Viaduct Basin (often Viaduct Harbour) is a former commercial harbour on the Auckland waterfront, now turned into a development of mostly upscale apartments, office space and restaurants. It is located on the site of a formerly run-down area of the Freemans Bay / Auckland CBD waterfront in Auckland City, New Zealand. As a centre of activity of the 2000 America's Cup hosted by the Royal New Zealand Yacht Squadron, the area enjoyed considerable popularity with locals and foreign visitors.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2012-06-11 16:31",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/volvob12b/9695340619/\">Auckland Skyline from Viaduct Basin</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/88123769@N02\">Bernard Spragg. NZ</a> from Christchurch, New Zealand",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 73080351,
+    "ns": 6,
+    "title": "File:Auckland skyline (24045221962).jpg",
+    "index": 8,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3632999,
+        "width": 4608,
+        "height": 3456,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Auckland_skyline_%2824045221962%29.jpg/1920px-Auckland_skyline_%2824045221962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Auckland_skyline_%2824045221962%29.jpg/3840px-Auckland_skyline_%2824045221962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Auckland_skyline_%2824045221962%29.jpg/1920px-Auckland_skyline_%2824045221962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Auckland_skyline_%2824045221962%29.jpg/3840px-Auckland_skyline_%2824045221962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Auckland_skyline_%2824045221962%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Auckland_skyline_(24045221962).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73080351",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-09-26 10:20:53",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Auckland skyline (24045221962)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Sky Tower (Auckland)|Images with extracted images|Green and red|Christmas 2015 in Oceania|Night in Auckland|Christmas lights in New Zealand|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|New Zealand photographs taken on 2015-12-08|December 2015 in Auckland",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.841438",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "174.758234",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Skyline of largest NZ city by night, Sky Tower lit in red and green. Harbour in foreground.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-12-08 12:11",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/mklapper/24045221962/\">Auckland skyline</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/57085325@N08\">Marco Klapper</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 25597902,
+    "ns": 6,
+    "title": "File:Auckland skyline from Bridge.jpg",
+    "index": 11,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 4522569,
+        "width": 3072,
+        "height": 2304,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_from_Bridge.jpg/1920px-Auckland_skyline_from_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Auckland_skyline_from_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_from_Bridge.jpg/1920px-Auckland_skyline_from_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Auckland_skyline_from_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Auckland_skyline_from_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Auckland_skyline_from_Bridge.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25597902",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2013-04-15 06:14:15",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Auckland skyline from Bridge",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Waitematā Harbour|Flickr images reviewed by FlickreviewR",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Auckland skyline from underneath the Harbour Bridge",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2008-04-10",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/pacb/2402925522/in/photostream/\">Flickr</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/pacb/\">Peter Braun</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 82552221,
+    "ns": 6,
+    "title": "File:Auckland skyline from harbor bridge, 20 September 2019.jpg",
+    "index": 5,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 593339,
+        "width": 2694,
+        "height": 1401,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Auckland_skyline_from_harbor_bridge%2C_20_September_2019.jpg/1920px-Auckland_skyline_from_harbor_bridge%2C_20_September_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 832,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/4/47/Auckland_skyline_from_harbor_bridge%2C_20_September_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Auckland_skyline_from_harbor_bridge%2C_20_September_2019.jpg/1920px-Auckland_skyline_from_harbor_bridge%2C_20_September_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 832,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/47/Auckland_skyline_from_harbor_bridge%2C_20_September_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Auckland_skyline_from_harbor_bridge%2C_20_September_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Auckland_skyline_from_harbor_bridge,_20_September_2019.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82552221",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-09-26 10:12:43",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Auckland skyline from harbor bridge, 20 September 2019",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Views from the Auckland Harbour Bridge|Self-published work|Files with coordinates missing SDC location of creation|Remote views of the Auckland CBD",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.831666",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "174.744838",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "the skyline of Auckland with the Commercial bay tower and Pacifica tower under construction",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-09-20 17:05:39",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jack189417&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jack189417 (page does not exist)\">Jack189417</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 79289807,
+    "ns": 6,
+    "title": "File:Auckland skyline from harbour.png",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 5137928,
+        "width": 2437,
+        "height": 1641,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Auckland_skyline_from_harbour.png/1920px-Auckland_skyline_from_harbour.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1077,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Auckland_skyline_from_harbour.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Auckland_skyline_from_harbour.png/1920px-Auckland_skyline_from_harbour.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1077,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Auckland_skyline_from_harbour.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Auckland_skyline_from_harbour.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Auckland_skyline_from_harbour.png",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79289807",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-05-28 21:31:16",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Auckland skyline from harbour",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Auckland Harbour Bridge|Waitematā Harbour|Self-published work|Skylines of Auckland",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Auckland City skyline from the Waitematā Harbour, including the Harbour Bridge and Sky Tower.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-05-28",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:WBPchur\" title=\"User:WBPchur\">WBPchur</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 199404658,
+    "ns": 6,
+    "title": "File:Tāmaki Makaurau Auckland, Part V - Auckland9578.jpg",
+    "index": 10,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 9061913,
+        "width": 5069,
+        "height": 3379,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/T%C4%81maki_Makaurau_Auckland%2C_Part_V_-_Auckland9578.jpg/1920px-T%C4%81maki_Makaurau_Auckland%2C_Part_V_-_Auckland9578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/T%C4%81maki_Makaurau_Auckland%2C_Part_V_-_Auckland9578.jpg/3840px-T%C4%81maki_Makaurau_Auckland%2C_Part_V_-_Auckland9578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/T%C4%81maki_Makaurau_Auckland%2C_Part_V_-_Auckland9578.jpg/1920px-T%C4%81maki_Makaurau_Auckland%2C_Part_V_-_Auckland9578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/T%C4%81maki_Makaurau_Auckland%2C_Part_V_-_Auckland9578.jpg/3840px-T%C4%81maki_Makaurau_Auckland%2C_Part_V_-_Auckland9578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/T%C4%81maki_Makaurau_Auckland%2C_Part_V_-_Auckland9578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:T%C4%81maki_Makaurau_Auckland,_Part_V_-_Auckland9578.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199404658",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-09-13 10:07:29",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Tāmaki Makaurau Auckland, Part V - Auckland9578",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Auckland|Auckland CBD|CC-Zero|Waitematā Harbour|Sky Tower (Auckland)|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Flickr images missing SDC copyright status|Flickr images missing SDC inception|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Skylines of Auckland",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-36.852300",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "174.762917",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Auckland CBD skyline and Sky Tower viewed across Waitematā Harbour.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-09-12",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/199350666@N08/55523122357\">https://www.flickr.com/photos/199350666@N08/55523122357</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/199350666@N08\">lumoplank</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 71226481,
+    "ns": 6,
+    "title": "File:View from Bayswater of Auckland and harbour.jpg",
+    "index": 12,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 298121,
+        "width": 1024,
+        "height": 768,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/16/View_from_Bayswater_of_Auckland_and_harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/View_from_Bayswater_of_Auckland_and_harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/View_from_Bayswater_of_Auckland_and_harbour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_from_Bayswater_of_Auckland_and_harbour.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71226481",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-07-31 14:22:02",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "View from Bayswater of Auckland and harbour",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Waitematā Harbour|Self-published work|Skylines of Auckland|Takapuna Boating Club",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "View from the Auckland suburb of Bayswater of the city and harbour.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2004-07-21 10:45:57",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Orderinchaos\" title=\"User:Orderinchaos\">Orderinchaos</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

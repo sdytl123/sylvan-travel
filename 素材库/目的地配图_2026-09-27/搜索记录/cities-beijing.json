@@ -1,0 +1,1284 @@
+[
+  {
+    "pageid": 54500073,
+    "ns": 6,
+    "title": "File:Forbidden City Panorama, Beijing - panoramio.jpg",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 4451707,
+        "width": 4948,
+        "height": 923,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Forbidden_City_Panorama%2C_Beijing_-_panoramio.jpg/1920px-Forbidden_City_Panorama%2C_Beijing_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 298,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Forbidden_City_Panorama%2C_Beijing_-_panoramio.jpg/3840px-Forbidden_City_Panorama%2C_Beijing_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Forbidden_City_Panorama%2C_Beijing_-_panoramio.jpg/1920px-Forbidden_City_Panorama%2C_Beijing_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 298,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Forbidden_City_Panorama%2C_Beijing_-_panoramio.jpg/3840px-Forbidden_City_Panorama%2C_Beijing_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Forbidden_City_Panorama%2C_Beijing_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forbidden_City_Panorama,_Beijing_-_panoramio.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=54500073",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-12-27 08:17:06",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Forbidden City Panorama, Beijing - panoramio",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Hall of Supreme Harmony (Forbidden City)|Gate of Supreme Harmony|Belvedere of Embodying Benevolence|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Photos from Panoramio ID 957078",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.915196",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.391665",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Forbidden City Panorama, Beijing",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "19 February 2012 (original upload date)",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161020055619/http://www.panoramio.com/photo/67045951\">https://web.archive.org/web/20161020055619/http://www.panoramio.com/photo/67045951</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161020055621/http://www.panoramio.com/user/957078?with_photo_id=67045951\">Petr Kraumann</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Petr Kraumann</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 27 December 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Petr Kraumann",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 32854564,
+    "ns": 6,
+    "title": "File:Forbidden City Panorama 1.jpg",
+    "index": 2,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1707261,
+        "width": 1920,
+        "height": 1080,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Forbidden_City_Panorama_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 900,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Forbidden_City_Panorama_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 900
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Forbidden_City_Panorama_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forbidden_City_Panorama_1.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32854564",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-05-19 08:08:20",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Forbidden City Panorama 1",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "China photographs taken on 2013-07-02|Clouds and blue sky in China|Views of the Forbidden City from Jingshan Park|Summer in Beijing|Self-published work|July 2013 in Beijing",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Forbidden City in Beijing, China (photographed from Jing Shan).",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2013-07-02 11:19:20",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tojan76&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tojan76 (page does not exist)\">Tojan76</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 52364142,
+    "ns": 6,
+    "title": "File:Forbidden City Panorama 1 (cropped).jpg",
+    "index": 11,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 447820,
+        "width": 791,
+        "height": 539,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Forbidden_City_Panorama_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1090,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Forbidden_City_Panorama_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1090
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Forbidden_City_Panorama_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forbidden_City_Panorama_1_(cropped).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52364142",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-10-19 05:38:00",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Forbidden City Panorama 1 (cropped)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Views of the Forbidden City from Jingshan Park|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Forbidden City in Beijing, China (photographed from Jing Shan).",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2013-07-02 11:19:20",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tojan76&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tojan76 (page does not exist)\">Tojan76</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 32854565,
+    "ns": 6,
+    "title": "File:Forbidden City Panorama 2.jpg",
+    "index": 7,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1897547,
+        "width": 1920,
+        "height": 1080,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Forbidden_City_Panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 900,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Forbidden_City_Panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 900
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Forbidden_City_Panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forbidden_City_Panorama_2.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32854565",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-05-19 08:08:20",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Forbidden City Panorama 2",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Views of the Forbidden City from Jingshan Park|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Forbidden City in Beijing, China (photographed from Jing Shan).",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2013-07-02 11:07:21",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tojan76&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tojan76 (page does not exist)\">Tojan76</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 32854918,
+    "ns": 6,
+    "title": "File:Forbidden City Panorama 3.jpg",
+    "index": 8,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 2800426,
+        "width": 3264,
+        "height": 1240,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Forbidden_City_Panorama_3.jpg/1920px-Forbidden_City_Panorama_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 608,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Forbidden_City_Panorama_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Forbidden_City_Panorama_3.jpg/1920px-Forbidden_City_Panorama_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 608,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Forbidden_City_Panorama_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Forbidden_City_Panorama_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forbidden_City_Panorama_3.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32854918",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-05-19 08:35:20",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Forbidden City Panorama 3",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Views of the Forbidden City from Jingshan Park|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Forbidden City in Beijing, China, viewed from Jing Shan.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2013-07-02 11:19:20",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tojan76&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tojan76 (page does not exist)\">Tojan76</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 74838546,
+    "ns": 6,
+    "title": "File:Forbidden City Panorama 3 (cropped).png",
+    "index": 9,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 5244001,
+        "width": 3264,
+        "height": 698,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Forbidden_City_Panorama_3_%28cropped%29.png/1920px-Forbidden_City_Panorama_3_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 342,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Forbidden_City_Panorama_3_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Forbidden_City_Panorama_3_%28cropped%29.png/1920px-Forbidden_City_Panorama_3_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 342,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Forbidden_City_Panorama_3_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Forbidden_City_Panorama_3_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forbidden_City_Panorama_3_(cropped).png",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74838546",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-12-04 05:26:08",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Forbidden City Panorama 3 (cropped)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Views of the Forbidden City from Jingshan Park|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Forbidden City in Beijing, China, viewed from Jing Shan.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2013-07-02 11:19:20",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tojan76&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tojan76 (page does not exist)\">Tojan76</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 32854919,
+    "ns": 6,
+    "title": "File:Forbidden City Panorama 4.JPG",
+    "index": 6,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3052271,
+        "width": 3264,
+        "height": 1240,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Forbidden_City_Panorama_4.JPG/1920px-Forbidden_City_Panorama_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 608,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Forbidden_City_Panorama_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Forbidden_City_Panorama_4.JPG/1920px-Forbidden_City_Panorama_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 608,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Forbidden_City_Panorama_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Forbidden_City_Panorama_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forbidden_City_Panorama_4.JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32854919",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-05-19 08:35:21",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Forbidden City Panorama 4",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Views of the Forbidden City from Jingshan Park|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Forbidden City in Beijing, China, viewed from Jing Shan.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2013-07-02 11:07:21",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tojan76&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tojan76 (page does not exist)\">Tojan76</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 32628105,
+    "ns": 6,
+    "title": "File:Forbidden City panorama from Gate of Supreme Harmony.jpg",
+    "index": 3,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 20892173,
+        "width": 16407,
+        "height": 2844,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Forbidden_City_panorama_from_Gate_of_Supreme_Harmony.jpg/1920px-Forbidden_City_panorama_from_Gate_of_Supreme_Harmony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 277,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Forbidden_City_panorama_from_Gate_of_Supreme_Harmony.jpg/3840px-Forbidden_City_panorama_from_Gate_of_Supreme_Harmony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Forbidden_City_panorama_from_Gate_of_Supreme_Harmony.jpg/1920px-Forbidden_City_panorama_from_Gate_of_Supreme_Harmony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 277,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Forbidden_City_panorama_from_Gate_of_Supreme_Harmony.jpg/3840px-Forbidden_City_panorama_from_Gate_of_Supreme_Harmony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Forbidden_City_panorama_from_Gate_of_Supreme_Harmony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forbidden_City_panorama_from_Gate_of_Supreme_Harmony.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32628105",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-05-06 21:12:34",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Forbidden City panorama from Gate of Supreme Harmony",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|Taken with Nikon D3x|Hall of Supreme Harmony (Forbidden City)|License migration redundant|Tourism in Beijing|Self-published work|Panoramics of the Forbidden City",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A panoramic (stitched from three separate images) of the courtyard in the <a href=\"https://en.wikipedia.org/wiki/Forbidden_City\" class=\"extiw\" title=\"w:Forbidden City\">Forbidden City</a> south of the <a href=\"https://en.wikipedia.org/wiki/Hall_of_Supreme_Harmony\" class=\"extiw\" title=\"w:Hall of Supreme Harmony\">Hall of Supreme Harmony</a> from the north steps of the <a href=\"https://en.wikipedia.org/wiki/Gate_of_Supreme_Harmony\" class=\"extiw\" title=\"w:Gate of Supreme Harmony\">Gate of Supreme Harmony</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2014-03-30",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Daniel_Case\" title=\"User:Daniel Case\">Daniel Case</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "You may select the license of your choice.",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 32628405,
+    "ns": 6,
+    "title": "File:Forbidden City panorama from Gate of Supreme Harmony wikivoyage banner.jpg",
+    "index": 10,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 6700419,
+        "width": 14306,
+        "height": 2046,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Forbidden_City_panorama_from_Gate_of_Supreme_Harmony_wikivoyage_banner.jpg/1920px-Forbidden_City_panorama_from_Gate_of_Supreme_Harmony_wikivoyage_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 229,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Forbidden_City_panorama_from_Gate_of_Supreme_Harmony_wikivoyage_banner.jpg/3840px-Forbidden_City_panorama_from_Gate_of_Supreme_Harmony_wikivoyage_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Forbidden_City_panorama_from_Gate_of_Supreme_Harmony_wikivoyage_banner.jpg/1920px-Forbidden_City_panorama_from_Gate_of_Supreme_Harmony_wikivoyage_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 229,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Forbidden_City_panorama_from_Gate_of_Supreme_Harmony_wikivoyage_banner.jpg/3840px-Forbidden_City_panorama_from_Gate_of_Supreme_Harmony_wikivoyage_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Forbidden_City_panorama_from_Gate_of_Supreme_Harmony_wikivoyage_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forbidden_City_panorama_from_Gate_of_Supreme_Harmony_wikivoyage_banner.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32628405",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-07-31 18:06:29",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Forbidden City panorama from Gate of Supreme Harmony wikivoyage banner",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|License migration redundant|Self-published work|Extracted images|Wikivoyage banners of Beijing|Panoramics of the Forbidden City",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A panoramic (stitched from three separate images) of the courtyard in the <a href=\"https://en.wikipedia.org/wiki/Forbidden_City\" class=\"extiw\" title=\"w:Forbidden City\">Forbidden City</a> south of the <a href=\"https://en.wikipedia.org/wiki/Hall_of_Supreme_Harmony\" class=\"extiw\" title=\"w:Hall of Supreme Harmony\">Hall of Supreme Harmony</a> from the north steps of the <a href=\"https://en.wikipedia.org/wiki/Gate_of_Supreme_Harmony\" class=\"extiw\" title=\"w:Gate of Supreme Harmony\">Gate of Supreme Harmony</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2013-03-30",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Daniel_Case\" title=\"User:Daniel Case\">Daniel Case</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "You may select the license of your choice.",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 62180747,
+    "ns": 6,
+    "title": "File:Forbidden city panorama.jpg",
+    "index": 12,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 920151,
+        "width": 6620,
+        "height": 660,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Forbidden_city_panorama.jpg/1920px-Forbidden_city_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 160,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Forbidden_city_panorama.jpg/3840px-Forbidden_city_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Forbidden_city_panorama.jpg/1920px-Forbidden_city_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 160,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Forbidden_city_panorama.jpg/3840px-Forbidden_city_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Forbidden_city_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forbidden_city_panorama.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62180747",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-09-04 15:30:29",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Forbidden city panorama",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Panoramics of the Forbidden City",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Panorama of Forbidden City, Beijing, China",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "26 May 2006 (original upload date)",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons.</bdi>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "The original uploader was <a href=\"https://en.wikipedia.org/wiki/User:Captain_olimar\" class=\"extiw\" title=\"wikipedia:User:Captain olimar\">Captain olimar</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>.",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.5",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.5",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.5",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.5",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 36627601,
+    "ns": 6,
+    "title": "File:View of the Forbidden City, Beijing Wellcome V0037638.jpg",
+    "index": 5,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 2571337,
+        "width": 3537,
+        "height": 2029,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037638.jpg/1920px-View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 918,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/7/76/View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037638.jpg/1920px-View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 918,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/76/View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_of_the_Forbidden_City,_Beijing_Wellcome_V0037638.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36627601",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-11-05 19:54:53",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\nView of the Forbidden City, Beijing</div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Beijing in the 19th century|Forbidden City|Second Opium War|Files with no machine-readable author|Images uploaded by Fæ|Artworks without Wikidata item|Military history of Asia|Files from Wellcome Images (check needed)|Files from Wellcome Images|Photographs of the Qing dynasty",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<div class=\"description\">\n<p>View of the Forbidden City, Beijing (Section one of a panorama)\n</p>\n<p>Iconographic Collections</p>\nKeywords: Felice A. Beato; Arrow War; Military History; Second Opium War; British; Anglo Chinese War; Peking; China; Qing Dynasty</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/11/78/deba7a0cf8c3a0ff751e653f31cd.jpg\">https://wellcomeimages.org/indexplus/obf_images/11/78/deba7a0cf8c3a0ff751e653f31cd.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/V0037638.html\">https://wellcomeimages.org/indexplus/image/V0037638.html</a></li>\n<li>Wellcome Collection gallery (2018-04-06): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/uvn4evjq\">https://wellcomecollection.org/works/uvn4evjq</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 36627611,
+    "ns": 6,
+    "title": "File:View of the Forbidden City, Beijing Wellcome V0037639.jpg",
+    "index": 4,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3952313,
+        "width": 3416,
+        "height": 2220,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037639.jpg/1920px-View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1040,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/7/76/View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037639.jpg/1920px-View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1040,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/76/View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/View_of_the_Forbidden_City%2C_Beijing_Wellcome_V0037639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_of_the_Forbidden_City,_Beijing_Wellcome_V0037639.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36627611",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-11-05 19:55:26",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\nView of the Forbidden City, Beijing</div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Forbidden City|Second Opium War|Files with no machine-readable author|Images uploaded by Fæ|Artworks without Wikidata item|Military history of Asia|Files from Wellcome Images (check needed)|Zhonghuamen|Files from Wellcome Images|19th-century black and white photographs of Beijing",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<div class=\"description\">\n<p>View of the Forbidden City, Beijing (Section two of a panorama)\n</p>\n<p>Iconographic Collections</p>\nKeywords: Felice A. Beato; Arrow War; Military History; Second Opium War; British; Anglo Chinese War; Peking; China; Qing Dynasty</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/66/91/c4b099675ebb592dad093496bb8e.jpg\">https://wellcomeimages.org/indexplus/obf_images/66/91/c4b099675ebb592dad093496bb8e.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/V0037639.html\">https://wellcomeimages.org/indexplus/image/V0037639.html</a></li>\n<li>Wellcome Collection gallery (2018-04-06): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/mss3enhp\">https://wellcomecollection.org/works/mss3enhp</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

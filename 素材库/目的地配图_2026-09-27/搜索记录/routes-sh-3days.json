@@ -1,0 +1,1312 @@
+[
+  {
+    "pageid": 37611869,
+    "ns": 6,
+    "title": "File:2014 Shanghai stampede.JPG",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 128062,
+        "width": 960,
+        "height": 720,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/2014_Shanghai_stampede.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/2014_Shanghai_stampede.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/2014_Shanghai_stampede.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:2014_Shanghai_stampede.JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37611869",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-01-01 03:11:54",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "2014 Shanghai stampede",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Volkswagen automobiles in China|2014 Shanghai stampede|GFDL|License migration redundant|Taxis in Shanghai|Self-published work|Volkswagen Santana Vista|Photographs taken on 2015-01-01|Police automobiles in Shanghai|Volkswagen automobiles in Shanghai|Volkswagen Passat Lingyu in police service",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "2014/2015 central Shanghai (The Bund area) stampede aftermath.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-01-01",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Galaxyharrylion\" title=\"User:Galaxyharrylion\">Galaxyharrylion</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 37614049,
+    "ns": 6,
+    "title": "File:2014 Shanghai stampede2.png",
+    "index": 8,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 631012,
+        "width": 488,
+        "height": 648,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2014_Shanghai_stampede2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 2125,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2014_Shanghai_stampede2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2125
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2014_Shanghai_stampede2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:2014_Shanghai_stampede2.png",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37614049",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-01-01 08:06:38",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "2014 Shanghai stampede2",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "2014 Shanghai stampede|CC-Zero|Self-published work|Temporary monuments and memorials|Photographs taken on 2015-01-01",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "mourning for victims in the stampede(but it's not the site of stampede)",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-01-01",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Galaxyharrylion\" title=\"User:Galaxyharrylion\">Galaxyharrylion</a> <a href=\"//commons.wikimedia.org/wiki/User:Fayhoo\" title=\"User:Fayhoo\">fayhoo</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 37650807,
+    "ns": 6,
+    "title": "File:2014 Shanghai stampede3.jpeg",
+    "index": 6,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 168522,
+        "width": 982,
+        "height": 650,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/60/2014_Shanghai_stampede3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1059,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/2014_Shanghai_stampede3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1059
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2014_Shanghai_stampede3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:2014_Shanghai_stampede3.jpeg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37650807",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-01-03 09:44:51",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "2014 Shanghai stampede3",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "January 2015 China photographs|Female journalists from China|2014 Shanghai stampede|CC-Zero|Shanghai Media Group|Self-published work|Women wearing down jackets",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Zi Lichao, the journalist from Shanghai Televison, was recording a program at the site of stampede",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-01-02",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fayhoo\" title=\"User:Fayhoo\">fayhoo</a> <a href=\"//commons.wikimedia.org/wiki/User:Galaxyharrylion\" title=\"User:Galaxyharrylion\">Galaxyharrylion</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 37669179,
+    "ns": 6,
+    "title": "File:2014 Shanghai stampede4.jpeg",
+    "index": 5,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 142525,
+        "width": 960,
+        "height": 636,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2014_Shanghai_stampede4.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1060,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2014_Shanghai_stampede4.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1060
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2014_Shanghai_stampede4.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:2014_Shanghai_stampede4.jpeg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37669179",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-01-04 14:41:52",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "2014 Shanghai stampede4",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "2014 Shanghai stampede|CC-Zero|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A girl mourning for the victims.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-01-02",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fayhoo\" title=\"User:Fayhoo\">fayhoo</a> <a href=\"//commons.wikimedia.org/wiki/User:Galaxyharrylion\" title=\"User:Galaxyharrylion\">Galaxyharrylion</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 37669433,
+    "ns": 6,
+    "title": "File:2014 Shanghai stampede5.jpeg",
+    "index": 9,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 110595,
+        "width": 960,
+        "height": 640,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2014_Shanghai_stampede5.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2014_Shanghai_stampede5.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2014_Shanghai_stampede5.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:2014_Shanghai_stampede5.jpeg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37669433",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-01-04 15:01:39",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "2014 Shanghai stampede5",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "January 2015 China photographs|2014 Shanghai stampede|GFDL|License migration redundant|Sony camcorders|Self-published work|Phoenix Television (China) microphones",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Phoenix TV reporter at the scene",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-01-01",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fayhoo\" title=\"User:Fayhoo\">fayhoo</a> <a href=\"//commons.wikimedia.org/wiki/User:Galaxyharrylion\" title=\"User:Galaxyharrylion\">Galaxyharrylion</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 37669527,
+    "ns": 6,
+    "title": "File:2014 Shanghai stampede6.jpeg",
+    "index": 7,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 117267,
+        "width": 974,
+        "height": 646,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/2014_Shanghai_stampede6.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1061,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/2014_Shanghai_stampede6.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1061
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/2014_Shanghai_stampede6.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:2014_Shanghai_stampede6.jpeg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37669527",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-01-04 15:10:08",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "2014 Shanghai stampede6",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "2014 Shanghai stampede|GFDL|License migration redundant|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "​1月2日晚的外滩街景",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-01-02",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fayhoo\" title=\"User:Fayhoo\">fayhoo</a> <a href=\"//commons.wikimedia.org/wiki/User:Galaxyharrylion\" title=\"User:Galaxyharrylion\">Galaxyharrylion</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 41838291,
+    "ns": 6,
+    "title": "File:Shanghai skyline waterfront pudong 5166168 69 70.jpg",
+    "index": 2,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 4490239,
+        "width": 3655,
+        "height": 2741,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg/1920px-Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg/1920px-Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41838291",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-07-25 10:46:41",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Shanghai skyline waterfront pudong 5166168 69 70",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Lujiazui from the Bund|Skylines of Shanghai",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "31.243889",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "121.486944",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "View towards the Shanghai skyline and waterfront in Pudong with the new Shanghai tower.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-05-16",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 56284836,
+    "ns": 6,
+    "title": "File:Shanghai skyline waterfront pudong A235423.jpg",
+    "index": 3,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3413462,
+        "width": 3648,
+        "height": 2736,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Shanghai_skyline_waterfront_pudong_A235423.jpg/1920px-Shanghai_skyline_waterfront_pudong_A235423.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/7/70/Shanghai_skyline_waterfront_pudong_A235423.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Shanghai_skyline_waterfront_pudong_A235423.jpg/1920px-Shanghai_skyline_waterfront_pudong_A235423.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/70/Shanghai_skyline_waterfront_pudong_A235423.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Shanghai_skyline_waterfront_pudong_A235423.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shanghai_skyline_waterfront_pudong_A235423.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56284836",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-02-14 21:33:41",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Shanghai skyline waterfront pudong A235423",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Olympus E-510|Taken with Zuiko Digital ED 18‑180mm 1:3.5‑6.3|2007 in Shanghai|Uploaded with LrMediaWiki|Photographs by Ermell|Lujiazui from the Bund|Skylines of Shanghai|Images by User:Ermell taken in 2007",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Pudong Skyline 2007",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2007-10-23 09:16:41",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Ermell</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Twemoji_1f4f7.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Twemoji_1f4f7.svg/40px-Twemoji_1f4f7.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Twemoji_1f4f7.svg/60px-Twemoji_1f4f7.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span>  <a href=\"https://upload.wikimedia.org/wikipedia/commons/7/70/Shanghai_skyline_waterfront_pudong_A235423.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=api&amp;utm_content=original\" class=\"internal\" title=\"Shanghai skyline waterfront pudong A235423.jpg\">This Photo</a> was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Ermell\" title=\"User:Ermell\">Reinhold Möller</a></b></i>.  <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Twemoji_1f468.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Twemoji_1f468.svg/40px-Twemoji_1f468.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Twemoji_1f468.svg/60px-Twemoji_1f468.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></a></span>\n</td>\n<td align=\"right\">Feel free to use my photos, but please mention me as the author and send me a  <a class=\"external text\" data-mw-original-href=\"http://commons.wikimedia.org/w/index.php?title=User_talk:Ermell&amp;action=edit&amp;section=new\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:Ermell&amp;action=edit&amp;section=new\">message</a>. <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Crystal_128_mail.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/40px-Crystal_128_mail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/60px-Crystal_128_mail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span>\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Telif_inceleme.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/a/a5/Telif_inceleme.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" data-file-width=\"110\" data-file-height=\"110\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">This image is <b>not <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a></b>. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically <b>excludes use in social media</b>, if applicable terms of the licenses listed here not appropriate.</div>\n</td></tr></tbody></table>\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.<br>Please if you think that any changes should be required, please inform the author.<br>Otherwise you can upload a new image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 139289836,
+    "ns": 6,
+    "title": "File:The Bund 22027-Shanghai (32254124163).jpg",
+    "index": 10,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1486440,
+        "width": 2003,
+        "height": 3000,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Bund_22027-Shanghai_%2832254124163%29.jpg/1920px-The_Bund_22027-Shanghai_%2832254124163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 2396,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/c/c4/The_Bund_22027-Shanghai_%2832254124163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Bund_22027-Shanghai_%2832254124163%29.jpg/1920px-The_Bund_22027-Shanghai_%2832254124163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2396,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c4/The_Bund_22027-Shanghai_%2832254124163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/The_Bund_22027-Shanghai_%2832254124163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Bund_22027-Shanghai_(32254124163).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=139289836",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-10-21 12:55:51",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Bund 22027-Shanghai (32254124163)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Bund Center|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Xiquinho Silva|Waldorf Astoria Shanghai on the Bund",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "31.238700",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "121.492958",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Bund, also called Zhongshan Dong Yi Lu (East Zhongshan 1st Road), is a famous waterfront and regarded as the symbol of Shanghai for hundreds of years. It is on the west bank of Huangpu River from the Waibaidu Bridge to Nanpu Bridge and winds 1500 meters in length.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2016-10-14 16:19",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/xiquinho/32254124163/\">22027-Shanghai</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/7138083@N04\">xiquinhosilva</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 139289846,
+    "ns": 6,
+    "title": "File:The Bund 22089-Shanghai (32913532922).jpg",
+    "index": 12,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1376441,
+        "width": 3000,
+        "height": 1701,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_Bund_22089-Shanghai_%2832913532922%29.jpg/1920px-The_Bund_22089-Shanghai_%2832913532922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 907,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/b/be/The_Bund_22089-Shanghai_%2832913532922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_Bund_22089-Shanghai_%2832913532922%29.jpg/1920px-The_Bund_22089-Shanghai_%2832913532922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 907,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/be/The_Bund_22089-Shanghai_%2832913532922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/The_Bund_22089-Shanghai_%2832913532922%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Bund_22089-Shanghai_(32913532922).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=139289846",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-10-21 12:55:59",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Bund 22089-Shanghai (32913532922)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "The Bund|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Xiquinho Silva|Flickr images missing SDC published in",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "31.238463",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "121.491280",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Bund, also called Zhongshan Dong Yi Lu (East Zhongshan 1st Road), is a famous waterfront and regarded as the symbol of Shanghai for hundreds of years. It is on the west bank of Huangpu River from the Waibaidu Bridge to Nanpu Bridge and winds 1500 meters in length.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2016-10-14 16:30",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/xiquinho/32913532922/\">22089-Shanghai</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/7138083@N04\">xiquinhosilva</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 92824436,
+    "ns": 6,
+    "title": "File:The Bund at night.jpg",
+    "index": 4,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 2223284,
+        "width": 2703,
+        "height": 1766,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Bund_at_night.jpg/1920px-The_Bund_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1045,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Bund_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Bund_at_night.jpg/1920px-The_Bund_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1045,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Bund_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Bund_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Bund_at_night.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92824436",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-08-02 15:15:10",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Bund at night",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|March 2018 in Shanghai|The Bund by night",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Bund is a waterfront area and a protected historical district in central Shanghai.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-03-31 18:57:01",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pauloleong2002\" title=\"User:Pauloleong2002\">Pauloleong2002</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 197174545,
+    "ns": 6,
+    "title": "File:The North Bund Entrance 20251127.jpg",
+    "index": 11,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 14667125,
+        "width": 6525,
+        "height": 4350,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/The_North_Bund_Entrance_20251127.jpg/1920px-The_North_Bund_Entrance_20251127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/The_North_Bund_Entrance_20251127.jpg/3840px-The_North_Bund_Entrance_20251127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/The_North_Bund_Entrance_20251127.jpg/1920px-The_North_Bund_Entrance_20251127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/The_North_Bund_Entrance_20251127.jpg/3840px-The_North_Bund_Entrance_20251127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/The_North_Bund_Entrance_20251127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_North_Bund_Entrance_20251127.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=197174545",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-08-10 15:33:41",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The North Bund Entrance 20251127",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Canon TS-E 17 mm F4L|The North Bund|Self-published work|FoP-China|Files with coordinates missing SDC location of creation|Images by User:Supanut Arunoprayote|Shanghai photographs taken on 2025-11-27",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "31.249760",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "121.493210",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The North Bund is a rising waterfront area in Shanghai, China, located along the Huangpu River just north of the classic The Bund in the Hongkou District.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2025-11-27 06:43:55",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<table class=\"toccolours\" style=\"width:100%; margin-top:10px;\" cellpadding=\"2\">\n\n<tbody><tr class=\"plainlinks\">\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Flag_of_Thailand.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/60px-Flag_of_Thailand.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"50\" height=\"33\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/120px-Flag_of_Thailand.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"900\" data-file-height=\"600\"></a></span> This Photo was taken by <i><b><a href=\"//commons.wikimedia.org/wiki/User:Supanut_Arunoprayote\" title=\"User:Supanut Arunoprayote\">Supanut Arunoprayote</a></b></i>.\n</td>\n<td align=\"right\">Feel free to use any of my images, but please mention me as the author and may send me a <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/User:Supanut_Arunoprayote\">message.</a> <br> (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่ง<a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/User:Supanut_Arunoprayote\">ข้อความบอกกล่าวด้วย</a>) <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Contact_vmc2015.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Contact_vmc2015.png/40px-Contact_vmc2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"40\" height=\"40\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Contact_vmc2015.png/120px-Contact_vmc2015.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"940\" data-file-height=\"940\"></a></span>\n</td></tr></tbody></table>\n<div style=\"clear:both; border:2px solid #00cc00; background-color:#f7f7f7; margin-top:6px;\">\n<table><tbody><tr><td style=\"padding:4px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Upload-problem2.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/120px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" width=\"64\" height=\"57\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Upload-problem2.svg/250px-Upload-problem2.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"159\" data-file-height=\"142\"></a></span>\n</td><td style=\"padding:4px;\"><div style=\"margin-top:0.5em;\">Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.<br>Please if you think that any changes should be required, please inform the author.<br>Otherwise you can upload a new image with a new name. Please use one of the templates <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\">derivative</a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\">extract</a>.</div>\n</td></tr></tbody></table></div>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "The reproduction of this artistic, architectural, or applied artwork, is covered under the <i>Copyright Law of the People's Republic of China</i>, which allows reproduction of works in public place <b>if the author and the name of the original work is attributed.</b> Note: This does not apply to 2D works of art like outdoor paintings permanently installed in public spaces and murals.\n<hr>\n<dl><dd><i><b><a href=\"https://en.wikisource.org/wiki/Copyright_Law_of_the_People%27s_Republic_of_China_(2020)\" class=\"extiw\" title=\"s:Copyright Law of the People's Republic of China (2020)\">Copyright Law of the People's Republic of China</a></b></i>, Article 24: In the following cases, a work may be used without permission from, and without payment of remuneration to, the copyright owner, provided that the name of the author and the title of the work shall be indicated, the normal use of the work shall not be affected, and the legitimate rights and interests of the copyright owner shall not be infringed unreasonably:</dd>\n<dd>(10) copying, drawing, photographing, or video recording of an artistic work located or on display in a public place;</dd></dl>\nSee <a href=\"//commons.wikimedia.org/wiki/Commons:CRT/China#Freedom_of_panorama\" class=\"mw-redirect\" title=\"Commons:CRT/China\">COM:CRT/China#Freedom of panorama</a> for more information.",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

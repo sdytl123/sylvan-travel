@@ -1,0 +1,1390 @@
+[
+  {
+    "pageid": 64960292,
+    "ns": 6,
+    "title": "File:Blue Mountains - Three Sisters.jpg",
+    "index": 7,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 8997847,
+        "width": 5184,
+        "height": 3888,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Blue_Mountains_-_Three_Sisters.jpg/1920px-Blue_Mountains_-_Three_Sisters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Blue_Mountains_-_Three_Sisters.jpg/3840px-Blue_Mountains_-_Three_Sisters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Blue_Mountains_-_Three_Sisters.jpg/1920px-Blue_Mountains_-_Three_Sisters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Blue_Mountains_-_Three_Sisters.jpg/3840px-Blue_Mountains_-_Three_Sisters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Blue_Mountains_-_Three_Sisters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blue_Mountains_-_Three_Sisters.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64960292",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-12-21 11:48:53",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Blue Mountains - Three Sisters",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Three Sisters, Blue Mountains|GFDL-1.2|Self-published work|Files with coordinates missing SDC location of creation (34° S, 150° E)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.732550",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "150.312016",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Formation \"Three Sisters\", Blue Mountains, NSW, Australia (photographed from Echo Point); just on the left the so called \"honeymoon lookout\" (\"bridge\")",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2017-12-19 03:52:13",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:-jkb-\" title=\"User:-jkb-\">-jkb-</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 62253983,
+    "ns": 6,
+    "title": "File:Blue Mts - Katoomba - Three Sisters Fountain.jpg",
+    "index": 9,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 575134,
+        "width": 1899,
+        "height": 1486,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Blue_Mts_-_Katoomba_-_Three_Sisters_Fountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1252,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Blue_Mts_-_Katoomba_-_Three_Sisters_Fountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1252
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Blue_Mts_-_Katoomba_-_Three_Sisters_Fountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Blue_Mts_-_Katoomba_-_Three_Sisters_Fountain.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62253983",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-09-07 12:05:42",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Blue Mts - Katoomba - Three Sisters Fountain",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Echo Point, Blue Mountains|Self-published work|Images from Wiki Loves Monuments 2017|Cultural heritage monuments in Australia with known IDs|Images from Wiki Loves Monuments 2017 in Australia|Uploaded via Campaign:wlm-au",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.730938",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "150.311764",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The original Three Sisters Fountain, Echo Point, Katoomba, showing the aboriginal legend of the formation of the Three Sisters rock formation. Taken 1977.  No longer in existence.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1977",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JHelyar&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JHelyar (page does not exist)\">JHelyar</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 43097089,
+    "ns": 6,
+    "title": "File:Echo Point, Katoomba.jpg",
+    "index": 12,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 11116275,
+        "width": 7493,
+        "height": 4231,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Echo_Point%2C_Katoomba.jpg/1920px-Echo_Point%2C_Katoomba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 903,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Echo_Point%2C_Katoomba.jpg/3840px-Echo_Point%2C_Katoomba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Echo_Point%2C_Katoomba.jpg/1920px-Echo_Point%2C_Katoomba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 903,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Echo_Point%2C_Katoomba.jpg/3840px-Echo_Point%2C_Katoomba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Echo_Point%2C_Katoomba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Echo_Point,_Katoomba.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43097089",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-09-11 03:38:35",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Echo Point, Katoomba",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Three Sisters, Blue Mountains|Self-published work|Nature of New South Wales in August 2015|Files with coordinates missing SDC location of creation (34° S, 150° E)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.732759",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "150.311972",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Echo Point, Katoomba, NSW",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-08-22 04:39:42",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Maxim75\" title=\"User:Maxim75\">Maksym Kozlenko</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 90095924,
+    "ns": 6,
+    "title": "File:Echo Point Lookout.jpg",
+    "index": 4,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 899213,
+        "width": 3024,
+        "height": 3024,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Echo_Point_Lookout.jpg/1920px-Echo_Point_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1600,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/4/45/Echo_Point_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Echo_Point_Lookout.jpg/1920px-Echo_Point_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1600,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/45/Echo_Point_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Echo_Point_Lookout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Echo_Point_Lookout.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90095924",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-05-11 12:37:25",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Echo Point Lookout",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Three Sisters, Blue Mountains|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A photograph of the three sisters from echo point lookout in the Blue Mountains, NSW Australia. This is one of the Blue Mountain's most well known sites located in the Jamison Valley. The image was photographed on an apple mobile phone.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-12-07",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:MilaKampus&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:MilaKampus (page does not exist)\">MilaKampus</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 68725302,
+    "ns": 6,
+    "title": "File:The Three Sister, Blue Mountains.jpg",
+    "index": 10,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 633188,
+        "width": 1920,
+        "height": 1440,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Three_Sister%2C_Blue_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Three_Sister%2C_Blue_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Three_Sister%2C_Blue_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Three_Sister,_Blue_Mountains.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68725302",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-05-02 12:19:25",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Three Sister, Blue Mountains",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Three Sisters, Blue Mountains|Self-published work|Images from Wiki Loves Earth 2018|Australia photographs taken on 2018-03-30|Images from Wiki Loves Earth 2018 in Australia|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Uploaded via Campaign:wle-au",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "It is the greatest landmark of Blue Mountains, it is located at Echo Point Katoomba.It attracts millions of people to come because of the legends.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2018-03-30",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fan252&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fan252 (page does not exist)\">Fan252</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 53612867,
+    "ns": 6,
+    "title": "File:The Three Sisters, Katoomba, Blue Mountains, NSW (2363484900).jpg",
+    "index": 11,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 544717,
+        "width": 1024,
+        "height": 788,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_Three_Sisters%2C_Katoomba%2C_Blue_Mountains%2C_NSW_%282363484900%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1231,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_Three_Sisters%2C_Katoomba%2C_Blue_Mountains%2C_NSW_%282363484900%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1231
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/The_Three_Sisters%2C_Katoomba%2C_Blue_Mountains%2C_NSW_%282363484900%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Three_Sisters,_Katoomba,_Blue_Mountains,_NSW_(2363484900).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53612867",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-11-29 02:09:03",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Three Sisters, Katoomba, Blue Mountains, NSW (2363484900)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Sandstone in Australia|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Images from the Powerhouse Museum|Flickr images from Powerhouse Museum|Files from Flickr's 'The Commons'|Files with coordinates missing SDC location of creation (34° S, 150° E)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.731192",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "150.312623",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<strong>Format: </strong> Glass plate negative.<br>\n<p><strong>Rights Info: </strong> No known restrictions on publication.<br>\n<strong>Repository: </strong> Tyrrell Photographic Collection, Powerhouse Museum <a rel=\"nofollow\" class=\"external free\" href=\"http://www.powerhousemuseum.com/collection/database/collection=The_Tyrrell_Photographic\">http://www.powerhousemuseum.com/collection/database/collection=The_Tyrrell_Photographic</a><br>\n<strong>Part Of: </strong> Powerhouse Museum Collection<br>\nGeneral information about the Powerhouse Museum Collection is available at <a rel=\"nofollow\" class=\"external free\" href=\"http://www.powerhousemuseum.com/collection/database\">http://www.powerhousemuseum.com/collection/database</a><br>\n<strong>Persistent URL: </strong>  <a rel=\"nofollow\" class=\"external free\" href=\"http://www.powerhousemuseum.com/collection/database/?irn=31217\">http://www.powerhousemuseum.com/collection/database/?irn=31217</a><br>\n</p>\n<strong>Acquisition credit line: </strong> Gift of Australian Consolidated Press under the Taxation Incentives for the Arts Scheme, 1985",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "circa 1900<div style=\"display: none;\">date QS:P,+1900-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/powerhouse_museum/2363484900/\">https://www.flickr.com/photos/powerhouse_museum/2363484900/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/24785917@N03\">Powerhouse Museum Collection</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "No restrictions",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "No known copyright restrictions",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://www.flickr.com/commons/usage/",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 60578840,
+    "ns": 6,
+    "title": "File:The Three Sisters From Echo Point (Wed 23-03-2016) @ 3-40-45pm. - panoramio.jpg",
+    "index": 8,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1111162,
+        "width": 2592,
+        "height": 1440,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Three_Sisters_From_Echo_Point_%28Wed_23-03-2016%29_%40_3-40-45pm._-_panoramio.jpg/1920px-The_Three_Sisters_From_Echo_Point_%28Wed_23-03-2016%29_%40_3-40-45pm._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 889,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Three_Sisters_From_Echo_Point_%28Wed_23-03-2016%29_%40_3-40-45pm._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Three_Sisters_From_Echo_Point_%28Wed_23-03-2016%29_%40_3-40-45pm._-_panoramio.jpg/1920px-The_Three_Sisters_From_Echo_Point_%28Wed_23-03-2016%29_%40_3-40-45pm._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 889,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Three_Sisters_From_Echo_Point_%28Wed_23-03-2016%29_%40_3-40-45pm._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Three_Sisters_From_Echo_Point_%28Wed_23-03-2016%29_%40_3-40-45pm._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Three_Sisters_From_Echo_Point_(Wed_23-03-2016)_@_3-40-45pm._-_panoramio.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60578840",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-07-02 02:54:03",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Three Sisters From Echo Point (Wed 23-03-2016) @ 3-40-45pm. - panoramio",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Three Sisters, Blue Mountains|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Australia photographs taken on 2016-03-23|Files with coordinates missing SDC location of creation (34° S, 150° E)|Photos from Panoramio ID 731446",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.729629",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "150.312162",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Three Sisters From Echo Point (Wed 23-03-2016) @ 3:40:45pm.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 23 March 2016",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161101053316/http://www.panoramio.com/photo/129070644\">https://web.archive.org/web/20161101053316/http://www.panoramio.com/photo/129070644</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161101053204/http://www.panoramio.com/user/731446?with_photo_id=129070644\">Christopher Wood</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Christopher Wood</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 2 July 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Christopher Wood",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 33200069,
+    "ns": 6,
+    "title": "File:Three Sisters, Blue Mountains (1).jpg",
+    "index": 2,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1424127,
+        "width": 2304,
+        "height": 1728,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Three_Sisters%2C_Blue_Mountains_%281%29.jpg/1920px-Three_Sisters%2C_Blue_Mountains_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/7/73/Three_Sisters%2C_Blue_Mountains_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Three_Sisters%2C_Blue_Mountains_%281%29.jpg/1920px-Three_Sisters%2C_Blue_Mountains_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/73/Three_Sisters%2C_Blue_Mountains_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Three_Sisters%2C_Blue_Mountains_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Three_Sisters,_Blue_Mountains_(1).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33200069",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-06-04 22:33:51",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Three Sisters, Blue Mountains (1)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Three Sisters, Blue Mountains|License migration completed|Self-published work|GFDL-en",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Three Sisters rock formation, early morning, Blue Mountains, NSW, Australia, seen from Echo Point, Katoomba.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken 26 July 2006",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, transferred from <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Alicia Brogan (<a href=\"https://en.wikipedia.org/wiki/User:Ali_b\" class=\"extiw\" title=\"wikipedia:User:Ali b\">Ali b</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>)",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "GFDL-self",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/User:Ali_b\" class=\"extiw\" title=\"en:User:Ali b\">Ali b</a> at the <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"w:\">English-language Wikipedia</a>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 8516374,
+    "ns": 6,
+    "title": "File:Three Sisters (Blue Mountains).jpg",
+    "index": 3,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 51606,
+        "width": 600,
+        "height": 450,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Three_Sisters_%28Blue_Mountains%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Three_Sisters_%28Blue_Mountains%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Three_Sisters_%28Blue_Mountains%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Three_Sisters_(Blue_Mountains).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8516374",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2009-11-20 23:41:33",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Three Sisters (Blue Mountains)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Three Sisters, Blue Mountains|GFDL|User-created GFDL images|License migration completed|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Die Three Sisters vom Echo Point aus gesehen. (Blue Mountains Nationalpark)",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2004-04",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Jutta234\" class=\"mw-redirect\" title=\"User:Jutta234\">Jutta234</a> using <a href=\"https://iw.toolforge.org/commonshelper/\" class=\"extiw\" title=\"toollabs:commonshelper/\">CommonsHelper</a>.</bdi>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:Jensflorian\" class=\"extiw\" title=\"de:Benutzer:Jensflorian\">de:Benutzer:Jensflorian</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "<a href=\"https://de.wikipedia.org/wiki/User:Jensflorian\" class=\"extiw\" title=\"de:User:Jensflorian\">Jensflorian</a>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 148124899,
+    "ns": 6,
+    "title": "File:Three Sisters from echo point.jpg",
+    "index": 5,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3903081,
+        "width": 2988,
+        "height": 3984,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Three_Sisters_from_echo_point.jpg/1920px-Three_Sisters_from_echo_point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 2133,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Three_Sisters_from_echo_point.jpg/1920px-Three_Sisters_from_echo_point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2133
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Three_Sisters_from_echo_point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Three_Sisters_from_echo_point.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148124899",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-05-07 01:06:49",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Three Sisters from echo point",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Three Sisters, Blue Mountains|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Three Sisters viewed from Echo Point.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-03-31",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:MrActiniuM\" title=\"User:MrActiniuM\">MrActiniuM</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 47536982,
+    "ns": 6,
+    "title": "File:Three sisters and Echo point - panoramio.jpg",
+    "index": 6,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1265910,
+        "width": 2700,
+        "height": 1800,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Three_sisters_and_Echo_point_-_panoramio.jpg/1920px-Three_sisters_and_Echo_point_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Three_sisters_and_Echo_point_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Three_sisters_and_Echo_point_-_panoramio.jpg/1920px-Three_sisters_and_Echo_point_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Three_sisters_and_Echo_point_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Three_sisters_and_Echo_point_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Three_sisters_and_Echo_point_-_panoramio.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47536982",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-03-15 05:45:33",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Three sisters and Echo point - panoramio",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Three Sisters, Blue Mountains|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Australia photographs taken on 2008-04-25|Files with coordinates missing SDC location of creation (34° S, 150° E)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.732667",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "150.311833",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Three sisters and Echo point",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 25 April 2008",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161009221840/http://www.panoramio.com/photo/9867284\">https://web.archive.org/web/20161009221840/http://www.panoramio.com/photo/9867284</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161009221846/http://www.panoramio.com/user/16780?with_photo_id=9867284\">Maksym Kozlenko</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Maksym Kozlenko</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 15 March 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Maksym Kozlenko",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 54350257,
+    "ns": 6,
+    "title": "File:Three sisters z Echo Point - panoramio.jpg",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 2354488,
+        "width": 2008,
+        "height": 1515,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Three_sisters_z_Echo_Point_-_panoramio.jpg/1920px-Three_sisters_z_Echo_Point_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1207,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Three_sisters_z_Echo_Point_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Three_sisters_z_Echo_Point_-_panoramio.jpg/1920px-Three_sisters_z_Echo_Point_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1207,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Three_sisters_z_Echo_Point_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Three_sisters_z_Echo_Point_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Three_sisters_z_Echo_Point_-_panoramio.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=54350257",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-12-22 03:32:34",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Three sisters z Echo Point - panoramio",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Three Sisters, Blue Mountains|Echo Point, Blue Mountains|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Australia photographs taken on 2005-04-17|Files with coordinates missing SDC location of creation (34° S, 150° E)|Photos from Panoramio ID 4062248",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.732495",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "150.311337",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Three sisters z Echo Point",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 17 April 2005",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161019175018/http://www.panoramio.com/photo/61341189\">https://web.archive.org/web/20161019175018/http://www.panoramio.com/photo/61341189</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161019174925/http://www.panoramio.com/user/4062248?with_photo_id=61341189\">Pavel Špindler</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Pavel Špindler</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 22 December 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Pavel Špindler",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

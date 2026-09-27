@@ -1,0 +1,1304 @@
+[
+  {
+    "pageid": 130023172,
+    "ns": 6,
+    "title": "File:Aerial panorama of Coldstream with the St Hubert Vineyard in the middle of the frame. March 2023.jpg",
+    "index": 8,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 6639577,
+        "width": 8192,
+        "height": 3324,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aerial_panorama_of_Coldstream_with_the_St_Hubert_Vineyard_in_the_middle_of_the_frame._March_2023.jpg/1920px-Aerial_panorama_of_Coldstream_with_the_St_Hubert_Vineyard_in_the_middle_of_the_frame._March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 649,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aerial_panorama_of_Coldstream_with_the_St_Hubert_Vineyard_in_the_middle_of_the_frame._March_2023.jpg/3840px-Aerial_panorama_of_Coldstream_with_the_St_Hubert_Vineyard_in_the_middle_of_the_frame._March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aerial_panorama_of_Coldstream_with_the_St_Hubert_Vineyard_in_the_middle_of_the_frame._March_2023.jpg/1920px-Aerial_panorama_of_Coldstream_with_the_St_Hubert_Vineyard_in_the_middle_of_the_frame._March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 649,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aerial_panorama_of_Coldstream_with_the_St_Hubert_Vineyard_in_the_middle_of_the_frame._March_2023.jpg/3840px-Aerial_panorama_of_Coldstream_with_the_St_Hubert_Vineyard_in_the_middle_of_the_frame._March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Aerial_panorama_of_Coldstream_with_the_St_Hubert_Vineyard_in_the_middle_of_the_frame._March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aerial_panorama_of_Coldstream_with_the_St_Hubert_Vineyard_in_the_middle_of_the_frame._March_2023.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130023172",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-03-26 07:37:32",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Aerial panorama of Coldstream with the St Hubert Vineyard in the middle of the frame. March 2023",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Yarra Valley|Coldstream, Victoria|Self-published work|Files with coordinates missing SDC location of creation|March 2023 in Melbourne|Aerial photographs of Melbourne|Photos and videos from unmanned aerial vehicles of Australia",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-37.697970",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "145.418176",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Aerial panorama of Coldstream with the St Hubert Vineyard in the middle of the frame. March 2023.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-03-20 04:31:22",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wanderingchina\" class=\"mw-redirect\" title=\"User:Wanderingchina\">Bob Tan</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 130023171,
+    "ns": 6,
+    "title": "File:Aerial perspective of St Hubert Vineyard and the Hubert Estate. March 2023.jpg",
+    "index": 7,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3388329,
+        "width": 4032,
+        "height": 3024,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Aerial_perspective_of_St_Hubert_Vineyard_and_the_Hubert_Estate._March_2023.jpg/1920px-Aerial_perspective_of_St_Hubert_Vineyard_and_the_Hubert_Estate._March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Aerial_perspective_of_St_Hubert_Vineyard_and_the_Hubert_Estate._March_2023.jpg/3840px-Aerial_perspective_of_St_Hubert_Vineyard_and_the_Hubert_Estate._March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Aerial_perspective_of_St_Hubert_Vineyard_and_the_Hubert_Estate._March_2023.jpg/1920px-Aerial_perspective_of_St_Hubert_Vineyard_and_the_Hubert_Estate._March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Aerial_perspective_of_St_Hubert_Vineyard_and_the_Hubert_Estate._March_2023.jpg/3840px-Aerial_perspective_of_St_Hubert_Vineyard_and_the_Hubert_Estate._March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Aerial_perspective_of_St_Hubert_Vineyard_and_the_Hubert_Estate._March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aerial_perspective_of_St_Hubert_Vineyard_and_the_Hubert_Estate._March_2023.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130023171",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-03-26 07:37:32",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Aerial perspective of St Hubert Vineyard and the Hubert Estate. March 2023",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Yarra Valley|Coldstream, Victoria|Self-published work|Files with coordinates missing SDC location of creation|March 2023 in Melbourne|Aerial photographs of Melbourne|Photos and videos from unmanned aerial vehicles of Australia",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-37.697858",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "145.417144",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Aerial perspective of St Hubert Vineyard and the Hubert Estate. March 2023.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-03-20 04:30:41",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Wanderingchina\" class=\"mw-redirect\" title=\"User:Wanderingchina\">Bob Tan</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 82901905,
+    "ns": 6,
+    "title": "File:Aerial view chateau yering hotel.jpg",
+    "index": 6,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 252823,
+        "width": 1024,
+        "height": 664,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Aerial_view_chateau_yering_hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1038,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Aerial_view_chateau_yering_hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1038
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Aerial_view_chateau_yering_hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aerial_view_chateau_yering_hotel.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82901905",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-10-07 05:01:34",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Aerial view chateau yering hotel",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Hotels in Victoria, Australia|October 2019 in Victoria, Australia|Chateau Yering",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Aerial view of Chateau Yering Hotel, Yarra Valley",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-10-07",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cococlift&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cococlift (page does not exist)\">Cococlift</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 83278101,
+    "ns": 6,
+    "title": "File:Chateau-yering-wine-1895.png",
+    "index": 5,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 339428,
+        "width": 472,
+        "height": 383,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chateau-yering-wine-1895.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1298,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chateau-yering-wine-1895.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1298
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chateau-yering-wine-1895.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chateau-yering-wine-1895.png",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83278101",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-10-22 09:52:10",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Chateau-yering-wine-1895",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Wine in Australia|1895 in Victoria, Australia|Chateau Yering",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Chateau Yering Wine 1895",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-10-22",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cococlift&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cococlift (page does not exist)\">Cococlift</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 174779149,
+    "ns": 6,
+    "title": "File:De Bortoli The Estate Vineyard Pinot Noir 2024 bottle.jpg",
+    "index": 10,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 505841,
+        "width": 1642,
+        "height": 2505,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De_Bortoli_The_Estate_Vineyard_Pinot_Noir_2024_bottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 2441,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De_Bortoli_The_Estate_Vineyard_Pinot_Noir_2024_bottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2441
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De_Bortoli_The_Estate_Vineyard_Pinot_Noir_2024_bottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:De_Bortoli_The_Estate_Vineyard_Pinot_Noir_2024_bottle.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=174779149",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-09-10 01:45:43",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "De Bortoli The Estate Vineyard Pinot Noir 2024 bottle",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Pinot Noir|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A bottle of De Bortoli “The Estate Vineyard” Pinot Noir 2024 (Yarra Valley, Victoria, Australia).",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2025-09-10",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:James_Tan_StudioHawk&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:James Tan StudioHawk (page does not exist)\">James Tan StudioHawk</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 5109252,
+    "ns": 6,
+    "title": "File:Domaine Chandon Australia vineyard.jpg",
+    "index": 12,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1066452,
+        "width": 2048,
+        "height": 1345,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Domaine_Chandon_Australia_vineyard.jpg/1920px-Domaine_Chandon_Australia_vineyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1051,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Domaine_Chandon_Australia_vineyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Domaine_Chandon_Australia_vineyard.jpg/1920px-Domaine_Chandon_Australia_vineyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1051,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Domaine_Chandon_Australia_vineyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Domaine_Chandon_Australia_vineyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Domaine_Chandon_Australia_vineyard.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5109252",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2008-11-01 04:53:14",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Domaine Chandon Australia vineyard",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Flickr images uploaded by Flickr upload bot|Vineyards in Victoria, Australia|April 2004 in Victoria, Australia",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Vines growing at the Domaine Chandon winery in the Yarra Valley.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2004-04-12 15:10:52",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "originally posted to <b><a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a></b> as <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/24484507@N00/2786593534\">Domaine Chandon</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/24484507@N00\">Henry Burrows</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 1 November 2008, 04:33 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/w/index.php?title=User:Agne27&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Agne27 (page does not exist)\">Agne27</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 36551211,
+    "ns": 6,
+    "title": "File:Rochford Wines vineyard in Yarra Valley Australia.jpg",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1606212,
+        "width": 3200,
+        "height": 2368,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Rochford_Wines_vineyard_in_Yarra_Valley_Australia.jpg/1920px-Rochford_Wines_vineyard_in_Yarra_Valley_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1184,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/9/92/Rochford_Wines_vineyard_in_Yarra_Valley_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Rochford_Wines_vineyard_in_Yarra_Valley_Australia.jpg/1920px-Rochford_Wines_vineyard_in_Yarra_Valley_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1184,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/92/Rochford_Wines_vineyard_in_Yarra_Valley_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Rochford_Wines_vineyard_in_Yarra_Valley_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rochford_Wines_vineyard_in_Yarra_Valley_Australia.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36551211",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-11-02 02:24:06",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Rochford Wines vineyard in Yarra Valley Australia",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Nexus 5|Yarra Valley|Self-published work|2014 in Victoria, Australia|Vineyards in Victoria, Australia|Files with coordinates missing SDC location of creation",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-37.680080",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "145.431355",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Rochford Wines vineyard in Yarra Valley, Australia",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2014-02-10 17:46:54",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:MusikAnimal\" title=\"User:MusikAnimal\">MusikAnimal</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 83277600,
+    "ns": 6,
+    "title": "File:Stone-cellar-chateau-yering.png",
+    "index": 9,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 556478,
+        "width": 587,
+        "height": 389,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Stone-cellar-chateau-yering.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1060,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Stone-cellar-chateau-yering.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1060
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Stone-cellar-chateau-yering.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stone-cellar-chateau-yering.png",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83277600",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-10-22 09:22:06",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Stone-cellar-chateau-yering",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|October 2019 in Victoria, Australia|Cellars in Australia|Chateau Yering",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The original stone cellar. Still used today.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-10-22",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cococlift&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cococlift (page does not exist)\">Cococlift</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 23061544,
+    "ns": 6,
+    "title": "File:YarraValley---De-Bortoli.jpg",
+    "index": 11,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 139073,
+        "width": 640,
+        "height": 480,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/YarraValley---De-Bortoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/YarraValley---De-Bortoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/YarraValley---De-Bortoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:YarraValley---De-Bortoli.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23061544",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2012-12-07 13:20:39",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "YarraValley---De-Bortoli",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|2009 in Victoria, Australia|Files from Wikivoyage Shared|Vineyards in Victoria, Australia|Files by Wikivoyage user Stefano",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Cantina De Bortoli, Yarra Valley",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "22 January 2009 (original upload date)",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<span lang=\"en\" dir=\"ltr\">Original text: <i><bdi lang=\"\">self-made</bdi></i></span>)",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.wikivoyage-old.org/shared/User%3AStefano\">Stefano</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "User: Stefano at  wikivoyage shared",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 22792647,
+    "ns": 6,
+    "title": "File:Yarra Valley, vineyards at Yarra Yering.jpg",
+    "index": 2,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 385989,
+        "width": 1024,
+        "height": 685,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Yarra_Valley%2C_vineyards_at_Yarra_Yering.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 1070,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Yarra_Valley%2C_vineyards_at_Yarra_Yering.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1070
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Yarra_Valley%2C_vineyards_at_Yarra_Yering.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yarra_Valley,_vineyards_at_Yarra_Yering.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22792647",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2012-11-21 01:13:17",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Yarra Valley, vineyards at Yarra Yering",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Yarra Valley|Flickr images reviewed by FlickreviewR|Uploaded with en.wp upload wizard|Vineyards in Victoria, Australia",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Photograph of the <a href=\"https://en.wikipedia.org/wiki/Yarra_Valley_(wine)\" class=\"extiw\" title=\"en:Yarra Valley (wine)\">Yarra Valley</a> wine region of Australia.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2008-03-08",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/tico24/2324606993/\">https://www.flickr.com/photos/tico24/2324606993/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "tico24",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/tico24/2324606993/\">https://www.flickr.com/photos/tico24/2324606993/</a>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 27313017,
+    "ns": 6,
+    "title": "File:Yarra Valley banner Vineyards.JPG",
+    "index": 4,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 313487,
+        "width": 2100,
+        "height": 299,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Yarra_Valley_banner_Vineyards.JPG/1920px-Yarra_Valley_banner_Vineyards.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 228,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Yarra_Valley_banner_Vineyards.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Yarra_Valley_banner_Vineyards.JPG/1920px-Yarra_Valley_banner_Vineyards.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 228,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Yarra_Valley_banner_Vineyards.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Yarra_Valley_banner_Vineyards.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yarra_Valley_banner_Vineyards.JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27313017",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2013-07-18 12:47:00",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Yarra Valley banner Vineyards",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Sony NEX-3|Self-published work|Wikivoyage banners of Victoria (State)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Vineyards in the Yarra Valley (cropped for use as a Wikivoyage banner).",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2010-12-28 12:49:15",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tiimta\" title=\"User:Tiimta\">tiimta</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 32186715,
+    "ns": 6,
+    "title": "File:Yarra Valley vines (12740490444).jpg",
+    "index": 3,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 2205415,
+        "width": 3264,
+        "height": 2448,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Yarra_Valley_vines_%2812740490444%29.jpg/1920px-Yarra_Valley_vines_%2812740490444%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Yarra_Valley_vines_%2812740490444%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Yarra_Valley_vines_%2812740490444%29.jpg/1920px-Yarra_Valley_vines_%2812740490444%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Yarra_Valley_vines_%2812740490444%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Yarra_Valley_vines_%2812740490444%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yarra_Valley_vines_(12740490444).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32186715",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-04-15 05:02:00",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Yarra Valley vines (12740490444)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with iPhone 5|Yarra Valley|Flickr images reviewed by FlickreviewR|Vineyards in Victoria, Australia",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Yarra Valley vines",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2014-02-24 12:56",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/erussell1984/12740490444/\">Yarra Valley vines</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69502324@N00\">DearEdward</a> from New York, NY, USA",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

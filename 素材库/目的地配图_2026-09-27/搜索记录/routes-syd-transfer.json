@@ -1,0 +1,121 @@
+[
+  {
+    "pageid": 79756378,
+    "ns": 6,
+    "title": "File:Terminal3 cropped.jpg",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1969866,
+        "width": 2836,
+        "height": 1656,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Terminal3_cropped.jpg/1920px-Terminal3_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 934,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Terminal3_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Terminal3_cropped.jpg/1920px-Terminal3_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 934,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Terminal3_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Terminal3_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Terminal3_cropped.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79756378",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-06-17 10:25:33",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Terminal3 cropped",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with LG G6|Sydney Airport Terminal 3|Self-published work|Photos by Sam Wilson|Australia photographs taken on 2019-06-14|Files with coordinates missing SDC location of creation (34° S, 151° E)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.931557",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "151.174505",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Terminal 3.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 14 June 2019, 14:23:51",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Samwilson\" title=\"User:Samwilson\">Sam Wilson</a>  (taken with <a href=\"//commons.wikimedia.org/wiki/Category:Taken_with_LG_G6\" title=\"Category:Taken with LG G6\">LG G6</a>)",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,1411 @@
+[
+  {
+    "pageid": 128285181,
+    "ns": 6,
+    "title": "File:20200110 Temple of Heaven-1.jpg",
+    "index": 2,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 13275646,
+        "width": 3795,
+        "height": 5692,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/20200110_Temple_of_Heaven-1.jpg/1920px-20200110_Temple_of_Heaven-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 2400,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/8/86/20200110_Temple_of_Heaven-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/20200110_Temple_of_Heaven-1.jpg/1920px-20200110_Temple_of_Heaven-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2400,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/86/20200110_Temple_of_Heaven-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/20200110_Temple_of_Heaven-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:20200110_Temple_of_Heaven-1.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128285181",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-01-31 20:12:00",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "20200110 Temple of Heaven-1",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Uploaded with pattypan|Self-published work|Hall of Prayer for Good Harvests|Beijing photographs taken on 2020-01-10|FoP-China|Featured pictures on Wikipedia, Hebrew|Files with coordinates missing SDC location of creation|Files with Assessments template missing SDC Commons no value quality assessment",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.882370",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.408100",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Balon_Greyjoy\" title=\"User:Balon Greyjoy\">Balon Greyjoy</a></div>",
+            "source": "commons-desc-page"
+          },
+          "ImageDescription": {
+            "value": "<div class=\"description\">\nExterior view of the Temple of Heaven in Beijing.</div>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "10 January 2020, 09:05",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "The reproduction of this artistic, architectural, or applied artwork, is covered under the <i>Copyright Law of the People's Republic of China</i>, which allows reproduction of works in public place <b>if the author and the name of the original work is attributed.</b> Note: This does not apply to 2D works of art like outdoor paintings permanently installed in public spaces and murals.\n<hr>\n<dl><dd><i><b><a href=\"https://en.wikisource.org/wiki/Copyright_Law_of_the_People%27s_Republic_of_China_(2020)\" class=\"extiw\" title=\"s:Copyright Law of the People's Republic of China (2020)\">Copyright Law of the People's Republic of China</a></b></i>, Article 24: In the following cases, a work may be used without permission from, and without payment of remuneration to, the copyright owner, provided that the name of the author and the title of the work shall be indicated, the normal use of the work shall not be affected, and the legitimate rights and interests of the copyright owner shall not be infringed unreasonably:</dd>\n<dd>(10) copying, drawing, photographing, or video recording of an artistic work located or on display in a public place;</dd></dl>\nSee <a href=\"//commons.wikimedia.org/wiki/Commons:CRT/China#Freedom_of_panorama\" class=\"mw-redirect\" title=\"Commons:CRT/China\">COM:CRT/China#Freedom of panorama</a> for more information.",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 129038834,
+    "ns": 6,
+    "title": "File:Beijing, Tiantan, Imperial Vault of Heaven WLF 2023.jpg",
+    "index": 4,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 5610846,
+        "width": 3000,
+        "height": 3458,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Beijing%2C_Tiantan%2C_Imperial_Vault_of_Heaven_WLF_2023.jpg/1920px-Beijing%2C_Tiantan%2C_Imperial_Vault_of_Heaven_WLF_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1844,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Beijing%2C_Tiantan%2C_Imperial_Vault_of_Heaven_WLF_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Beijing%2C_Tiantan%2C_Imperial_Vault_of_Heaven_WLF_2023.jpg/1920px-Beijing%2C_Tiantan%2C_Imperial_Vault_of_Heaven_WLF_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1844,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Beijing%2C_Tiantan%2C_Imperial_Vault_of_Heaven_WLF_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Beijing%2C_Tiantan%2C_Imperial_Vault_of_Heaven_WLF_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beijing,_Tiantan,_Imperial_Vault_of_Heaven_WLF_2023.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129038834",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-02-25 11:52:44",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Beijing, Tiantan, Imperial Vault of Heaven WLF 2023",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Traditional clothing of China|China photographs taken on 2011-09-11|Female clothing of China|Retouched pictures|Women of China|Personality rights warning|Tourism in Beijing|Images from Wiki Loves Folklore 2023 in China|Self-published work|Hall of Prayer for Good Harvests|Imperial Vault of Heaven and Echo Wall|Women of Beijing|Files by User:Pierre André Leclercq|République populaire de Chine, by PIERRE ANDRE LECLERCQ|Images from Wiki Loves Folklore 2023|Files with coordinates missing SDC location of creation|Photographs by Pierre André Leclercq /Wiki Loves Folklore/2023|Yellow female clothing|Images from Wiki Loves Folklore 2023 to check|Uploaded via Campaign:wlf 2023",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.879772",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.413063",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Women at Women at  Tiantan, Imperial Vault of Heaven, <a href=\"https://en.wikipedia.org/wiki/Temple_of_Heaven\" class=\"extiw\" title=\"en:Temple of Heaven\"> Temple of Heaven</a> to <a href=\"https://en.wikipedia.org/wiki/Beijing\" class=\"extiw\" title=\"en:Beijing\">Beijing</a>, <a href=\"https://en.wikipedia.org/wiki/People%27s_Republic_of_China\" class=\"extiw\" title=\"en:People's Republic of China\">China</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2011-09-11 07:10:02",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q97949455\" class=\"extiw\" title=\"d:Q97949455\"><span title=\"French photographer and Wikimedian\">Pierre André Leclercq</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<table style=\"margin: 1.5em auto; width:90%;background-color:#B2FFFF; border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\" dir=\"ltr\" class=\"layouttemplate\">\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Pierre_Andr%C3%A9_Leclercq_(photo_profil_).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pierre_Andr%C3%A9_Leclercq_%28photo_profil_%29.jpg/120px-Pierre_Andr%C3%A9_Leclercq_%28photo_profil_%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pierre_Andr%C3%A9_Leclercq_%28photo_profil_%29.jpg/250px-Pierre_Andr%C3%A9_Leclercq_%28photo_profil_%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1107\" data-file-height=\"1107\"></a></span>\n</td>\n<td><b>This illustration</b> <i>was made by</i> <b><a href=\"//commons.wikimedia.org/wiki/User:Pierre_Andr%C3%A9_Leclercq\" title=\"User:Pierre André Leclercq\">Pierre André Leclercq</a></b>, under the <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.fr\">License CC-BY-SA</a> which allows you to:\n<ul><li>Freely use and distribute it for non-commercial or for commercial purposes</li>\n<li>Create derivative works of it.</li></ul>\n<p><b>Under this condition</b> Credit me as the original author and use the same license. I encourage distribution and modification of this image as long as you attribute its author and license. If you are using one of my images or wish to contact me, please inform me by writing a short message on my discussion page. \n</p><p>An email  <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Nuvola_apps_kmail.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Nuvola_apps_kmail.png/20px-Nuvola_apps_kmail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"16\" height=\"16\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Nuvola_apps_kmail.png/40px-Nuvola_apps_kmail.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/Pierre_Andr%C3%A9_Leclercq\" title=\"Special:EmailUser/Pierre André Leclercq\"> <b>would be appreciated.</b></a>\n</p>\n</td></tr></tbody></table>\n<table style=\"margin: 1.5em auto; width:90%;background-color:#B2FFFF; border:2px solid #cccccc; padding:1px;\" cellspacing=\"10\" dir=\"ltr\" class=\"layouttemplate\">\n\n<tbody><tr>\n<td align=\"center\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Fairytale_upload_2.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Fairytale_upload_2.png/60px-Fairytale_upload_2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/2/20/Fairytale_upload_2.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled 2x\" data-file-width=\"64\" data-file-height=\"64\"></a></span>\n</td>\n<td><span><b>Please do not overwrite the author's version with a modified image without discussing with the author.</b> The author would like to make corrections only from the uncompressed <a href=\"https://en.wikipedia.org/wiki/en:raw_image_format\" class=\"extiw\" title=\"w:en:raw image format\">RAW file</a>. This ensures that changes are preserved and are based on the best possible source to achieve a high quality. If you think that changes are required, please, get in touch with the author.<br>Otherwise, you can upload a new image with a different name without overwriting this one. Use <a href=\"//commons.wikimedia.org/wiki/Template:Derived_from\" title=\"Template:Derived from\"><span style=\"font-family:monospace,monospace;\">{{Derived from}}</span></a> or <a href=\"//commons.wikimedia.org/wiki/Template:Extracted_from\" title=\"Template:Extracted from\"><span style=\"font-family:monospace,monospace;\">{{Extracted from}}</span></a> for this purpose.</span>\n</td></tr></tbody></table>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "personality",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 2710850,
+    "ns": 6,
+    "title": "File:Temple of Heaven, Beijing, China - 002.jpg",
+    "index": 6,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 4009972,
+        "width": 3504,
+        "height": 2336,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg/1920px-Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg/1920px-Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Temple_of_Heaven%2C_Beijing%2C_China_-_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven,_Beijing,_China_-_002.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2710850",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2007-09-09 13:18:52",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Temple of Heaven, Beijing, China - 002",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|Taken with Canon EOS 30D|CC-BY-SA-2.5,2.0,1.0|License migration redundant|Circular Mound Altar|Self-published work|Files with coordinates missing SDC location of creation",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.875472",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.406939",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Temple of Heaven, Beijing, China",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2007-08",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Maros M r a z (<a href=\"https://sk.wikipedia.org/wiki/Redaktor:Maros\" class=\"extiw\" title=\"sk:Redaktor:Maros\">Maros</a>)",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "Own work, copyleft: Multi-license with GFDL and Creative Commons CC-BY-SA-2.5 and older versions (2.0 and 1.0)",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 2907290,
+    "ns": 6,
+    "title": "File:Temple of Heaven, Beijing, China - 010 edit.jpg",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3639018,
+        "width": 9027,
+        "height": 1945,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg/1920px-Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 345,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg/3840px-Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg/1920px-Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 345,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg/3840px-Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven,_Beijing,_China_-_010_edit.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2907290",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2007-11-05 21:55:33",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Temple of Heaven, Beijing, China - 010 edit",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|CC-BY-SA-2.5,2.0,1.0|License migration redundant|Self-published work|Featured pictures on Wikipedia, Turkish|Panoramics of Temple of Heaven|Files with Assessments template missing SDC Commons no value quality assessment",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Temple of Heaven, Beijing, China, edit by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Thegreenj&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thegreenj (page does not exist)\">Thegreenj</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2007-08",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "Maros M r a z (<a href=\"https://sk.wikipedia.org/wiki/Redaktor:Maros\" class=\"extiw\" title=\"sk:Redaktor:Maros\">Maros</a>), edited by <a href=\"//commons.wikimedia.org/w/index.php?title=User:Thegreenj&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thegreenj (page does not exist)\">Thegreenj</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Maros M r a z (<a href=\"https://sk.wikipedia.org/wiki/Redaktor:Maros\" class=\"extiw\" title=\"sk:Redaktor:Maros\">Maros</a>)",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "Own work, copyleft: Multi-license with GFDL and Creative Commons CC-BY-SA-2.5 and older versions (2.0 and 1.0)",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 169214705,
+    "ns": 6,
+    "title": "File:Temple of Heaven, Beijing - February 2024.jpg",
+    "index": 3,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 15444413,
+        "width": 6000,
+        "height": 4000,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Temple_of_Heaven%2C_Beijing_-_February_2024.jpg/1920px-Temple_of_Heaven%2C_Beijing_-_February_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1067,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Temple_of_Heaven%2C_Beijing_-_February_2024.jpg/3840px-Temple_of_Heaven%2C_Beijing_-_February_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Temple_of_Heaven%2C_Beijing_-_February_2024.jpg/1920px-Temple_of_Heaven%2C_Beijing_-_February_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1067,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Temple_of_Heaven%2C_Beijing_-_February_2024.jpg/3840px-Temple_of_Heaven%2C_Beijing_-_February_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Temple_of_Heaven%2C_Beijing_-_February_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven,_Beijing_-_February_2024.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=169214705",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-07-04 06:39:25",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Temple of Heaven, Beijing - February 2024",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Hall of Prayer for Good Harvests",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Temple of Heaven in Beijing, China",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-02-20 05:48:27",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:BLloydT\" title=\"User:BLloydT\">Lloyd Tudor</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 169671934,
+    "ns": 6,
+    "title": "File:Temple of Heaven - Beijing - June 2012.jpg",
+    "index": 5,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 564596,
+        "width": 3072,
+        "height": 2304,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Temple_of_Heaven_-_Beijing_-_June_2012.jpg/1920px-Temple_of_Heaven_-_Beijing_-_June_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/0/07/Temple_of_Heaven_-_Beijing_-_June_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Temple_of_Heaven_-_Beijing_-_June_2012.jpg/1920px-Temple_of_Heaven_-_Beijing_-_June_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/07/Temple_of_Heaven_-_Beijing_-_June_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Temple_of_Heaven_-_Beijing_-_June_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven_-_Beijing_-_June_2012.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=169671934",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-07-11 05:08:38",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Temple of Heaven - Beijing - June 2012",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Beijing|Self-published work|Hall of Prayer for Good Harvests|Information field template with formatting",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Temple_of_Heaven\" class=\"extiw\" title=\"en:Temple of Heaven\">Temple of Heaven</a>, <a href=\"https://en.wikipedia.org/wiki/Beijing\" class=\"extiw\" title=\"en:Beijing\">Beijing</a>, June 2012",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2012-06-26 02:42:31",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<p><a href=\"//commons.wikimedia.org/wiki/User:Omert33\" title=\"User:Omert33\">Omer Toledano</a>\n</p>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 138431876,
+    "ns": 6,
+    "title": "File:The Temple of Heaven, Beijing, (50609381043).jpg",
+    "index": 7,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1769359,
+        "width": 3648,
+        "height": 2736,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/The_Temple_of_Heaven%2C_Beijing%2C_%2850609381043%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850609381043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_Temple_of_Heaven%2C_Beijing%2C_%2850609381043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/The_Temple_of_Heaven%2C_Beijing%2C_%2850609381043%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850609381043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_Temple_of_Heaven%2C_Beijing%2C_%2850609381043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_Temple_of_Heaven%2C_Beijing%2C_%2850609381043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Temple_of_Heaven,_Beijing,_(50609381043).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138431876",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-10-03 12:10:25",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Temple of Heaven, Beijing, (50609381043)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Temple of Heaven|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.989484",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.273632",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The West Annex Hall of the Hall of Prayer for Good Harvests in the Temple of Heaven, Dongcheng, Beijing, 22 April 2020. The Temple of Heaven was a complex of buildings and gardens built by the Ming Dynasty in 1406-20, extended in the 16th Century and renovated in the 18th Century, In the 1900 Boxer Rebellion the Eight Nations Alliance made it their HQ, which resulted in much damage by the occupiers. Subsequently, the complex fell into considerable disrepair and dilapidation. In 1918 it was made into a public park by the Republic and eventually restored.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2009-04-22 01:35",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/camperdown/50609381043/\">The Temple of Heaven, Beijing,</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/58433307@N08\">Hugh Llewelyn</a> from Keynsham, UK",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 138431874,
+    "ns": 6,
+    "title": "File:The Temple of Heaven, Beijing, (50609381538).jpg",
+    "index": 12,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1994704,
+        "width": 3648,
+        "height": 2736,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/The_Temple_of_Heaven%2C_Beijing%2C_%2850609381538%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850609381538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/8/85/The_Temple_of_Heaven%2C_Beijing%2C_%2850609381538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/The_Temple_of_Heaven%2C_Beijing%2C_%2850609381538%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850609381538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/85/The_Temple_of_Heaven%2C_Beijing%2C_%2850609381538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/The_Temple_of_Heaven%2C_Beijing%2C_%2850609381538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Temple_of_Heaven,_Beijing,_(50609381538).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138431874",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-10-03 12:10:24",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Temple of Heaven, Beijing, (50609381538)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Temple of Heaven|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.989484",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.273632",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Alters in the Imperial Hall of Heaven in the Temple of Heaven, Dongcheng, Beijing, 22 April 2020. The Temple of Heaven was a complex of buildings and gardens built by the Ming Dynasty in 1406-20, extended in the 16th Century and renovated in the 18th Century, In the 1900 Boxer Rebellion the Eight Nations Alliance made it their HQ, which resulted in much damage by the occupiers. Subsequently, the complex fell into considerable disrepair and dilapidation. In 1918 it was made into a public park by the Republic and eventually restored.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2009-04-22 01:24",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/camperdown/50609381538/\">The Temple of Heaven, Beijing,</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/58433307@N08\">Hugh Llewelyn</a> from Keynsham, UK",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 113496674,
+    "ns": 6,
+    "title": "File:The Temple of Heaven, Beijing, (50610128566).jpg",
+    "index": 8,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1794373,
+        "width": 2736,
+        "height": 3648,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Temple_of_Heaven%2C_Beijing%2C_%2850610128566%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610128566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 2133,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Temple_of_Heaven%2C_Beijing%2C_%2850610128566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Temple_of_Heaven%2C_Beijing%2C_%2850610128566%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610128566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2133,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Temple_of_Heaven%2C_Beijing%2C_%2850610128566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Temple_of_Heaven%2C_Beijing%2C_%2850610128566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Temple_of_Heaven,_Beijing,_(50610128566).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113496674",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-10-03 13:00:29",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Temple of Heaven, Beijing, (50610128566)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Temple of Heaven|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.989484",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.273632",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A blue glazed horned beast on the roof corner of the Imperial Hall of Heaven in the Temple of Heaven, Dongcheng, Beijing, 22 April 2020. The Temple of Heaven was a complex of buildings and gardens built by the Ming Dynasty in 1406-20, extended in the 16th Century and renovated in the 18th Century, In the 1900 Boxer Rebellion the Eight Nations Alliance made it their HQ, which resulted in much damage by the occupiers. Subsequently, the complex fell into considerable disrepair and dilapidation. In 1918 it was made into a public park by the Republic and eventually restored.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2009-04-22 01:26",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/camperdown/50610128566/\">The Temple of Heaven, Beijing,</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/58433307@N08\">Hugh Llewelyn</a> from Keynsham, UK",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 138431871,
+    "ns": 6,
+    "title": "File:The Temple of Heaven, Beijing, (50610244282).jpg",
+    "index": 9,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 2238290,
+        "width": 3648,
+        "height": 2736,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244282%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610244282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244282%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610244282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Temple_of_Heaven,_Beijing,_(50610244282).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138431871",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-10-03 12:10:21",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Temple of Heaven, Beijing, (50610244282)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Temple of Heaven|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.989484",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.273632",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "An Alter in the Imperial Hall of Heaven in the Temple of Heaven, Dongcheng, Beijing, 22 April 2020. The Temple of Heaven was a complex of buildings and gardens built by the Ming Dynasty in 1406-20, extended in the 16th Century and renovated in the 18th Century, In the 1900 Boxer Rebellion the Eight Nations Alliance made it their HQ, which resulted in much damage by the occupiers. Subsequently, the complex fell into considerable disrepair and dilapidation. In 1918 it was made into a public park by the Republic and eventually restored.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2009-04-22 01:23",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/camperdown/50610244282/\">The Temple of Heaven, Beijing,</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/58433307@N08\">Hugh Llewelyn</a> from Keynsham, UK",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 138431870,
+    "ns": 6,
+    "title": "File:The Temple of Heaven, Beijing, (50610244527).jpg",
+    "index": 11,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1936158,
+        "width": 3648,
+        "height": 2736,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Temple_of_Heaven,_Beijing,_(50610244527).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138431870",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-10-03 12:10:20",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Temple of Heaven, Beijing, (50610244527)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Temple of Heaven|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.989484",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.273632",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The Imperial Hall of Heaven in the Temple of Heaven, Dongcheng, Beijing, 22 April 2020. The Temple of Heaven was a complex of buildings and gardens built by the Ming Dynasty in 1406-20, extended in the 16th Century and renovated in the 18th Century, In the 1900 Boxer Rebellion the Eight Nations Alliance made it their HQ, which resulted in much damage by the occupiers. Subsequently, the complex fell into considerable disrepair and dilapidation. In 1918 it was made into a public park by the Republic and eventually restored.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2009-04-22 01:20",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/camperdown/50610244527/\">The Temple of Heaven, Beijing,</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/58433307@N08\">Hugh Llewelyn</a> from Keynsham, UK",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 138431872,
+    "ns": 6,
+    "title": "File:The Temple of Heaven, Beijing, (50610244637).jpg",
+    "index": 10,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 1808077,
+        "width": 3648,
+        "height": 2736,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244637%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610244637%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244637%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244637%29.jpg/1920px-The_Temple_of_Heaven%2C_Beijing%2C_%2850610244637%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244637%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Temple_of_Heaven%2C_Beijing%2C_%2850610244637%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Temple_of_Heaven,_Beijing,_(50610244637).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138431872",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-10-03 12:10:24",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Temple of Heaven, Beijing, (50610244637)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Temple of Heaven|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.989484",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.273632",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "The East Annex Hall of Hall of Prayer for Good Harvests in the Temple of Heaven, Dongcheng, Beijing, 22 April 2020. The Temple of Heaven was a complex of buildings and gardens built by the Ming Dynasty in 1406-20, extended in the 16th Century and renovated in the 18th Century, In the 1900 Boxer Rebellion the Eight Nations Alliance made it their HQ, which resulted in much damage by the occupiers. Subsequently, the complex fell into considerable disrepair and dilapidation. In 1918 it was made into a public park by the Republic and eventually restored.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2009-04-22 01:17",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/camperdown/50610244637/\">The Temple of Heaven, Beijing,</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/58433307@N08\">Hugh Llewelyn</a> from Keynsham, UK",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,1382 @@
+[
+  {
+    "pageid": 82027351,
+    "ns": 6,
+    "title": "File:Darling Harbour and Tumbalong Park with Sydney Skyline 2019.jpg",
+    "index": 8,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 2770484,
+        "width": 4146,
+        "height": 1677,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Darling_Harbour_and_Tumbalong_Park_with_Sydney_Skyline_2019.jpg/1920px-Darling_Harbour_and_Tumbalong_Park_with_Sydney_Skyline_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 647,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Darling_Harbour_and_Tumbalong_Park_with_Sydney_Skyline_2019.jpg/3840px-Darling_Harbour_and_Tumbalong_Park_with_Sydney_Skyline_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Darling_Harbour_and_Tumbalong_Park_with_Sydney_Skyline_2019.jpg/1920px-Darling_Harbour_and_Tumbalong_Park_with_Sydney_Skyline_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 647,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Darling_Harbour_and_Tumbalong_Park_with_Sydney_Skyline_2019.jpg/3840px-Darling_Harbour_and_Tumbalong_Park_with_Sydney_Skyline_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Darling_Harbour_and_Tumbalong_Park_with_Sydney_Skyline_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Darling_Harbour_and_Tumbalong_Park_with_Sydney_Skyline_2019.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82027351",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-09-10 07:55:12",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Darling Harbour and Tumbalong Park with Sydney Skyline 2019",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Darling Harbour, New South Wales|Self-published work|Files with coordinates missing SDC location of creation (34° S, 151° E)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.874336",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "151.200964",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Darling Harbour and Tumbalong Park with Sydney Skyline 2019",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-05-19 08:24:16",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Believetheswype&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Believetheswype (page does not exist)\">Believetheswype</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 184724763,
+    "ns": 6,
+    "title": "File:Skyline of Sydney CBD, Sydney Harbour Bridge, 2023.jpg",
+    "index": 4,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3964328,
+        "width": 3877,
+        "height": 2908,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Skyline_of_Sydney_CBD%2C_Sydney_Harbour_Bridge%2C_2023.jpg/1920px-Skyline_of_Sydney_CBD%2C_Sydney_Harbour_Bridge%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Skyline_of_Sydney_CBD%2C_Sydney_Harbour_Bridge%2C_2023.jpg/3840px-Skyline_of_Sydney_CBD%2C_Sydney_Harbour_Bridge%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Skyline_of_Sydney_CBD%2C_Sydney_Harbour_Bridge%2C_2023.jpg/1920px-Skyline_of_Sydney_CBD%2C_Sydney_Harbour_Bridge%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Skyline_of_Sydney_CBD%2C_Sydney_Harbour_Bridge%2C_2023.jpg/3840px-Skyline_of_Sydney_CBD%2C_Sydney_Harbour_Bridge%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Skyline_of_Sydney_CBD%2C_Sydney_Harbour_Bridge%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Skyline_of_Sydney_CBD,_Sydney_Harbour_Bridge,_2023.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184724763",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-02-22 03:27:48",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Skyline of Sydney CBD, Sydney Harbour Bridge, 2023",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Skyscrapers in Sydney|Milsons Point, New South Wales|Self-published work|March 2023 in Sydney|Australia photographs taken on 2023-03-06|Skylines of Sydney|Photographs of Sydney by Kgbo in 2023|Files with coordinates missing SDC location of creation (34° S, 151° E)|Photos by User:Kgbo|Skylines of the Sydney Central Business District from the north",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.849219",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "151.213228",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Skyline of Sydney CBD, Sydney Harbour Bridge, 2023",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-03-06 14:20:37",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kgbo\" title=\"User:Kgbo\">Chris Olszewski</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 59283649,
+    "ns": 6,
+    "title": "File:Sydney - Sydney Harbour Bridge & Opera House & Skyline (4158056861).jpg",
+    "index": 7,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3431838,
+        "width": 3072,
+        "height": 2304,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sydney_-_Sydney_Harbour_Bridge_%26_Opera_House_%26_Skyline_%284158056861%29.jpg/1920px-Sydney_-_Sydney_Harbour_Bridge_%26_Opera_House_%26_Skyline_%284158056861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sydney_-_Sydney_Harbour_Bridge_%26_Opera_House_%26_Skyline_%284158056861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sydney_-_Sydney_Harbour_Bridge_%26_Opera_House_%26_Skyline_%284158056861%29.jpg/1920px-Sydney_-_Sydney_Harbour_Bridge_%26_Opera_House_%26_Skyline_%284158056861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sydney_-_Sydney_Harbour_Bridge_%26_Opera_House_%26_Skyline_%284158056861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sydney_-_Sydney_Harbour_Bridge_%26_Opera_House_%26_Skyline_%284158056861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_-_Sydney_Harbour_Bridge_%26_Opera_House_%26_Skyline_(4158056861).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59283649",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-05-25 09:55:01",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Sydney - Sydney Harbour Bridge & Opera House & Skyline (4158056861)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Sydney Harbour|Flickr images reviewed by FlickreviewR",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Sydney - Sydney Harbour Bridge &amp; Opera House &amp; Skyline",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2009-11-25 10:14",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/timgillons/4158056861/\">Sydney - Sydney Harbour Bridge &amp; Opera House &amp; Skyline</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10896675@N00\">eyeintim</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 160965410,
+    "ns": 6,
+    "title": "File:Sydney Harbour, New South Wales, Australia.jpg",
+    "index": 10,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 10320276,
+        "width": 5640,
+        "height": 3554,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sydney_Harbour%2C_New_South_Wales%2C_Australia.jpg/1920px-Sydney_Harbour%2C_New_South_Wales%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1008,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sydney_Harbour%2C_New_South_Wales%2C_Australia.jpg/3840px-Sydney_Harbour%2C_New_South_Wales%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sydney_Harbour%2C_New_South_Wales%2C_Australia.jpg/1920px-Sydney_Harbour%2C_New_South_Wales%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1008,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Sydney_Harbour%2C_New_South_Wales%2C_Australia.jpg/3840px-Sydney_Harbour%2C_New_South_Wales%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sydney_Harbour%2C_New_South_Wales%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour,_New_South_Wales,_Australia.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160965410",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-03-02 05:26:56",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Sydney Harbour, New South Wales, Australia",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Sydney Opera House remote views|Files with coordinates missing SDC location of creation (34° S, 151° E)|Sydney Harbour Bridge from the northeast|Skylines of the Sydney Central Business District from the north",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.849049",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "151.213675",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Sydney\" class=\"extiw\" title=\"en:Sydney\">Sydney</a> Harbour from the north, with the <a href=\"https://en.wikipedia.org/wiki/Sydney_Opera_House\" class=\"extiw\" title=\"en:Sydney Opera House\">Sydney Opera House</a> and <a href=\"https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge\" class=\"extiw\" title=\"en:Sydney Harbour Bridge\">Harbour bridge</a> at Sunset, <a href=\"https://en.wikipedia.org/wiki/New_South_Wales\" class=\"extiw\" title=\"en:New South Wales\">New South Wales</a>, <a href=\"https://en.wikipedia.org/wiki/Australia\" class=\"extiw\" title=\"en:Australia\">Australia</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2025-02-23 19:28:25",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Stu%27s_Images\" title=\"User:Stu's Images\">Stu's Images</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Stu's Images",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 184959858,
+    "ns": 6,
+    "title": "File:Sydney Harbour, New South Wales, Australia at sunset.jpg",
+    "index": 12,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 6859971,
+        "width": 5760,
+        "height": 2059,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sydney_Harbour%2C_New_South_Wales%2C_Australia_at_sunset.jpg/1920px-Sydney_Harbour%2C_New_South_Wales%2C_Australia_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 572,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sydney_Harbour%2C_New_South_Wales%2C_Australia_at_sunset.jpg/3840px-Sydney_Harbour%2C_New_South_Wales%2C_Australia_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sydney_Harbour%2C_New_South_Wales%2C_Australia_at_sunset.jpg/1920px-Sydney_Harbour%2C_New_South_Wales%2C_Australia_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 572,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sydney_Harbour%2C_New_South_Wales%2C_Australia_at_sunset.jpg/3840px-Sydney_Harbour%2C_New_South_Wales%2C_Australia_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sydney_Harbour%2C_New_South_Wales%2C_Australia_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour,_New_South_Wales,_Australia_at_sunset.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184959858",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-02-25 03:45:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Sydney Harbour, New South Wales, Australia at sunset",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Sydney Opera House remote views|Files with coordinates missing SDC location of creation (34° S, 151° E)|Sydney Harbour Bridge from the northeast|Skylines of the Sydney Central Business District from the north",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.849049",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "151.213675",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/Sydney\" class=\"extiw\" title=\"en:Sydney\">Sydney</a> Harbour from the north, with the <a href=\"https://en.wikipedia.org/wiki/Sydney_Opera_House\" class=\"extiw\" title=\"en:Sydney Opera House\">Sydney Opera House</a> and <a href=\"https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge\" class=\"extiw\" title=\"en:Sydney Harbour Bridge\">Harbour bridge</a> at Sunset, <a href=\"https://en.wikipedia.org/wiki/New_South_Wales\" class=\"extiw\" title=\"en:New South Wales\">New South Wales</a>, <a href=\"https://en.wikipedia.org/wiki/Australia\" class=\"extiw\" title=\"en:Australia\">Australia</a>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2025-02-26 20:06:31",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Stu%27s_Images\" title=\"User:Stu's Images\">Stu's Images</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Stu's Images",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 6099720,
+    "ns": 6,
+    "title": "File:Sydney Harbour 2.jpg",
+    "index": 11,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3610465,
+        "width": 7562,
+        "height": 2949,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Sydney_Harbour_2.jpg/1920px-Sydney_Harbour_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 624,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Sydney_Harbour_2.jpg/3840px-Sydney_Harbour_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Sydney_Harbour_2.jpg/1920px-Sydney_Harbour_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 624,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Sydney_Harbour_2.jpg/3840px-Sydney_Harbour_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sydney_Harbour_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_2.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6099720",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2009-03-05 23:22:35",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Sydney Harbour 2",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Sydney Harbour|Self-published work|PD-self|Skylines of the Sydney Central Business District from the east",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Sydney Harbour, Sydney Australia",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bkamprath&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bkamprath (page does not exist)\">Bkamprath</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 438293,
+    "ns": 6,
+    "title": "File:Sydney Harbour Bridge night.jpg",
+    "index": 1,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 11432673,
+        "width": 13742,
+        "height": 3431,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Sydney_Harbour_Bridge_night.jpg/1920px-Sydney_Harbour_Bridge_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 399,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Sydney_Harbour_Bridge_night.jpg/3840px-Sydney_Harbour_Bridge_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Sydney_Harbour_Bridge_night.jpg/1920px-Sydney_Harbour_Bridge_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 399,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Sydney_Harbour_Bridge_night.jpg/3840px-Sydney_Harbour_Bridge_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sydney_Harbour_Bridge_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_night.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=438293",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2013-06-19 14:03:23",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Sydney Harbour Bridge night",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|Images with annotations|License migration redundant|Self-published work|Featured pictures on Wikipedia, English|Featured night photography|Featured pictures on Wikipedia, German|Featured pictures of Sydney|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Spanish|Featured pictures on Wikipedia, Turkish|Sydney Opera House remote views|Featured pictures of cityscapes|Photographs by User:Diliff|Featured pictures by User:Diliff|Sydney Harbour Bridge in 2005|Australia photographs taken on 2005-06-15|June 2005 in rail transport in Sydney|Panoramics of bridges|Files with coordinates missing SDC location of creation (34° S, 151° E)|Skylines of the Sydney Central Business District from the north|Sydney Harbour Bridge at night|Remote views of Sydney Harbour Bridge|Remote views of bridges in Australia|2005 in Central Business District, Sydney",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "featured|potd|poty",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.849944",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "151.214611",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A panoramic view of the <a href=\"https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge\" class=\"extiw\" title=\"w:Sydney Harbour Bridge\">Sydney Harbour Bridge</a> at night, as seen from the <a href=\"https://en.wikipedia.org/wiki/North_Shore_(Sydney)\" class=\"extiw\" title=\"w:North Shore (Sydney)\">North Shore</a> suburb of <a href=\"https://en.wikipedia.org/wiki/Kirribilli,_New_South_Wales\" class=\"extiw\" title=\"w:Kirribilli, New South Wales\">Kirribilli</a>.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 15 June 2005",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "taken by <a href=\"https://en.wikipedia.org/wiki/User:Diliff\" class=\"extiw\" title=\"en:User:Diliff\">Diliff</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/User:Diliff\" class=\"extiw\" title=\"en:User:Diliff\">Diliff</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div dir=\"ltr\"><b><span style=\"font-size:x-large;\">Summary:</span><div style=\"clear:both;\"></div><div style=\"clear:both;\"></div>In using this image or any subsequent derivatives of it, you are required to release the image under the same license. As such, any reproduction of this image, in any medium, must appear with a copy of, or full URL of the license.<div style=\"clear:both;\"></div>Attribution of this image to the author (DAVID ILIFF) is also required, preferably in a prominent location near the image.<div style=\"clear:both;\"></div>No other conditions may be added to, or removed from this license without the permission of the author and copyright holder.<div style=\"clear:both;\"></div><div style=\"clear:both;\"></div>Suggested attribution: \"Photo by DAVID ILIFF. License: <a rel=\"nofollow\" class=\"external free\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\">https://creativecommons.org/licenses/by-sa/3.0/</a>\"</b><div style=\"clear:both;\"></div><div style=\"clear:both;\"></div>Please review the full license requirements carefully before using this image. If you would like to clarify the terms of the license or negotiate less restrictive commercial licensing outside of the bounds of GFDL/CC-BY-SA, please <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/Diliff\" title=\"Special:EmailUser/Diliff\">contact me by email</a>, or if you don't have a Wikipedia account you can either <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org/w/index.php?title=User_talk:Diliff&amp;action=edit&amp;section=new\" href=\"https://en.wikipedia.org/w/index.php?title=User_talk:Diliff&amp;action=edit&amp;section=new\">leave a message on my talk page</a> with your contact details and your request, or you can <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/diliff\">contact me on Facebook</a>. Please also send a 'friend request' to ensure that I am aware of your message.</div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 1193941,
+    "ns": 6,
+    "title": "File:Sydney Harbour night skyline.jpg",
+    "index": 5,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 354330,
+        "width": 2049,
+        "height": 1332,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Sydney_Harbour_night_skyline.jpg/1920px-Sydney_Harbour_night_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1040,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sydney_Harbour_night_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Sydney_Harbour_night_skyline.jpg/1920px-Sydney_Harbour_night_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1040,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sydney_Harbour_night_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sydney_Harbour_night_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_night_skyline.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1193941",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2006-09-20 23:18:20",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Sydney Harbour night skyline",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Luna Park Sydney|Flickr images reviewed by trusted users|Information field template with formatting|FlickrLickr images|Night in Sydney|Sydney Harbour Bridge in 2005|Sydney Harbour Bridge at night|Night skylines in Australia|Skylines of the Sydney Central Business District from the northwest|2005 in Central Business District, Sydney",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Sydney Harbour night skyline, Sydney, New South Wales, Australia.<br>Dans Harbourview 2",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2005-05-28 02:09:09",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/35034364511@N01/15945766\">Flickr</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/35034364511@N01\">Daniel Falconer</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 90015163,
+    "ns": 6,
+    "title": "File:Sydney skyline and harbour (cropped).jpg",
+    "index": 6,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 243571,
+        "width": 1282,
+        "height": 356,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Sydney_skyline_and_harbour_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 1600,
+        "thumbheight": 444,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Sydney_skyline_and_harbour_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 444
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Sydney_skyline_and_harbour_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_skyline_and_harbour_(cropped).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90015163",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-06-24 21:58:41",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Sydney skyline and harbour (cropped)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Extracted images|July 2014 in Sydney|Skylines of the Sydney Central Business District from the northeast",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Sydney CBD from Sydney Harbour",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2014-07-06 14:05:15",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/mdalmuld/14399423580/\">https://www.flickr.com/photos/mdalmuld/14399423580/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "mdalmuld",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 5662953,
+    "ns": 6,
+    "title": "File:Sydney skyline at dusk - Dec 2008.jpg",
+    "index": 2,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 974538,
+        "width": 2500,
+        "height": 990,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Sydney_skyline_at_dusk_-_Dec_2008.jpg/1920px-Sydney_skyline_at_dusk_-_Dec_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 634,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sydney_skyline_at_dusk_-_Dec_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Sydney_skyline_at_dusk_-_Dec_2008.jpg/1920px-Sydney_skyline_at_dusk_-_Dec_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 634,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sydney_skyline_at_dusk_-_Dec_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sydney_skyline_at_dusk_-_Dec_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_skyline_at_dusk_-_Dec_2008.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5662953",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2009-01-08 14:38:07",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Sydney skyline at dusk - Dec 2008",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|Taken with Canon EOS 5D|Purple|Sydney Harbour|License migration redundant|Self-published work|Featured pictures on Wikipedia, English|Picture of week on the Czech Wikipedia|Featured night photography|Featured pictures on Wikipedia, German|Featured pictures of Sydney|Featured pictures on Wikipedia, Turkish|Featured pictures of cityscapes|Photographs by User:Diliff|Night in Sydney|Featured pictures by User:Diliff|Files with coordinates missing SDC location of creation (34° S, 151° E)|Assessment tagged pages marked as POTY candidates|Skylines of the Sydney Central Business District from the north|2008 in the City of Sydney",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality|featured|poty",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.850054",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "151.214916",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A <a href=\"https://en.wikipedia.org/wiki/Panorama\" class=\"extiw\" title=\"w:Panorama\">panoramic</a> view of the <a href=\"https://en.wikipedia.org/wiki/Sydney\" class=\"extiw\" title=\"w:Sydney\">Sydney</a> skyline as viewed across <a href=\"https://en.wikipedia.org/wiki/Port_Jackson\" class=\"extiw\" title=\"w:Port Jackson\">Sydney Harbour</a> from <a href=\"https://en.wikipedia.org/wiki/Kirribilli,_New_South_Wales\" class=\"extiw\" title=\"w:Kirribilli, New South Wales\">Kirribilli</a>. Taken by myself with a <a href=\"https://en.wikipedia.org/wiki/Canon_EOS_5D\" class=\"extiw\" title=\"w:Canon EOS 5D\">Canon 5D</a> and 100mm f/2.8 lens. This is an exposure blended image.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2008-12-03",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Diliff\" title=\"User:Diliff\">Diliff</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div dir=\"ltr\"><b><span style=\"font-size:x-large;\">Summary:</span><div style=\"clear:both;\"></div><div style=\"clear:both;\"></div>In using this image or any subsequent derivatives of it, you are required to release the image under the same license. As such, any reproduction of this image, in any medium, must appear with a copy of, or full URL of the license.<div style=\"clear:both;\"></div>Attribution of this image to the author (DAVID ILIFF) is also required, preferably in a prominent location near the image.<div style=\"clear:both;\"></div>No other conditions may be added to, or removed from this license without the permission of the author and copyright holder.<div style=\"clear:both;\"></div><div style=\"clear:both;\"></div>Suggested attribution: \"Photo by DAVID ILIFF. License: <a rel=\"nofollow\" class=\"external free\" href=\"https://creativecommons.org/licenses/by-sa/3.0/\">https://creativecommons.org/licenses/by-sa/3.0/</a>\"</b><div style=\"clear:both;\"></div><div style=\"clear:both;\"></div>Please review the full license requirements carefully before using this image. If you would like to clarify the terms of the license or negotiate less restrictive commercial licensing outside of the bounds of GFDL/CC-BY-SA, please <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/Diliff\" title=\"Special:EmailUser/Diliff\">contact me by email</a>, or if you don't have a Wikipedia account you can either <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org/w/index.php?title=User_talk:Diliff&amp;action=edit&amp;section=new\" href=\"https://en.wikipedia.org/w/index.php?title=User_talk:Diliff&amp;action=edit&amp;section=new\">leave a message on my talk page</a> with your contact details and your request, or you can <a rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/diliff\">contact me on Facebook</a>. Please also send a 'friend request' to ensure that I am aware of your message.</div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 157461597,
+    "ns": 6,
+    "title": "File:The Sydney Harbour Bridge from Milsons Point September 2024.jpg",
+    "index": 9,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3596626,
+        "width": 3024,
+        "height": 4032,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/The_Sydney_Harbour_Bridge_from_Milsons_Point_September_2024.jpg/1920px-The_Sydney_Harbour_Bridge_from_Milsons_Point_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 2133,
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/The_Sydney_Harbour_Bridge_from_Milsons_Point_September_2024.jpg/1920px-The_Sydney_Harbour_Bridge_from_Milsons_Point_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 2133
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/The_Sydney_Harbour_Bridge_from_Milsons_Point_September_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Sydney_Harbour_Bridge_from_Milsons_Point_September_2024.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157461597",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-01-02 19:41:37",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "The Sydney Harbour Bridge from Milsons Point September 2024",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Self-published work|Sydney Harbour Bridge in 2024|Files with coordinates missing SDC location of creation (34° S, 151° E)|Sydney Harbour Bridge from the northeast|Skylines of the Sydney Central Business District from the north|Sydney Harbour Bridge pylons",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.849311",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "151.213119",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A Picture I took of the Sydney Harbour Bridge in September 2024",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-09-20 16:46:02",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Servite_et_contribuere&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Servite et contribuere (page does not exist)\">Servite et contribuere</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "pageid": 184724757,
+    "ns": 6,
+    "title": "File:Under the Sydney Harbour Bridge, skyline of Sydney CBD, 2023.jpg",
+    "index": 3,
+    "imagerepository": "local",
+    "imageinfo": [
+      {
+        "size": 3350105,
+        "width": 3918,
+        "height": 2938,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Under_the_Sydney_Harbour_Bridge%2C_skyline_of_Sydney_CBD%2C_2023.jpg/1920px-Under_the_Sydney_Harbour_Bridge%2C_skyline_of_Sydney_CBD%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 1600,
+        "thumbheight": 1200,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Under_the_Sydney_Harbour_Bridge%2C_skyline_of_Sydney_CBD%2C_2023.jpg/3840px-Under_the_Sydney_Harbour_Bridge%2C_skyline_of_Sydney_CBD%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Under_the_Sydney_Harbour_Bridge%2C_skyline_of_Sydney_CBD%2C_2023.jpg/1920px-Under_the_Sydney_Harbour_Bridge%2C_skyline_of_Sydney_CBD%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 1600,
+          "height": 1200,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Under_the_Sydney_Harbour_Bridge%2C_skyline_of_Sydney_CBD%2C_2023.jpg/3840px-Under_the_Sydney_Harbour_Bridge%2C_skyline_of_Sydney_CBD%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Under_the_Sydney_Harbour_Bridge%2C_skyline_of_Sydney_CBD%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Under_the_Sydney_Harbour_Bridge,_skyline_of_Sydney_CBD,_2023.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184724757",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-02-22 03:27:44",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Under the Sydney Harbour Bridge, skyline of Sydney CBD, 2023",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Skyscrapers in Sydney|Milsons Point, New South Wales|Self-published work|March 2023 in Sydney|Sydney Harbour Bridge in 2023|Australia photographs taken on 2023-03-06|Skylines of Sydney|Photographs of Sydney by Kgbo in 2023|Files with coordinates missing SDC location of creation (34° S, 151° E)|Photos by User:Kgbo|Skylines of the Sydney Central Business District from the north",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-33.850278",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "151.211914",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Under the Sydney Harbour Bridge, skyline of Sydney CBD, 2023",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-03-06 14:24:17",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kgbo\" title=\"User:Kgbo\">Chris Olszewski</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

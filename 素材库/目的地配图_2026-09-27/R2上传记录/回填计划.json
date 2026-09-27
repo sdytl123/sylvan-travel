@@ -1,0 +1,472 @@
+[
+  {
+    "sheet": "Countries",
+    "cell": "F2",
+    "id": "australia",
+    "name": "澳大利亚",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/country-australia.jpg",
+    "object_key": "destinations-20260927/country-australia.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/country-australia.jpg"
+  },
+  {
+    "sheet": "Countries",
+    "cell": "F3",
+    "id": "newzealand",
+    "name": "新西兰",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/country-newzealand.jpg",
+    "object_key": "destinations-20260927/country-newzealand.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/country-newzealand.jpg"
+  },
+  {
+    "sheet": "Countries",
+    "cell": "F4",
+    "id": "china",
+    "name": "中国",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/country-china.jpg",
+    "object_key": "destinations-20260927/country-china.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/country-china.jpg"
+  },
+  {
+    "sheet": "Countries",
+    "cell": "F5",
+    "id": "japan",
+    "name": "日本",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/country-japan.jpg",
+    "object_key": "destinations-20260927/country-japan.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/country-japan.jpg"
+  },
+  {
+    "sheet": "Countries",
+    "cell": "F6",
+    "id": "usa",
+    "name": "美国",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/country-usa.jpg",
+    "object_key": "destinations-20260927/country-usa.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/country-usa.jpg"
+  },
+  {
+    "sheet": "Countries",
+    "cell": "F7",
+    "id": "thailand",
+    "name": "泰国",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/country-thailand.jpg",
+    "object_key": "destinations-20260927/country-thailand.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/country-thailand.jpg"
+  },
+  {
+    "sheet": "Countries",
+    "cell": "F8",
+    "id": "others",
+    "name": "其他热门目的地",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/country-others.jpg",
+    "object_key": "destinations-20260927/country-others.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/country-others.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F2",
+    "id": "melbourne",
+    "name": "墨尔本",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-melbourne.jpg",
+    "object_key": "destinations-20260927/city-melbourne.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-melbourne.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F3",
+    "id": "sydney",
+    "name": "悉尼",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-sydney.jpg",
+    "object_key": "destinations-20260927/city-sydney.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-sydney.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F4",
+    "id": "adelaide",
+    "name": "阿德莱德",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-adelaide.jpg",
+    "object_key": "destinations-20260927/city-adelaide.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-adelaide.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F5",
+    "id": "gold coast",
+    "name": "黄金海岸",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-gold-coast.jpg",
+    "object_key": "destinations-20260927/city-gold-coast.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-gold-coast.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F6",
+    "id": "au others",
+    "name": "澳洲其他热门城市",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-au-others.jpg",
+    "object_key": "destinations-20260927/city-au-others.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-au-others.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F7",
+    "id": "beijing",
+    "name": "北京",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-beijing.jpg",
+    "object_key": "destinations-20260927/city-beijing.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-beijing.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F8",
+    "id": "shanghai",
+    "name": "上海",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-shanghai.jpg",
+    "object_key": "destinations-20260927/city-shanghai.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-shanghai.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F9",
+    "id": "xi'an",
+    "name": "西安",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-xi-an.jpg",
+    "object_key": "destinations-20260927/city-xi-an.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-xi-an.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F10",
+    "id": "sanya",
+    "name": "三亚",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-sanya.jpg",
+    "object_key": "destinations-20260927/city-sanya.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-sanya.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F11",
+    "id": "cn others",
+    "name": "中国其他热门城市",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-cn-others.jpg",
+    "object_key": "destinations-20260927/city-cn-others.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-cn-others.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F12",
+    "id": "bali",
+    "name": "巴厘岛",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-bali.jpg",
+    "object_key": "destinations-20260927/city-bali.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-bali.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F13",
+    "id": "fiji",
+    "name": "斐济",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-fiji.jpg",
+    "object_key": "destinations-20260927/city-fiji.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-fiji.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F14",
+    "id": "maldives",
+    "name": "马尔代夫",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-maldives.jpg",
+    "object_key": "destinations-20260927/city-maldives.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-maldives.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F15",
+    "id": "ot others",
+    "name": "其他热门项目",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-ot-others.jpg",
+    "object_key": "destinations-20260927/city-ot-others.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-ot-others.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F16",
+    "id": "auckland",
+    "name": "奥克兰",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-auckland.jpg",
+    "object_key": "destinations-20260927/city-auckland.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-auckland.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F17",
+    "id": "queenstown",
+    "name": "皇后镇",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-queenstown.jpg",
+    "object_key": "destinations-20260927/city-queenstown.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-queenstown.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F18",
+    "id": "newyork",
+    "name": "纽约",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-newyork.jpg",
+    "object_key": "destinations-20260927/city-newyork.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-newyork.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F19",
+    "id": "losangeles",
+    "name": "洛杉矶",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-losangeles.jpg",
+    "object_key": "destinations-20260927/city-losangeles.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-losangeles.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F20",
+    "id": "hawaii",
+    "name": "夏威夷",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-hawaii.jpg",
+    "object_key": "destinations-20260927/city-hawaii.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-hawaii.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F21",
+    "id": "bangkok",
+    "name": "曼谷",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-bangkok.jpg",
+    "object_key": "destinations-20260927/city-bangkok.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-bangkok.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F22",
+    "id": "phuket",
+    "name": "普吉岛",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-phuket.jpg",
+    "object_key": "destinations-20260927/city-phuket.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-phuket.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F23",
+    "id": "tokyo",
+    "name": "东京",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-tokyo.jpg",
+    "object_key": "destinations-20260927/city-tokyo.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-tokyo.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F24",
+    "id": "kyoto",
+    "name": "京都",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-kyoto.jpg",
+    "object_key": "destinations-20260927/city-kyoto.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-kyoto.jpg"
+  },
+  {
+    "sheet": "Cities",
+    "cell": "F25",
+    "id": "osaka",
+    "name": "大阪",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/city-osaka.jpg",
+    "object_key": "destinations-20260927/city-osaka.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/city-osaka.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F2",
+    "id": "mel-transfer",
+    "name": "墨尔本接送机",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-mel-transfer.jpg",
+    "object_key": "destinations-20260927/route-mel-transfer.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-mel-transfer.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F3",
+    "id": "mel-city",
+    "name": "墨尔本市区游",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-mel-city.jpg",
+    "object_key": "destinations-20260927/route-mel-city.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-mel-city.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F4",
+    "id": "mel-ocean",
+    "name": "大洋路",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-mel-ocean.jpg",
+    "object_key": "destinations-20260927/route-mel-ocean.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-mel-ocean.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F5",
+    "id": "mel-phillip",
+    "name": "企鹅岛",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-mel-phillip.jpg",
+    "object_key": "destinations-20260927/route-mel-phillip.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-mel-phillip.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F6",
+    "id": "mel-wine",
+    "name": "雅拉谷酒庄行",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-mel-wine.jpg",
+    "object_key": "destinations-20260927/route-mel-wine.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-mel-wine.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F7",
+    "id": "syd-transfer",
+    "name": "悉尼接送机",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-syd-transfer.jpg",
+    "object_key": "destinations-20260927/route-syd-transfer.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-syd-transfer.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F8",
+    "id": "syd-city",
+    "name": "悉尼市区游",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-syd-city.jpg",
+    "object_key": "destinations-20260927/route-syd-city.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-syd-city.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F9",
+    "id": "syd-bluemt",
+    "name": "蓝山",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-syd-bluemt.jpg",
+    "object_key": "destinations-20260927/route-syd-bluemt.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-syd-bluemt.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F10",
+    "id": "syd-kiama",
+    "name": "卧龙岗",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-syd-kiama.jpg",
+    "object_key": "destinations-20260927/route-syd-kiama.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-syd-kiama.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F11",
+    "id": "adl-transfer",
+    "name": "阿德莱德接送机",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-adl-transfer.jpg",
+    "object_key": "destinations-20260927/route-adl-transfer.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-adl-transfer.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F12",
+    "id": "adl-kangroo",
+    "name": "袋鼠岛",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-adl-kangroo.jpg",
+    "object_key": "destinations-20260927/route-adl-kangroo.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-adl-kangroo.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F13",
+    "id": "adl-barossa",
+    "name": "巴罗萨酒庄",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-adl-barossa.jpg",
+    "object_key": "destinations-20260927/route-adl-barossa.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-adl-barossa.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F14",
+    "id": "adl-pinklake",
+    "name": "粉湖",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-adl-pinklake.jpg",
+    "object_key": "destinations-20260927/route-adl-pinklake.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-adl-pinklake.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F15",
+    "id": "bj-3days",
+    "name": "北京三日游",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-bj-3days.jpg",
+    "object_key": "destinations-20260927/route-bj-3days.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-bj-3days.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F16",
+    "id": "sh-3days",
+    "name": "上海三日游",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-sh-3days.jpg",
+    "object_key": "destinations-20260927/route-sh-3days.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-sh-3days.jpg"
+  },
+  {
+    "sheet": "Routes",
+    "cell": "F17",
+    "id": "xa-3days",
+    "name": "西安三日游",
+    "old_url": "",
+    "local_file": "/tmp/sylvan-r2-upload-20260927/route-xa-3days.jpg",
+    "object_key": "destinations-20260927/route-xa-3days.jpg",
+    "image_url": "https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/destinations-20260927/route-xa-3days.jpg"
+  }
+]
