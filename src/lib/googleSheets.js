@@ -5,48 +5,27 @@ const getSheetUrl = (tabName) => {
   return `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(tabName)}&cachebuster=${timestamp}`;
 };
 
-function parseCSV(csvText) {
-  const lines = csvText.split(/\r?\n/);
-  if (lines.length === 0) return [];
-
-  const headers = lines[0].split(',').map(h => h.replace(/^"|"$/g, '').trim());
-  
-  const result = [];
-  for (let i = 1; i < lines.length; i++) {
-    const line = lines[i].trim();
-    if (!line) continue;
-    
-    const values = [];
-    let current = '';
-    let inQuotes = false;
-    for (let char of line) {
-      if (char === '"') inQuotes = !inQuotes;
-      else if (char === ',' && !inQuotes) {
-        values.push(current.trim());
-        current = '';
-      } else {
-        current += char;
-      }
-    }
-    values.push(current.trim());
-
-    const record = {};
-    headers.forEach((header, index) => {
-      let val = values[index] || '';
-      // 清洗链接：移除可能存在的引号、空格或不可见字符
-      val = val.replace(/^"|"$/g, '').trim();
-      record[header] = val;
-    });
-    result.push(record);
-  }
-  return result;
+export function parseCSV(text) {
+ const rows = []; let row = [], value = '', quoted = false;
+ for (let i = 0; i < text.length; i++) {
+  const c = text[i];
+  if (c === '"') { if (quoted && text[i+1] === '"') { value += '"'; i++; } else quoted = !quoted; }
+  else if (c === ',' && !quoted) { row.push(value.trim()); value = ''; }
+  else if ((c === '\n' || c === '\r') && !quoted) { if(c === '\r' && text[i+1] === '\n') i++; row.push(value.trim()); rows.push(row); row=[]; value=''; }
+  else value += c;
+ }
+ if(quoted) throw new Error('Unclosed CSV quote');
+ row.push(value.trim()); rows.push(row);
+ const headers = rows.shift() || [];
+ return rows.filter(row => row.some(Boolean)).map(row => Object.fromEntries(headers.flatMap((h,i) => h ? [[h.replace(/^\uFEFF/, ''), row[i] || '']] : [])));
 }
 
 export async function getSheetData(tabName) {
   try {
-    const response = await fetch(getSheetUrl(tabName));
+    const response = await fetch(getSheetUrl(tabName), {signal: AbortSignal.timeout(15000)});
     if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
     const csvText = await response.text();
+    if (/^\s*</.test(csvText)) throw new Error('Expected CSV, received HTML');
     return parseCSV(csvText);
   } catch (error) {
     console.error(`Error fetching ${tabName} sheet:`, error);
@@ -55,11 +34,26 @@ export async function getSheetData(tabName) {
 }
 
 export async function getCountries() {
-  return await getSheetData('Countries');
+  const rows = await getSheetData('Countries');
+  if (!rows.length) throw new Error('Countries data unavailable');
+  return rows.filter(row => row.country_id).map(row => ({...row, country_name: row.country_name || (row.country_id === 'newzealand' ? '新西兰' : row.country_id)}));
+}
+
+export async function getActivities() {
+  const rows = await getSheetData('activity');
+  const activities = rows.filter(row => row.index_id === 'activities' && row.activity_id && row.activity_name);
+  if (!activities.length) throw new Error('activity sheet has no valid activities');
+  const ids = new Set();
+  for (const activity of activities) {
+    if (ids.has(activity.activity_id)) throw new Error(`Duplicate activity_id: ${activity.activity_id}`);
+    ids.add(activity.activity_id);
+  }
+  return activities;
 }
 
 export async function getCities(countryId) {
-  const allCities = await getSheetData('Cities');
+  const allCities = (await getSheetData('Cities')).filter(row => row.city_id && row.country_id);
+  if (!allCities.length) throw new Error('Cities data unavailable');
   if (!countryId) return allCities;
   return allCities.filter(city => city.country_id === countryId);
 }
@@ -67,5 +61,5 @@ export async function getCities(countryId) {
 export async function getRoutes(cityId) {
   const allRoutes = await getSheetData('Routes');
   if (!cityId) return allRoutes;
-  return allRoutes.filter(route => route.city_id === cityId);
+  return allRoutes.filter(route => route.city_id.replace(/[‘’]/g, "'") === cityId.replace(/[‘’]/g, "'"));
 }

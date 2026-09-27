@@ -1,0 +1,11 @@
+---
+const {name, description, image, href, detail} = Astro.props;
+---
+<a href={href} class="block rounded-2xl border border-base-300 bg-base-100 shadow-sm hover:shadow-lg transition-shadow overflow-hidden">
+{image && <img src={image} alt={name} class="w-full aspect-[4/3] object-contain" loading="lazy" />}
+<div class="p-8">
+<h2 class="text-2xl font-bold text-sylvan-blue mb-4">{name}</h2>
+{description && <p class="leading-relaxed whitespace-pre-line break-words mb-4">{description}</p>}
+{detail && <p class="text-sm opacity-60">{detail}</p>}
+</div>
+</a>

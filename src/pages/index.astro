@@ -28,7 +28,7 @@ const services = finalData.map((item, index) => {
     id: item.id || index,
     index_name1: item.index_name1 || item.标题 || '未知服务', 
     description1: item.description1 || item.描述 || '暂无描述', 
-    path: pathMap[item.index_name1] || pathMap[item.标题] || '#', 
+    path: ({ destination: '/countries/', activities: '/activities', transport: '/transport', guide: '/guide' })[item.index_id] || pathMap[item.index_name1] || pathMap[item.标题] || '#', 
     img: imageUrl || 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=80' 
   };
 });

@@ -1,0 +1,26 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getActivities } from '../../lib/googleSheets';
+export async function getStaticPaths() {
+  const activities = await getActivities();
+  return activities.map(activity => ({
+    params: { activity: activity.activity_id },
+    props: { activityInfo: activity }
+  }));
+}
+const { activityInfo } = Astro.props;
+---
+<Layout title={activityInfo.seo_title || `${activityInfo.activity_name} - Sylvan Travel`}>
+  <section class="max-w-5xl mx-auto px-6 py-16">
+    <nav aria-label="面包屑" class="break-words">
+      <a href="/">首页</a> / <a href="/activities/">活动</a> / {activityInfo.activity_name}
+    </nav>
+    <h1 class="text-3xl md:text-5xl font-bold text-sylvan-blue mt-8 mb-8 break-words">{activityInfo.activity_name}</h1>
+    {activityInfo.description ? (
+      <p class="text-lg leading-relaxed whitespace-pre-line break-words">{activityInfo.description}</p>
+    ) : (
+      <p class="bg-base-200 rounded-2xl p-8 leading-relaxed">相关活动与行程信息正在整理中。</p>
+    )}
+    <a href="/activities/" class="inline-block mt-10 text-sylvan-blue underline">返回全部活动</a>
+  </section>
+</Layout>

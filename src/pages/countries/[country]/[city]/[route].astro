@@ -1,17 +1,15 @@
 ---
 import Layout from '../../../../layouts/Layout.astro';
-import { getRoutes } from '../../../../lib/googleSheets';
+import { getRoutes, getCities } from '../../../../lib/googleSheets';
 
 export async function getStaticPaths() {
   const routes = await getRoutes();
-  return routes.map(route => ({
-    params: { 
-      country: 'australia', // simplified for demo, should be linked to data
-      city: route.city_id, 
-      route: route.route_id 
-    },
-    props: { routeInfo: route }
-  }));
+  const cities = await getCities();
+  return routes.flatMap(route => {
+    const city = cities.find(city => city.city_id.replace(/[‘’]/g, "'") === route.city_id.replace(/[‘’]/g, "'"));
+    if (!city) throw new Error(`Unknown city for route ${route.route_id}`);
+    return [{params: {country: city.country_id, city: city.city_id, route: route.route_id}, props: {routeInfo: route}}];
+  });
 }
 
 const { country, city, route } = Astro.params;
@@ -31,7 +29,7 @@ const { routeInfo } = Astro.props;
 
         <section class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
             <div class="rounded-3xl overflow-hidden shadow-2xl">
-                <img src={`https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/${route.route_id}.jpg`} 
+                <img src={`https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev/${routeInfo.route_id}.jpg`} 
                      class="w-full h-full object-cover" 
                      onerror="this.src='https://placehold.co/800x600?text=Route+Image'" />
             </div>
