@@ -19,7 +19,7 @@ const base = `/countries/${encodeURIComponent(cityInfo.country_id)}`;
 {(cityInfo.image_url || cityInfo.url) && <img src={cityInfo.image_url || cityInfo.url} alt={cityInfo.city_name} class="w-full max-w-2xl h-auto my-8" />}
 <h2 class="text-2xl font-bold text-sylvan-blue mt-12 mb-8">推荐路线</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-{routes.map(route => <DestinationCard name={route.route_name} description={route.description} image={route.image_url || route.url} href={`${base}/${encodeURIComponent(cityInfo.city_id)}/${encodeURIComponent(route.route_id)}/`} detail={[route.duration,route.price].filter(Boolean).join(' · ')} />)}
+{routes.map(route => <DestinationCard name={route.route_name} description={route.description} image={route.image_url || route.url} href={`${base}/${encodeURIComponent(cityInfo.city_id)}/${encodeURIComponent(route.route_id)}/`} detail={[route.duration,route.price ? `${route.price} 澳元起` : ''].filter(Boolean).join(' · ')} />)}
 </div>
 {!routes.length && <p class="p-8 rounded-2xl bg-base-200">该城市的旅行路线正在整理中。</p>}
 </section>

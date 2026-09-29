@@ -23,7 +23,7 @@ const imageUrl = routeInfo.image_url || routeInfo.url;
                 {routeInfo.route_name}
             </h1>
             <p class="text-lg md:text-xl opacity-70 max-w-2xl mx-auto leading-relaxed">
-                目的地: {city} | 时长: {routeInfo.duration} | 报价: {routeInfo.price}
+                目的地: {city} | 时长: {routeInfo.duration}{routeInfo.price && ` | 报价: ${routeInfo.price} 澳元起`}
             </p>
             <div class="w-24 h-1.5 bg-sylvan-gold mx-auto mt-8 rounded-full"></div>
         </div>
