@@ -9,7 +9,7 @@ const cities = await getCities();
 <section class="max-w-7xl mx-auto px-6 py-16">
 <h1 class="text-4xl font-bold text-sylvan-blue mb-10">选择您的目的地</h1>
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-{countries.map(country => <DestinationCard name={country.country_name} description={country.description} image={country.url} href={`/countries/${encodeURIComponent(country.country_id)}/`} detail={`${cities.filter(city => city.country_id === country.country_id).length} 个目的地`} />)}
+{countries.map(country => <DestinationCard name={country.country_name} description={country.description} image={country.image_url || country.url} href={`/countries/${encodeURIComponent(country.country_id)}/`} detail={`${cities.filter(city => city.country_id === country.country_id).length} 个目的地`} />)}
 </div>
 </section>
 </Layout>

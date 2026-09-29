@@ -13,9 +13,10 @@ const {countryInfo, cities} = Astro.props;
 <section class="max-w-7xl mx-auto px-6 py-16">
 <a href="/countries/" class="text-sylvan-blue">全部目的地</a>
 <h1 class="text-4xl font-bold text-sylvan-blue mt-8 mb-6">{countryInfo.country_name}</h1>
+{(countryInfo.image_url || countryInfo.url) && <img src={countryInfo.image_url || countryInfo.url} alt={countryInfo.country_name} class="w-full max-w-2xl h-auto my-8" />}
 {countryInfo.description && <p class="whitespace-pre-line leading-relaxed mb-8">{countryInfo.description}</p>}
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-10">
-{cities.map(city => <DestinationCard name={city.city_name} description={city.description} image={city.url || city.image_url} href={`/countries/${encodeURIComponent(city.country_id)}/${encodeURIComponent(city.city_id)}/`} />)}
+{cities.map(city => <DestinationCard name={city.city_name} description={city.description} image={city.image_url || city.url} href={`/countries/${encodeURIComponent(city.country_id)}/${encodeURIComponent(city.city_id)}/`} />)}
 </div>
 {!cities.length && <p class="p-8 mt-8 rounded-2xl bg-base-200">该目的地的城市与行程正在整理中。</p>}
 </section>
