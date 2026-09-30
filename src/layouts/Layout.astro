@@ -41,21 +41,21 @@ const { title } = Astro.props;
     </main>
 
     <!-- Footer -->
-    <footer class="footer p-10 bg-neutral text-neutral-content border-t border-base-300">
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-10 w-full max-w-6xl mx-auto">
-            <nav>
+    <footer class="px-4 py-10 md:px-10 bg-neutral text-neutral-content border-t border-base-300">
+        <div class="grid grid-cols-3 gap-4 md:gap-10 w-full max-w-6xl mx-auto">
+            <nav class="flex min-w-0 flex-col items-start gap-2">
                 <h6 class="footer-title opacity-100 font-bold mb-4">公司信息</h6> 
                 <a class="link link-hover">关于我们</a>
                 <a class="link link-hover">加入我们</a>
             </nav> 
-            <nav>
+            <nav class="flex min-w-0 flex-col items-start gap-2">
                 <h6 class="footer-title opacity-100 font-bold mb-4">支持中心</h6> 
                 <a class="link link-hover">联系我们</a>
                 <a class="link link-hover">隐私条款</a>
             </nav> 
-            <nav>
+            <nav class="flex min-w-0 flex-col items-start gap-2">
                 <h6 class="footer-title opacity-100 font-bold mb-4">法律声明</h6> 
-                <p class="text-sm opacity-70">© 2026 Sylvan Travel. All rights reserved.</p>
+                <p class="text-sm opacity-70 break-words">© 2026 Sylvan Travel. All rights reserved.</p>
             </nav>
         </div>
     </footer>
