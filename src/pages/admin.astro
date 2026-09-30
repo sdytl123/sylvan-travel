@@ -64,7 +64,7 @@ const R2_PUBLIC_URL = 'https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev';
         generateBtn.addEventListener('click', () => {
             const name = fileNameInput.value.trim();
             if (!name) {
-                alert('请输入文件名！');
+                alert(document.documentElement.lang === 'en' ? 'Please enter a filename.' : '请输入文件名！');
                 return;
             }
 
@@ -77,8 +77,8 @@ const R2_PUBLIC_URL = 'https://pub-56ec7efdbdce49a488b2d78889791317.r2.dev';
         copyBtn.addEventListener('click', () => {
             urlOutput.select();
             document.execCommand('copy');
-            copyBtn.innerText = '已复制！';
-            setTimeout(() => copyBtn.innerText = '复制链接', 2000);
+            copyBtn.innerText = document.documentElement.lang === 'en' ? 'Copied!' : '已复制！';
+            setTimeout(() => copyBtn.innerText = document.documentElement.lang === 'en' ? 'Copy Link' : '复制链接', 2000);
         });
     </script>
 </Layout>
